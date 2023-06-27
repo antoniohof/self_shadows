@@ -31,6 +31,17 @@
       },
       "url": "https://packages.unity.com"
     },
+    "com.unity.barracuda": {
+      "version": "2.0.0",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.burst": "1.6.0",
+        "com.unity.modules.jsonserialize": "1.0.0",
+        "com.unity.modules.imageconversion": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.burst": {
       "version": "1.8.4",
       "depth": 1,
@@ -218,6 +229,15 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
+    "com.unity.visualeffectgraph": {
+      "version": "12.1.12",
+      "depth": 1,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.shadergraph": "12.1.12",
+        "com.unity.render-pipelines.core": "12.1.12"
+      }
+    },
     "com.unity.visualscripting": {
       "version": "1.8.0",
       "depth": 0,
@@ -306,6 +326,88 @@
         "com.unity.inputsystem": "1.4.4"
       },
       "url": "https://packages.unity.com"
+    },
+    "jp.ikep.mediapipe.blazepose": {
+      "version": "https://github.com/creativeIKEP/BlazePoseBarracuda.git?path=Packages/BlazePoseBarracuda#v1.3.0",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "jp.ikep.mediapipe.posedetection": "1.0.1",
+        "jp.ikep.mediapipe.poselandmark": "1.1.1"
+      },
+      "hash": "809c62bd49f7783f84a36e75a992c5226908cb19"
+    },
+    "jp.ikep.mediapipe.posedetection": {
+      "version": "https://github.com/creativeIKEP/PoseDetectionBarracuda.git?path=Packages/PoseDetectionBarracuda#v1.0.1",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.barracuda": "2.0.0-pre.3"
+      },
+      "hash": "21c7f9864253dafd02763053910f0b74d89775b0"
+    },
+    "jp.ikep.mediapipe.poselandmark": {
+      "version": "https://github.com/creativeIKEP/PoseLandmarkBarracuda.git?path=Packages/PoseLandmarkBarracuda#v1.1.1",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.barracuda": "2.0.0-pre.3"
+      },
+      "hash": "6a3659339ef1e9052f759738acf57830e0141282"
+    },
+    "jp.keijiro.akvfx": {
+      "version": "1.0.4",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "org.nuget.system.memory": "4.5.3",
+        "org.nuget.microsoft.azure.kinect.sensor": "1.4.1",
+        "com.unity.mathematics": "1.1.0",
+        "com.unity.visualeffectgraph": "7.3.1"
+      },
+      "url": "https://registry.npmjs.com"
+    },
+    "org.nuget.microsoft.azure.kinect.sensor": {
+      "version": "1.4.1",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "org.nuget.system.numerics.vectors": "4.5.0",
+        "org.nuget.system.memory": "4.5.3"
+      },
+      "url": "https://unitynuget-registry.azurewebsites.net"
+    },
+    "org.nuget.system.buffers": {
+      "version": "4.4.0",
+      "depth": 2,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://unitynuget-registry.azurewebsites.net"
+    },
+    "org.nuget.system.memory": {
+      "version": "4.5.3",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "org.nuget.system.buffers": "4.4.0",
+        "org.nuget.system.numerics.vectors": "4.4.0",
+        "org.nuget.system.runtime.compilerservices.unsafe": "4.5.2"
+      },
+      "url": "https://unitynuget-registry.azurewebsites.net"
+    },
+    "org.nuget.system.numerics.vectors": {
+      "version": "4.5.0",
+      "depth": 2,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://unitynuget-registry.azurewebsites.net"
+    },
+    "org.nuget.system.runtime.compilerservices.unsafe": {
+      "version": "4.5.2",
+      "depth": 2,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://unitynuget-registry.azurewebsites.net"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
