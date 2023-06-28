@@ -19,6 +19,8 @@ public class LogObject : MonoBehaviour
 
     public GameObject handR;
     public GameObject handL;
+
+    bool inside = false;
     void Start()
     {
 
@@ -39,7 +41,7 @@ public class LogObject : MonoBehaviour
             grabChecker = 0;
             if (distanceToHandR < 0.2f || distanceToHandL < 0.2f)
             {
-                log.writeMessageWithTimestampToLog("object " + gameObject.name + " was grabbed");
+                log.writeMessageWithTimestampToLog("object " + gameObject.name + " is being grabbed");
                 Debug.Log("grabbed!"); 
             }
             lastDistance = distance;
@@ -49,15 +51,16 @@ public class LogObject : MonoBehaviour
         if (distance < 2.5f)
         {
             checker++;
+            if (!inside) {
+                log.writeMessageWithTimestampToLog("object" + gameObject.name + " distance to box:" + distance.ToString());
+            }
 
-            log.writeMessageWithTimestampToLog("object" + gameObject.name + " distance to box:" + distance.ToString());
-
-
-            if (checker > 200)
+            if (checker > 20)
             {
-                if (distance < 1.7f)
+                if (distance < 1.0f)
                 {
                     log.writeMessageWithTimestampToLog("object" + gameObject.name + " inside box");
+                    inside = true;
                 }
                 checker = 0;
             }
