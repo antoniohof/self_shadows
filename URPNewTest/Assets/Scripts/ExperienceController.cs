@@ -15,6 +15,8 @@ public class ExperienceController : MonoBehaviour
     public int subjectID = 0;
 
     public bool studyToggle = false;
+    public ShadowType shadowType;
+
 
     public GameObject leftEye;
     public GameObject rightEye;
@@ -26,7 +28,6 @@ public class ExperienceController : MonoBehaviour
 
     public float timestamp = 0.0f;
 
-    public ShadowType shadowType;
     public bool isLookingAtShadow = false;
     public string lookingObjectName = "Nothing";
 
@@ -34,10 +35,14 @@ public class ExperienceController : MonoBehaviour
     public GameObject debugPrefab;
 
 
+    public GameObject kinectPointCloud;
+    public GameObject avatarBody;
+    
+
+
     // Start is called before the first frame update
     void Start()
     {
-        shadowType = ShadowType.None;
     }
 
     // Update is called once per frame
@@ -71,6 +76,21 @@ public class ExperienceController : MonoBehaviour
         // start logging TODO
         log.writeMessageWithTimestampToLog("study with shadow type:" + shadowType.ToString());
 
+        if (shadowType == ShadowType.None)
+        {
+            kinectPointCloud.SetActive(false); 
+            avatarBody.SetActive(false);
+        }
+        if (shadowType == ShadowType.Avatar)
+        {
+            kinectPointCloud.SetActive(false);
+            avatarBody.SetActive(true);
+        }
+        if (shadowType == ShadowType.Kinect)
+        {
+            kinectPointCloud.SetActive(true);
+            avatarBody.SetActive(false);
+        }
     }
 
 
@@ -143,6 +163,8 @@ public class ExperienceController : MonoBehaviour
     public void finishStudy ()
     {
         isRunning = false;
+        log.writeMessageWithTimestampToLog("study ended");
+
     }
 
     private void OnDrawGizmos()

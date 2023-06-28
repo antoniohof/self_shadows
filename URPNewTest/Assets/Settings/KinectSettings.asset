@@ -19,8 +19,8 @@ MonoBehaviour:
   _brightness: 0.5
   _contrast: 0.5
   _saturation: 0.5
-  _sharpness: 0.5
+  _sharpness: 0.506
   _gain: 1
   _enableBlc: 0
   _powerIs60Hz: 1
-  _maxDepth: 6.6
+  _maxDepth: 3.16
