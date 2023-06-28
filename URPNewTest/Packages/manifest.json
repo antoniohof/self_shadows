@@ -21,6 +21,7 @@
     "jp.ikep.mediapipe.blazepose": "https://github.com/creativeIKEP/BlazePoseBarracuda.git?path=Packages/BlazePoseBarracuda#v1.3.0",
     "jp.ikep.mediapipe.posedetection": "https://github.com/creativeIKEP/PoseDetectionBarracuda.git?path=Packages/PoseDetectionBarracuda#v1.0.1",
     "jp.ikep.mediapipe.poselandmark": "https://github.com/creativeIKEP/PoseLandmarkBarracuda.git?path=Packages/PoseLandmarkBarracuda#v1.1.1",
+    "jp.keijiro.akvfx": "1.0.4",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
@@ -51,19 +52,22 @@
     "com.unity.modules.video": "1.0.0",
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
-    "com.unity.modules.xr": "1.0.0",
-    "jp.keijiro.akvfx": "1.0.4"
+    "com.unity.modules.xr": "1.0.0"
   },
   "scopedRegistries": [
     {
       "name": "Unity NuGet",
       "url": "https://unitynuget-registry.azurewebsites.net",
-      "scopes": [ "org.nuget" ]
+      "scopes": [
+        "org.nuget"
+      ]
     },
     {
       "name": "Keijiro",
       "url": "https://registry.npmjs.com",
-      "scopes": [ "jp.keijiro" ]
+      "scopes": [
+        "jp.keijiro"
+      ]
     }
   ]
 }
