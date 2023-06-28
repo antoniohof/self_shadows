@@ -83,7 +83,7 @@ public class ExperienceController : MonoBehaviour
         if (Physics.Raycast(leftEye.transform.position, dirLeft, out hitLeft, 1000))
         {
             Debug.DrawRay(leftEye.transform.position, dirLeft * hitLeft.distance, Color.green);
-            Debug.Log("Did Hit");
+            Debug.Log("Did Hit: " + hitLeft.collider.gameObject.name);
             if (timerToSpawn > 0.1f)
             {
                 Instantiate(debugPrefab, hitLeft.point, Quaternion.identity);
@@ -103,7 +103,7 @@ public class ExperienceController : MonoBehaviour
         if (Physics.Raycast(rightEye.transform.position, dirRight, out hitRight, 1000, LayerMask.NameToLayer("collidable")))
         {
             Debug.DrawRay(rightEye.transform.position, dirRight * hitRight.distance, Color.green);
-            Debug.Log("Did Hit");
+            Debug.Log("Did Hit: " + hitRight.collider.gameObject.name);
 
             if (timerToSpawn > 0.1f)
             {
