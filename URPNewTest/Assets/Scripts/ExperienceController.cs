@@ -12,23 +12,25 @@ public enum ShadowType
 
 public class ExperienceController : MonoBehaviour
 {
-
-    public GameObject leftEye;
-    public GameObject rightEye;
-
-
     public int subjectID = 0;
 
     public bool studyToggle = false;
+
+    public GameObject leftEye;
+    public GameObject rightEye;
+    public LoggingSystem log;
+
+
     public bool isRunning = false;
 
 
     public float timestamp = 0.0f;
 
     public ShadowType shadowType;
+    public bool isLookingAtShadow = false;
+    public string lookingObjectName = "Nothing";
 
-
-    private float timerToSpawn = 0.0f;
+    private float timeToLog = 0.0f;
     public GameObject debugPrefab;
 
 
@@ -72,7 +74,7 @@ public class ExperienceController : MonoBehaviour
 
     public void updateStudy()
     {
-        timerToSpawn += Time.deltaTime;
+        timeToLog += Time.deltaTime;
 
         RaycastHit hitLeft;
         // Does the ray intersect any objects excluding the player layer
@@ -83,15 +85,25 @@ public class ExperienceController : MonoBehaviour
         if (Physics.Raycast(leftEye.transform.position, dirLeft, out hitLeft, 1000))
         {
             Debug.DrawRay(leftEye.transform.position, dirLeft * hitLeft.distance, Color.green);
-            Debug.Log("Did Hit: " + hitLeft.collider.gameObject.name);
-            if (timerToSpawn > 0.1f)
+            var name = hitLeft.collider.gameObject.name;
+            log.writeMessageWithTimestampToLog("looked at" + name);
+
+            if (name == "Shadow")
             {
-                Instantiate(debugPrefab, hitLeft.point, Quaternion.identity);
-                timerToSpawn = 0;
+                isLookingAtShadow = true;
+            } else
+            {
+                isLookingAtShadow = false;
+            }
+            lookingObjectName = name;
+
+            if (timeToLog > 0.1f)
+            {
+                //Instantiate(debugPrefab, hitLeft.point, Quaternion.identity);
+                timeToLog = 0;
             }
         } else
         {
-            Debug.Log("no hit");
         }
         
         // Vector3 dirRight2 = rightEye.GetComponent<OVREyeGaze>().publicPose.orientation.ToEuler();
@@ -103,17 +115,25 @@ public class ExperienceController : MonoBehaviour
         if (Physics.Raycast(rightEye.transform.position, dirRight, out hitRight, 1000, LayerMask.NameToLayer("collidable")))
         {
             Debug.DrawRay(rightEye.transform.position, dirRight * hitRight.distance, Color.green);
-            Debug.Log("Did Hit: " + hitRight.collider.gameObject.name);
-
-            if (timerToSpawn > 0.1f)
+            var name = hitRight.collider.gameObject.name;
+            if (name == "Shadow")
             {
-                Instantiate(debugPrefab, hitRight.point, Quaternion.identity);
-                timerToSpawn = 0;
+                isLookingAtShadow = true;
+            } else
+            {
+                isLookingAtShadow = false;
+            }
+            lookingObjectName = name;
+            log.writeMessageWithTimestampToLog("looked at: " + name);
+
+            if (timeToLog > 0.1f)
+            {
+                //Instantiate(debugPrefab, hitRight.point, Quaternion.identity);
+                timeToLog = 0;
             }
         }
         else
         {
-            Debug.Log("no hit");
         }
     }
 
