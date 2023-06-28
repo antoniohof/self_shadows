@@ -62,6 +62,9 @@ public class OVREyeGaze : MonoBehaviour
 
     private OVRPlugin.EyeGazesState _currentEyeGazesState;
 
+
+    public OVRPose publicPose;
+
     /// <summary>
     /// Reference frame for eye. If it's null, then world reference frame will be used.
     /// </summary>
@@ -171,6 +174,7 @@ public class OVREyeGaze : MonoBehaviour
         {
             case EyeTrackingMode.HeadSpace:
                 pose = pose.ToHeadSpacePose();
+                publicPose = pose;
                 break;
             case EyeTrackingMode.WorldSpace:
                 pose = pose.ToWorldSpacePose(Camera.main);

@@ -74,15 +74,17 @@ public class ExperienceController : MonoBehaviour
     {
         timerToSpawn += Time.deltaTime;
 
-        var result = Physics.RaycastAll(leftEye.transform.position, transform.TransformDirection(Vector3.right));
-        Debug.Log(result.ToString());
         RaycastHit hitLeft;
         // Does the ray intersect any objects excluding the player layer
-        if (Physics.Raycast(leftEye.transform.position, transform.TransformDirection(Vector3.right), out hitLeft, 1000))
+        var dirLeft = leftEye.transform.TransformDirection(Vector3.left);
+        // Vector3 dirLeft2 = rightEye.GetComponent<OVREyeGaze>().publicPose.orientation.ToEuler();
+
+        dirLeft.y -= 0.18f;
+        if (Physics.Raycast(leftEye.transform.position, dirLeft, out hitLeft, 1000))
         {
-            Debug.DrawRay(transform.position, transform.TransformDirection(Vector3.right) * hitLeft.distance, Color.green);
+            Debug.DrawRay(leftEye.transform.position, dirLeft * hitLeft.distance, Color.green);
             Debug.Log("Did Hit");
-            if (timerToSpawn > 0.2f)
+            if (timerToSpawn > 0.1f)
             {
                 Instantiate(debugPrefab, hitLeft.point, Quaternion.identity);
                 timerToSpawn = 0;
@@ -91,16 +93,19 @@ public class ExperienceController : MonoBehaviour
         {
             Debug.Log("no hit");
         }
-
+        
+        // Vector3 dirRight2 = rightEye.GetComponent<OVREyeGaze>().publicPose.orientation.ToEuler();
 
         RaycastHit hitRight;
         // Does the ray intersect any objects excluding the player layer
-        if (Physics.Raycast(leftEye.transform.position, transform.TransformDirection(Vector3.left), out hitRight, 1000, LayerMask.NameToLayer("collidable")))
+        var dirRight = rightEye.transform.TransformDirection(Vector3.right);
+        dirRight.y -= 0.18f;
+        if (Physics.Raycast(rightEye.transform.position, dirRight, out hitRight, 1000, LayerMask.NameToLayer("collidable")))
         {
-            Debug.DrawRay(transform.position, transform.TransformDirection(Vector3.left) * hitRight.distance, Color.green);
+            Debug.DrawRay(rightEye.transform.position, dirRight * hitRight.distance, Color.green);
             Debug.Log("Did Hit");
 
-            if (timerToSpawn > 0.2f)
+            if (timerToSpawn > 0.1f)
             {
                 Instantiate(debugPrefab, hitRight.point, Quaternion.identity);
                 timerToSpawn = 0;

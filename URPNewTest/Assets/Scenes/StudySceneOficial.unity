@@ -249,6 +249,14 @@ PrefabInstance:
       propertyPath: _hand
       value: 
       objectReference: {fileID: 1611707503}
+    - target: {fileID: 7147530562734519489, guid: 2487a3ae4f1630d439ce4a3e9ac03c7b, type: 3}
+      propertyPath: _externalVelocityInfluence
+      value: 0.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 7147530562734519489, guid: 2487a3ae4f1630d439ce4a3e9ac03c7b, type: 3}
+      propertyPath: _bufferingParams.BufferLengthSeconds
+      value: 0.3
+      objectReference: {fileID: 0}
     - target: {fileID: 7147530562734519490, guid: 2487a3ae4f1630d439ce4a3e9ac03c7b, type: 3}
       propertyPath: m_Name
       value: HandVelocityCalculator
@@ -1020,6 +1028,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1156043383080751537, guid: 566315f3a83d28341a878d894d4feca3, type: 3}
+      propertyPath: m_CastShadows
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1618142723323166206, guid: 566315f3a83d28341a878d894d4feca3, type: 3}
+      propertyPath: m_CastShadows
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 2313287994174387476, guid: 566315f3a83d28341a878d894d4feca3, type: 3}
       propertyPath: m_Layer
       value: 0
@@ -1055,6 +1071,14 @@ PrefabInstance:
     - target: {fileID: 4905435358328126617, guid: 566315f3a83d28341a878d894d4feca3, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7224839428542459285, guid: 566315f3a83d28341a878d894d4feca3, type: 3}
+      propertyPath: m_CastShadows
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7834467477474510170, guid: 566315f3a83d28341a878d894d4feca3, type: 3}
+      propertyPath: m_CastShadows
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 566315f3a83d28341a878d894d4feca3, type: 3}
@@ -4576,6 +4600,14 @@ PrefabInstance:
       propertyPath: _hand
       value: 
       objectReference: {fileID: 1611707505}
+    - target: {fileID: 7147530562734519489, guid: 2487a3ae4f1630d439ce4a3e9ac03c7b, type: 3}
+      propertyPath: _externalVelocityInfluence
+      value: 0.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 7147530562734519489, guid: 2487a3ae4f1630d439ce4a3e9ac03c7b, type: 3}
+      propertyPath: _bufferingParams.BufferLengthSeconds
+      value: 0.3
+      objectReference: {fileID: 0}
     - target: {fileID: 7147530562734519490, guid: 2487a3ae4f1630d439ce4a3e9ac03c7b, type: 3}
       propertyPath: m_Name
       value: HandVelocityCalculator
