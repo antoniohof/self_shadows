@@ -69,6 +69,8 @@ public class ExperienceController : MonoBehaviour
         timestamp = 0.0f;
 
         // start logging TODO
+        log.writeMessageWithTimestampToLog("study with shadow type:" + shadowType.ToString());
+
     }
 
 
