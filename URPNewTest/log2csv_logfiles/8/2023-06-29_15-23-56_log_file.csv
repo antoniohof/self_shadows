@@ -1,0 +1,5582 @@
+0;Start Study - Logging, ID: 8
+0;Initial time :29.06.2023 15:23:57
+0;study with shadow type:Avatar
+0,0121899;looked atTable2
+0,0261951;looked atTable2
+0,0335621;looked atTable2
+0,0440776;looked atTable2
+0,0562395;looked atTable2
+0,0693097;looked atTable2
+0,0786773;looked atTable2
+0,0900382;looked atTable2
+0,09988149;looked atTable2
+0,1111396;looked atTable2
+0,1226832;looked atTable2
+0,1336027;looked atTable2
+0,1447071;looked atTable2
+0,1558897;looked atTable2
+0,1668641;looked atTable2
+0,1783201;looked atTable2
+0,1888299;looked atTable2
+0,2009534;looked atTable2
+0,2114193;looked atTable2
+0,2246136;looked atTable2
+0,234284;looked atTable2
+0,2444172;looked atTable2
+0,2558524;looked atTable2
+0,2672839;looked atTable2
+0,278184;looked atTable2
+0,2890059;looked atTable2
+0,3009205;looked atTable2
+0,3115467;looked atTable2
+0,3225659;looked atTable2
+0,3343983;looked atTable2
+0,3447663;looked atTable2
+0,3564789;looked atTable2
+0,3677218;looked atTable2
+0,3805264;looked atTable2
+0,3901075;looked atTable2
+0,4005987;looked atTable2
+0,411612;looked atTable2
+0,4229222;looked atTable2
+0,4343673;looked atTable2
+0,4449462;looked atTable2
+0,4566226;looked atRoom
+0,4668693;looked atRoom
+0,4785651;looked atRoom
+0,4900977;looked atRoom
+0,5002559;looked atRoom
+0,5116037;looked atRoom
+0,5232518;looked atRoom
+0,5362434;looked atTable2
+0,5450335;looked atTable2
+0,5561225;looked atTable2
+0,5676085;looked atTable2
+0,5786055;looked atTable2
+0,5895906;looked atTable2
+0,6009607;looked atTable2
+0,6118208;looked atTable2
+0,6228814;looked atTable2
+0,6350072;looked atTable2
+0,6450756;looked atTable2
+0,6565652;looked atTable2
+0,6681286;looked atTable2
+0,6786291;looked atBoundsCollider
+0,6929255;looked atBoundsCollider
+0,7008733;looked atBoundsCollider
+0,7114668;looked atConvexHullPart
+0,7228702;looked atBoundsCollider
+0,7343121;looked atBoundsCollider
+0,7449065;looked atBoundsCollider
+0,7566074;looked atBoundsCollider
+0,7674909;looked atBoundsCollider
+0,7790098;looked atBoundsCollider
+0,7901006;looked atTable2
+0,8007942;looked atTable2
+0,8119798;looked atTable2
+0,8234507;looked atBoundsCollider
+0,8341922;looked atBoundsCollider
+0,8488964;looked atTable2
+0,8577538;looked atTable2
+0,8673953;looked atTable2
+0,8787332;looked atTable2
+0,8904604;looked atTable2
+0,9006965;looked atTable2
+0,9119896;looked atTable2
+0,9235565;looked atTable2
+0,934301;looked atTable2
+0,9452016;looked atTable2
+0,9568292;looked atTable2
+0,9679846;looked atTable2
+0,9789208;looked atTable2
+0,9899668;looked atTable2
+1,003959;looked atTable2
+1,012191;looked atTable2
+1,023023;looked atTable2
+1,0348;looked atTable2
+1,045246;looked atTable2
+1,05662;looked atTable2
+1,068122;looked atTable2
+1,078832;looked atTable2
+1,090284;looked atTable2
+1,101511;looked atTable2
+1,112244;looked atTable2
+1,12339;looked atTable2
+1,134904;looked atTable2
+1,146571;looked atTable2
+1,159596;looked atTable2
+1,168078;looked atTable2
+1,178695;looked atTable2
+1,190099;looked atTable2
+1,200977;looked atTable2
+1,212128;looked atTable2
+1,22354;looked atBoundsCollider
+1,234235;looked atBoundsCollider
+1,245525;looked atBoundsCollider
+1,257168;looked atTable2
+1,26748;looked atTable2
+1,278918;looked atTable2
+1,290613;looked atTable2
+1,301024;looked atTable2
+1,314968;looked atTable2
+1,32373;looked atTable2
+1,33447;looked atTable2
+1,345171;looked atTable2
+1,35679;looked atTable2
+1,368286;looked atTable2
+1,37918;looked atTable2
+1,390167;looked atTable2
+1,40159;looked atTable2
+1,41226;looked atTable2
+1,42326;looked atTable2
+1,435205;looked atTable2
+1,445395;looked atTable2
+1,457019;looked atTable2
+1,4706;looked atTable2
+1,481512;looked atTable2
+1,490471;looked atTable2
+1,501764;looked atTable2
+1,512297;looked atTable2
+1,524181;looked atTable2
+1,535121;looked atTable2
+1,545488;looked atTable2
+1,557028;looked atTable2
+1,567834;looked atTable2
+1,57875;looked atTable2
+1,590575;looked atTable2
+1,601537;looked atTable2
+1,612612;looked atTable2
+1,626774;looked atTable2
+1,635215;looked atTable2
+1,645604;looked atTable2
+1,657228;looked atTable2
+1,667582;looked atTable2
+1,679121;looked atTable2
+1,69139;looked atTable2
+1,701261;looked atTable2
+1,712456;looked atTable2
+1,723924;looked atTable2
+1,734459;looked atRoom
+1,745274;looked atRoom
+1,757019;looked atTable2
+1,768276;looked atTable2
+1,781205;looked atTable2
+1,790392;looked atTable2
+1,801719;looked atTable2
+1,812415;looked atTable2
+1,823275;looked atTable2
+1,835224;looked atTable2
+1,845536;looked atTable2
+1,857428;looked atTable2
+1,868567;looked atTable2
+1,879171;looked atTable2
+1,890706;looked atTable2
+1,901655;looked atTable2
+1,912354;looked atTable2
+1,923799;looked atTable2
+1,937382;looked atTable2
+1,945578;looked atTable2
+1,957715;looked atTable2
+1,968144;looked atTable2
+1,979267;looked atTable2
+1,990552;looked atTable2
+2,001351;looked atTable2
+2,012654;looked atTable2
+2,023904;looked atTable2
+2,034702;looked atTable2
+2,045492;looked atTable2
+2,057537;looked atTable2
+2,06788;looked atTable2
+2,079303;looked atTable2
+2,093302;looked atTable2
+2,101241;looked atTable2
+2,112544;looked atTable2
+2,124029;looked atTable2
+2,134907;looked atTable2
+2,146215;looked atTable2
+2,157253;looked atTable2
+2,168705;looked atTable2
+2,179335;looked atTable2
+2,190681;looked atTable2
+2,201862;looked atTable2
+2,21257;looked atTable2
+2,223519;looked atTable2
+2,235691;looked atTable2
+2,248535;looked atTable2
+2,257364;looked atTable2
+2,268629;looked atTable2
+2,279443;looked atTable2
+2,290748;looked atTable2
+2,30168;looked atTable2
+2,312757;looked atTable2
+2,32371;looked atTable2
+2,335174;looked atTable2
+2,345825;looked atTable2
+2,357675;looked atTable2
+2,368233;looked atTable2
+2,379508;looked atTable2
+2,391056;looked atTable2
+2,404145;looked atTable2
+2,412628;looked atTable2
+2,424203;looked atTable2
+2,435035;looked atTable2
+2,445762;looked atTable2
+2,457637;looked atTable2
+2,467958;looked atTable2
+2,479323;looked atTable2
+2,491374;looked atTable2
+2,501265;looked atTable2
+2,512682;looked atTable2
+2,524169;looked atTable2
+2,534935;looked atTable2
+2,545721;looked atTable2
+2,560323;looked atTable2
+2,569309;looked atTable2
+2,579276;looked atTable2
+2,590806;looked atTable2
+2,602097;looked atTable2
+2,612773;looked atTable2
+2,62359;looked atTable2
+2,635669;looked atTable2
+2,645809;looked atTable2
+2,657228;looked atTable2
+2,668644;looked atTable2
+2,679435;looked atTable2
+2,691005;looked atTable2
+2,701852;looked atTable2
+2,714736;looked atTable2
+2,723959;looked atTable2
+2,735419;looked atTable2
+2,745679;looked atTable2
+2,757568;looked atTable2
+2,768231;looked atTable2
+2,779296;looked atTable2
+2,791185;looked atTable2
+2,801401;looked atTable2
+2,8128;looked atTable2
+2,824329;looked atTable2
+2,834908;looked atTable2
+2,845849;looked atTable2
+2,857885;looked atTable2
+2,870324;looked atTable2
+2,879686;looked atTable2
+2,891405;looked atTable2
+2,901284;looked atTable2
+2,912741;looked atTable2
+2,924276;looked atTable2
+2,934922;looked atTable2
+2,945632;looked atTable2
+2,95725;looked atTable2
+2,968727;looked atTable2
+2,979587;looked atTable2
+2,990602;looked atTable2
+3,002226;looked atTable2
+3,013004;looked atTable2
+3,026496;looked atTable2
+3,035684;looked atTable2
+3,045794;looked atTable2
+3,057396;looked atTable2
+3,068949;looked atTable2
+3,079564;looked atTable2
+3,090932;looked atTable2
+3,101822;looked atTable2
+3,112619;looked atTable2
+3,124004;looked atTable2
+3,135294;looked atTable2
+3,146672;looked atTable2
+3,157672;looked atTable2
+3,168237;looked atTable2
+3,18212;looked atTable2
+3,190731;looked atTable2
+3,201684;looked atTable2
+3,212674;looked atTable2
+3,224322;looked atTable2
+3,234832;looked atTable2
+3,245985;looked atTable2
+3,258267;looked atTable2
+3,268127;looked atTable2
+3,27946;looked atTable2
+3,291116;looked atTable2
+3,30144;looked atTable2
+3,31298;looked atTable2
+3,32456;looked atTable2
+3,32456;object ChessPiece Variant (2) is being grabbed
+3,337287;looked atTable2
+3,346264;looked atTable2
+3,35743;looked atTable2
+3,368725;looked atTable2
+3,379483;looked atTable2
+3,390614;looked atTable2
+3,402447;looked atTable2
+3,413109;looked atTable2
+3,423696;looked atTable2
+3,441254;looked atTable2
+3,446098;looked atTable2
+3,458324;looked atTable2
+3,469677;looked atTable2
+3,480424;looked atTable2
+3,494107;looked atTable2
+3,502356;looked atTable2
+3,513066;looked atTable2
+3,524432;looked atTable2
+3,535577;looked atTable2
+3,546086;looked atTable2
+3,557698;looked atTable2
+3,557698;object ChessPiece Variant (2) is being grabbed
+3,557698;object ChessPiece Variant is being grabbed
+3,568531;looked atTable2
+3,57986;looked atTable2
+3,590842;looked atTable2
+3,602103;looked atTable2
+3,612778;looked atTable2
+3,624087;looked atTable2
+3,634914;looked atTable2
+3,648364;looked atTable2
+3,657932;looked atTable2
+3,667934;looked atTable2
+3,679553;looked atTable2
+3,691197;looked atTable2
+3,701254;looked atTable2
+3,712709;looked atTable2
+3,723995;looked atTable2
+3,73494;looked atTable2
+3,74552;looked atTable2
+3,757448;looked atTable2
+3,768542;looked atTable2
+3,77948;looked atTable2
+3,790747;looked atTable2
+3,790747;object ChessPiece Variant (2) is being grabbed
+3,790747;object ChessPiece Variant is being grabbed
+3,790747;object ChessPiece Variant (1) is being grabbed
+3,804289;looked atTable2
+3,813487;looked atTable2
+3,823434;looked atTable2
+3,83562;looked atTable2
+3,845648;looked atTable2
+3,857447;looked atTable2
+3,868567;looked atTable2
+3,879364;looked atTable2
+3,890892;looked atTable2
+3,902654;looked atTable2
+3,912679;looked atTable2
+3,92438;looked atTable2
+3,935459;looked atTable2
+3,945662;looked atTable2
+3,959826;looked atTable2
+3,968539;looked atTable2
+3,979153;looked atTable2
+3,990689;looked atTable2
+4,001647;looked atTable2
+4,012698;looked atTable2
+4,024587;looked atTable2
+4,024587;object ChessPiece Variant (2) is being grabbed
+4,024587;object ChessPiece Variant is being grabbed
+4,024587;object ChessPiece Variant (1) is being grabbed
+4,035067;looked atTable2
+4,046436;looked atTable2
+4,057732;looked atTable2
+4,067808;looked atTable2
+4,079375;looked atTable2
+4,091131;looked atTable2
+4,101339;looked atTable2
+4,115993;looked atTable2
+4,127917;looked atTable2
+4,135231;looked atTable2
+4,146961;looked atTable2
+4,158472;looked atTable2
+4,169829;looked atTable2
+4,179838;looked atTable2
+4,191159;looked atTable2
+4,202725;looked atTable2
+4,213394;looked atTable2
+4,22438;looked atTable2
+4,236058;looked atTable2
+4,246064;looked atTable2
+4,257948;looked atTable2
+4,257948;object ChessPiece Variant (2) is being grabbed
+4,257948;object ChessPiece Variant is being grabbed
+4,257948;object ChessPiece Variant (1) is being grabbed
+4,270899;looked atTable2
+4,280188;looked atTable2
+4,291035;looked atTable2
+4,301894;looked atTable2
+4,312716;looked atTable2
+4,324358;looked atTable2
+4,335419;looked atTable2
+4,34576;looked atTable2
+4,357874;looked atTable2
+4,368278;looked atTable2
+4,379895;looked atTable2
+4,390777;looked atHand
+4,401462;looked atTable2
+4,412718;looked atTable2
+4,427074;looked atTable2
+4,435525;looked atHand
+4,44573;looked atHand
+4,457585;looked atHand
+4,467806;looked atHand
+4,479224;looked atHand
+4,491118;looked atHand
+4,491118;object ChessPiece Variant (2) is being grabbed
+4,491118;object ChessPiece Variant is being grabbed
+4,491118;object ChessPiece Variant (1) is being grabbed
+4,501261;looked atHand
+4,513389;looked atHand
+4,523977;looked atHand
+4,534852;looked atHand
+4,54543;looked atHand
+4,557138;looked atHand
+4,568665;looked atHand
+4,581645;looked atHand
+4,591109;looked atHand
+4,601971;looked atHand
+4,612687;looked atHand
+4,623466;looked atHand
+4,635658;looked atHand
+4,645986;looked atHand
+4,657352;looked atHand
+4,668637;looked atHand
+4,679472;looked atHand
+4,690682;looked atHand
+4,701735;looked atHand
+4,712718;looked atHand
+4,724139;looked atHand
+4,724139;object ChessPiece Variant (2) is being grabbed
+4,724139;object ChessPiece Variant is being grabbed
+4,737885;looked atHand
+4,746334;looked atHand
+4,758365;looked atHand
+4,768175;looked atHand
+4,779338;looked atHand
+4,790924;looked atHand
+4,801773;looked atHand
+4,812702;looked atHand
+4,82396;looked atHand
+4,834945;looked atHand
+4,845692;looked atHand
+4,858181;looked atHand
+4,868107;looked atHand
+4,879696;looked atTable2
+4,893479;looked atTable2
+4,90125;looked atTable2
+4,91299;looked atTable2
+4,924479;looked atTable2
+4,935017;looked atTable2
+4,94574;looked atTable2
+4,957391;looked atTable2
+4,957391;object ChessPiece Variant (2) is being grabbed
+4,957391;object ChessPiece Variant is being grabbed
+4,957391;object ChessPiece Variant (1) is being grabbed
+4,968899;looked atTable2
+4,980131;looked atTable2
+4,99087;looked atTable2
+5,002364;looked atTable2
+5,012906;looked atTable2
+5,023437;looked atTable2
+5,035816;looked atTable2
+5,047954;looked atTable2
+5,058418;looked atTable2
+5,068571;looked atTable2
+5,079451;looked atTable2
+5,090732;looked atTable2
+5,101691;looked atTable2
+5,112757;looked atTable2
+5,124027;looked atTable2
+5,135729;looked atTable2
+5,14678;looked atTable2
+5,157942;looked atTable2
+5,157942;looked at: Hand
+5,168319;looked atTable2
+5,168319;looked at: Hand
+5,179534;looked atTable2
+5,179534;looked at: Hand
+5,191038;looked atTable2
+5,191038;looked at: Hand
+5,191038;object ChessPiece Variant (2) is being grabbed
+5,191038;object ChessPiece Variant is being grabbed
+5,191038;object ChessPiece Variant (1) is being grabbed
+5,204031;looked atTable2
+5,204031;looked at: Hand
+5,21372;looked atTable2
+5,21372;looked at: Hand
+5,224405;looked atTable2
+5,224405;looked at: Hand
+5,234895;looked atTable2
+5,234895;looked at: Hand
+5,24563;looked atTable2
+5,24563;looked at: Hand
+5,257856;looked atTable2
+5,268423;looked atTable2
+5,279638;looked atTable2
+5,291152;looked atTable2
+5,301211;looked atTable2
+5,312932;looked atTable2
+5,32414;looked atTable2
+5,335273;looked atTable2
+5,345743;looked atTable2
+5,359529;looked atTable2
+5,369051;looked atTable2
+5,379251;looked atTable2
+5,390957;looked atTable2
+5,401913;looked atTable2
+5,413345;looked atTable2
+5,423817;looked atTable2
+5,423817;object ChessPiece Variant (2) is being grabbed
+5,423817;object ChessPiece Variant is being grabbed
+5,435757;looked atTable2
+5,446289;looked atTable2
+5,457713;looked atHand
+5,468769;looked atHand
+5,47988;looked atHand
+5,491198;looked atHand
+5,502828;looked atHand
+5,515394;looked atHand
+5,524177;looked atHand
+5,535711;looked atHand
+5,54572;looked atHand
+5,557847;looked atHand
+5,568214;looked atHand
+5,579285;looked atHand
+5,591064;looked atHand
+5,601308;looked atHand
+5,612902;looked atHand
+5,624136;looked atHand
+5,635044;looked atHand
+5,645898;looked atHand
+5,658112;looked atHand
+5,658112;object ChessPiece Variant (2) is being grabbed
+5,658112;object ChessPiece Variant is being grabbed
+5,67055;looked atHand
+5,680346;looked atHand
+5,691223;looked atHand
+5,701329;looked atHand
+5,712823;looked atHand
+5,724412;looked atBoundsCollider
+5,735131;looked atBoundsCollider
+5,745909;looked atBoundsCollider
+5,757421;looked atBoundsCollider
+5,768532;looked atTable2
+5,779579;looked atTable2
+5,79066;looked atsimpleGrabTorchMesh
+5,801959;looked atsimpleGrabTorchMesh
+5,813027;looked atsimpleGrabTorchMesh
+5,826648;looked atRoom
+5,835867;looked atRoom
+5,845918;looked atRoom
+5,857362;looked atRoom
+5,868841;looked atRoom
+5,879581;looked atRoom
+5,892253;looked atRoom
+5,892253;object ChessPiece Variant (2) is being grabbed
+5,892253;object ChessPiece Variant is being grabbed
+5,902076;looked atRoom
+5,913406;looked atRoom
+5,923963;looked atRoom
+5,935178;looked atRoom
+5,945791;looked atRoom
+5,957535;looked atRoom
+5,968322;looked atRoom
+5,981902;looked atRoom
+5,990867;looked atRoom
+6,00168;looked atRoom
+6,012887;looked atRoom
+6,024177;looked atRoom
+6,034938;looked atRoom
+6,045657;looked atRoom
+6,057907;looked atRoom
+6,068008;looked atRoom
+6,079522;looked atRoom
+6,094453;looked atRoom
+6,101805;looked atRoom
+6,114251;looked atRoom
+6,125228;looked atRoom
+6,125228;object ChessPiece Variant (2) is being grabbed
+6,125228;object ChessPiece Variant is being grabbed
+6,138096;looked atTable
+6,147635;looked atTable
+6,158057;looked atTable
+6,16905;looked atTable
+6,179938;looked atTable
+6,190932;looked atRoom
+6,202199;looked atRoom
+6,213119;looked atRoom
+6,223853;looked atRoom
+6,235858;looked atRoom
+6,246007;looked atRoom
+6,2575;looked atRoom
+6,268645;looked atRoom
+6,279733;looked atRoom
+6,293388;looked atRoom
+6,301889;looked atRoom
+6,313114;looked atTable
+6,324418;looked atTable
+6,335524;looked atTable
+6,345787;looked atTable
+6,35744;looked atTable
+6,35744;object ChessPiece Variant (2) is being grabbed
+6,35744;object ChessPiece Variant is being grabbed
+6,368249;looked atTable
+6,38002;looked atTable
+6,39088;looked atTable
+6,401658;looked atRoom
+6,412615;looked atRoom
+6,423735;looked atRoom
+6,435483;looked atTable
+6,448112;looked atTable
+6,45776;looked atTable
+6,467807;looked atTable
+6,479333;looked atTable
+6,491131;looked atTable
+6,501293;looked atTable
+6,512871;looked atTable
+6,52466;looked atRoom
+6,535199;looked atRoom
+6,545627;looked atRoom
+6,557337;looked atTable
+6,568712;looked atTable
+6,579494;looked atTable
+6,590826;looked atTable
+6,590826;object ChessPiece Variant (2) is being grabbed
+6,590826;object ChessPiece Variant is being grabbed
+6,604285;looked atTable
+6,61334;looked atTable
+6,62369;looked atRoom
+6,63547;looked atRoom
+6,645812;looked atRoom
+6,657309;looked atRoom
+6,668628;looked atRoom
+6,67944;looked atRoom
+6,691128;looked atRoom
+6,70191;looked atRoom
+6,712813;looked atRoom
+6,724153;looked atRoom
+6,73595;looked atRoom
+6,746535;looked atRoom
+6,746535;objectChessPiece Variant (2) distance to box:2,498785
+6,760774;looked atRoom
+6,760774;objectChessPiece Variant (2) distance to box:2,492042
+6,768832;looked atRoom
+6,768832;objectChessPiece Variant (2) distance to box:2,485978
+6,779377;looked atRoom
+6,779377;objectChessPiece Variant (2) distance to box:2,4778
+6,791361;looked atRoom
+6,791361;objectChessPiece Variant (2) distance to box:2,469955
+6,801368;looked atRoom
+6,801368;objectChessPiece Variant (2) distance to box:2,462359
+6,812825;looked atRoom
+6,812825;objectChessPiece Variant (2) distance to box:2,454993
+6,824319;looked atTable
+6,824319;object ChessPiece Variant (2) is being grabbed
+6,824319;objectChessPiece Variant (2) distance to box:2,447784
+6,824319;object ChessPiece Variant is being grabbed
+6,835112;looked atTable
+6,835112;objectChessPiece Variant (2) distance to box:2,440695
+6,846444;looked atTable
+6,846444;objectChessPiece Variant (2) distance to box:2,43391
+6,858133;looked atRoom
+6,858133;objectChessPiece Variant (2) distance to box:2,427202
+6,868098;looked atTable
+6,868098;objectChessPiece Variant (2) distance to box:2,420525
+6,868098;objectChessPiece Variant distance to box:2,498193
+6,879734;looked atTable
+6,879734;objectChessPiece Variant (2) distance to box:2,411692
+6,879734;objectChessPiece Variant distance to box:2,491265
+6,891294;looked atTable
+6,891294;objectChessPiece Variant (2) distance to box:2,403105
+6,891294;objectChessPiece Variant distance to box:2,48456
+6,901741;looked atTable
+6,901741;objectChessPiece Variant (2) distance to box:2,394708
+6,901741;objectChessPiece Variant distance to box:2,478041
+6,915684;looked atTable
+6,915684;objectChessPiece Variant (2) distance to box:2,386467
+6,915684;objectChessPiece Variant distance to box:2,471685
+6,924413;looked atRoom
+6,924413;objectChessPiece Variant (2) distance to box:2,378373
+6,924413;objectChessPiece Variant distance to box:2,465492
+6,935619;looked atTable
+6,935619;objectChessPiece Variant (2) distance to box:2,373346
+6,935619;objectChessPiece Variant distance to box:2,456486
+6,946026;looked atTable
+6,946026;objectChessPiece Variant (2) distance to box:2,368056
+6,946026;objectChessPiece Variant distance to box:2,447704
+6,957508;looked atTable
+6,957508;objectChessPiece Variant (2) distance to box:2,362579
+6,957508;objectChessPiece Variant distance to box:2,43914
+6,968961;looked atTable
+6,968961;objectChessPiece Variant (2) distance to box:2,357487
+6,968961;objectChessPiece Variant distance to box:2,43161
+6,979738;looked atTable
+6,979738;objectChessPiece Variant (2) distance to box:2,348894
+6,979738;objectChessPiece Variant distance to box:2,421865
+6,991044;looked atRoom
+6,991044;objectChessPiece Variant (2) distance to box:2,340523
+6,991044;objectChessPiece Variant distance to box:2,41235
+7,002213;looked atRoom
+7,002213;objectChessPiece Variant (2) distance to box:2,332327
+7,002213;objectChessPiece Variant distance to box:2,40306
+7,012948;looked atRoom
+7,012948;objectChessPiece Variant (2) distance to box:2,319434
+7,012948;objectChessPiece Variant distance to box:2,391158
+7,023783;looked atTable
+7,023783;objectChessPiece Variant (2) distance to box:2,30708
+7,023783;objectChessPiece Variant distance to box:2,379807
+7,03607;looked atTable
+7,03607;objectChessPiece Variant (2) distance to box:2,29524
+7,03607;objectChessPiece Variant distance to box:2,36891
+7,045926;looked atTable
+7,045926;objectChessPiece Variant (2) distance to box:2,284802
+7,045926;objectChessPiece Variant distance to box:2,354419
+7,05769;looked atTable
+7,05769;object ChessPiece Variant (2) is being grabbed
+7,05769;objectChessPiece Variant (2) distance to box:2,27466
+7,05769;object ChessPiece Variant is being grabbed
+7,05769;objectChessPiece Variant distance to box:2,340716
+7,071163;looked atbox3
+7,071163;objectChessPiece Variant (2) distance to box:2,264759
+7,071163;objectChessPiece Variant distance to box:2,327691
+7,08007;looked atbox3
+7,08007;objectChessPiece Variant (2) distance to box:2,256727
+7,08007;objectChessPiece Variant distance to box:2,313039
+7,091086;looked atTable
+7,091086;objectChessPiece Variant (2) distance to box:2,248687
+7,091086;objectChessPiece Variant distance to box:2,299121
+7,101989;looked atTable
+7,101989;objectChessPiece Variant (2) distance to box:2,240623
+7,101989;objectChessPiece Variant distance to box:2,285805
+7,1128;looked atTable
+7,1128;objectChessPiece Variant (2) distance to box:2,232526
+7,1128;objectChessPiece Variant distance to box:2,272964
+7,124079;looked atTable
+7,124079;objectChessPiece Variant (2) distance to box:2,224437
+7,124079;objectChessPiece Variant distance to box:2,260561
+7,135779;looked atTable
+7,135779;objectChessPiece Variant (2) distance to box:2,210503
+7,135779;objectChessPiece Variant distance to box:2,247622
+7,147161;looked atTable
+7,147161;objectChessPiece Variant (2) distance to box:2,197351
+7,147161;objectChessPiece Variant distance to box:2,235111
+7,157843;looked atTable
+7,157843;objectChessPiece Variant (2) distance to box:2,184825
+7,157843;objectChessPiece Variant distance to box:2,222879
+7,168254;looked atTable
+7,168254;objectChessPiece Variant (2) distance to box:2,169721
+7,168254;objectChessPiece Variant distance to box:2,210645
+7,179418;looked atTable
+7,179418;objectChessPiece Variant (2) distance to box:2,155402
+7,179418;objectChessPiece Variant distance to box:2,198575
+7,191911;looked atTable
+7,191911;objectChessPiece Variant (2) distance to box:2,141733
+7,191911;objectChessPiece Variant distance to box:2,186651
+7,201384;looked atTable
+7,201384;objectChessPiece Variant (2) distance to box:2,128546
+7,201384;objectChessPiece Variant distance to box:2,174823
+7,212791;looked atTable
+7,212791;objectChessPiece Variant (2) distance to box:2,11889
+7,212791;objectChessPiece Variant distance to box:2,163388
+7,226609;looked atTable
+7,226609;objectChessPiece Variant (2) distance to box:2,109151
+7,226609;objectChessPiece Variant distance to box:2,152076
+7,235192;looked atTable
+7,235192;objectChessPiece Variant (2) distance to box:2,099357
+7,235192;objectChessPiece Variant distance to box:2,140822
+7,245829;looked atTable
+7,245829;objectChessPiece Variant (2) distance to box:2,089498
+7,245829;objectChessPiece Variant distance to box:2,128357
+7,258166;looked atTable
+7,258166;objectChessPiece Variant (2) distance to box:2,079522
+7,258166;objectChessPiece Variant distance to box:2,116089
+7,268052;looked atTable
+7,268052;objectChessPiece Variant (2) distance to box:2,069481
+7,268052;objectChessPiece Variant distance to box:2,103999
+7,279551;looked atTable
+7,279551;objectChessPiece Variant (2) distance to box:2,064432
+7,279551;objectChessPiece Variant distance to box:2,089223
+7,290948;looked atTable
+7,290948;object ChessPiece Variant (2) is being grabbed
+7,290948;objectChessPiece Variant (2) distance to box:2,058605
+7,290948;object ChessPiece Variant is being grabbed
+7,290948;objectChessPiece Variant distance to box:2,074978
+7,301756;looked atTable
+7,301756;objectChessPiece Variant (2) distance to box:2,051306
+7,301756;objectChessPiece Variant distance to box:2,059601
+7,313346;looked atTable
+7,313346;objectChessPiece Variant (2) distance to box:2,043782
+7,313346;objectChessPiece Variant distance to box:2,044896
+7,32486;looked atTable
+7,32486;objectChessPiece Variant (2) distance to box:2,037004
+7,32486;objectChessPiece Variant distance to box:2,032282
+7,335055;looked atTable
+7,335055;objectChessPiece Variant (2) distance to box:2,029032
+7,335055;objectChessPiece Variant distance to box:2,023514
+7,345734;looked atTable
+7,345734;objectChessPiece Variant (2) distance to box:2,02105
+7,345734;objectChessPiece Variant distance to box:2,014429
+7,357686;looked atTable
+7,357686;objectChessPiece Variant (2) distance to box:2,013058
+7,357686;objectChessPiece Variant distance to box:2,005481
+7,368983;looked atTable
+7,368983;objectChessPiece Variant (2) distance to box:2,008042
+7,368983;objectChessPiece Variant distance to box:2,000078
+7,381958;looked atTable
+7,381958;objectChessPiece Variant (2) distance to box:2,002611
+7,381958;objectChessPiece Variant distance to box:1,993887
+7,390847;looked atTable
+7,390847;objectChessPiece Variant (2) distance to box:1,996875
+7,390847;objectChessPiece Variant distance to box:1,987021
+7,402224;looked atTable
+7,402224;objectChessPiece Variant (2) distance to box:1,991264
+7,402224;objectChessPiece Variant distance to box:1,980135
+7,412858;looked atTable
+7,412858;objectChessPiece Variant (2) distance to box:1,981796
+7,412858;objectChessPiece Variant distance to box:1,972932
+7,42381;looked atTable
+7,42381;objectChessPiece Variant (2) distance to box:1,972646
+7,42381;objectChessPiece Variant distance to box:1,96524
+7,435883;looked atTable
+7,435883;objectChessPiece Variant (2) distance to box:1,963715
+7,435883;objectChessPiece Variant distance to box:1,957227
+7,445923;looked atTable
+7,445923;objectChessPiece Variant (2) distance to box:1,952533
+7,445923;objectChessPiece Variant distance to box:1,945548
+7,457558;looked atTable
+7,457558;objectChessPiece Variant (2) distance to box:1,941862
+7,457558;objectChessPiece Variant distance to box:1,934383
+7,468733;looked atTable
+7,468733;objectChessPiece Variant (2) distance to box:1,931572
+7,468733;objectChessPiece Variant distance to box:1,923628
+7,479479;looked atTable
+7,479479;objectChessPiece Variant (2) distance to box:1,921832
+7,479479;objectChessPiece Variant distance to box:1,91719
+7,491143;looked atTable
+7,491143;objectChessPiece Variant (2) distance to box:1,91231
+7,491143;objectChessPiece Variant distance to box:1,910135
+7,502003;looked atTable
+7,502003;objectChessPiece Variant (2) distance to box:1,902952
+7,502003;objectChessPiece Variant distance to box:1,902673
+7,512874;looked atTable
+7,512874;objectChessPiece Variant (2) distance to box:1,893719
+7,512874;objectChessPiece Variant distance to box:1,894938
+7,524303;looked atTable
+7,524303;object ChessPiece Variant (2) is being grabbed
+7,524303;objectChessPiece Variant (2) distance to box:1,885504
+7,524303;object ChessPiece Variant is being grabbed
+7,524303;objectChessPiece Variant distance to box:1,887949
+7,538017;looked atTable
+7,538017;objectChessPiece Variant (2) distance to box:1,872881
+7,538017;objectChessPiece Variant distance to box:1,877437
+7,546594;looked atTable
+7,546594;objectChessPiece Variant (2) distance to box:1,8609
+7,546594;objectChessPiece Variant distance to box:1,867211
+7,558258;looked atTable
+7,558258;objectChessPiece Variant (2) distance to box:1,849397
+7,558258;objectChessPiece Variant distance to box:1,857227
+7,568782;looked atTable
+7,568782;objectChessPiece Variant (2) distance to box:1,839154
+7,568782;objectChessPiece Variant distance to box:1,848708
+7,579791;looked atTable
+7,579791;objectChessPiece Variant (2) distance to box:1,829045
+7,579791;objectChessPiece Variant distance to box:1,840148
+7,591422;looked atTable
+7,591422;objectChessPiece Variant (2) distance to box:1,819161
+7,591422;objectChessPiece Variant distance to box:1,831652
+7,601385;looked atTable
+7,601385;objectChessPiece Variant (2) distance to box:1,809841
+7,601385;objectChessPiece Variant distance to box:1,823569
+7,612956;looked atTable
+7,612956;objectChessPiece Variant (2) distance to box:1,798755
+7,612956;objectChessPiece Variant distance to box:1,817095
+7,624579;looked atTable
+7,624579;objectChessPiece Variant (2) distance to box:1,78791
+7,624579;objectChessPiece Variant distance to box:1,810261
+7,635427;looked atTable
+7,635427;objectChessPiece Variant (2) distance to box:1,777275
+7,635427;objectChessPiece Variant distance to box:1,803185
+7,645922;looked atTable
+7,645922;objectChessPiece Variant (2) distance to box:1,763699
+7,645922;objectChessPiece Variant distance to box:1,791939
+7,658095;looked atTable
+7,658095;objectChessPiece Variant (2) distance to box:1,750649
+7,658095;objectChessPiece Variant distance to box:1,781091
+7,668085;looked atRoom
+7,668085;objectChessPiece Variant (2) distance to box:1,737988
+7,668085;objectChessPiece Variant distance to box:1,770534
+7,679672;looked atRoom
+7,679672;objectChessPiece Variant (2) distance to box:1,725638
+7,679672;objectChessPiece Variant distance to box:1,760211
+7,693775;looked atRoom
+7,693775;objectChessPiece Variant (2) distance to box:1,713542
+7,693775;objectChessPiece Variant distance to box:1,750421
+7,701634;looked atRoom
+7,701634;objectChessPiece Variant (2) distance to box:1,701674
+7,701634;objectChessPiece Variant distance to box:1,740685
+7,713058;looked atRoom
+7,713058;objectChessPiece Variant (2) distance to box:1,689954
+7,713058;objectChessPiece Variant distance to box:1,730968
+7,724411;looked atRoom
+7,724411;objectChessPiece Variant (2) distance to box:1,679657
+7,724411;objectChessPiece Variant distance to box:1,722307
+7,735305;looked atTable
+7,735305;objectChessPiece Variant (2) distance to box:1,670054
+7,735305;objectChessPiece Variant distance to box:1,708185
+7,74591;looked atTable
+7,74591;objectChessPiece Variant (2) distance to box:1,660405
+7,74591;objectChessPiece Variant distance to box:1,694746
+7,757735;looked atTable
+7,757735;object ChessPiece Variant (2) is being grabbed
+7,757735;objectChessPiece Variant (2) distance to box:1,650672
+7,757735;object ChessPiece Variant is being grabbed
+7,757735;objectChessPiece Variant distance to box:1,681848
+7,76896;looked atTable
+7,76896;objectChessPiece Variant (2) distance to box:1,64028
+7,76896;objectChessPiece Variant distance to box:1,66822
+7,780234;looked atTable
+7,780234;objectChessPiece Variant (2) distance to box:1,629828
+7,780234;objectChessPiece Variant distance to box:1,655125
+7,790832;looked atTable
+7,790832;objectChessPiece Variant (2) distance to box:1,619412
+7,790832;objectChessPiece Variant distance to box:1,642559
+7,802211;looked atTable
+7,802211;objectChessPiece Variant (2) distance to box:1,609513
+7,802211;objectChessPiece Variant distance to box:1,630896
+7,813035;looked atTable
+7,813035;objectChessPiece Variant (2) distance to box:1,602395
+7,813035;objectChessPiece Variant distance to box:1,622371
+7,823853;looked atTable
+7,823853;objectChessPiece Variant (2) distance to box:1,588768
+7,823853;objectChessPiece Variant distance to box:1,609587
+7,836089;looked atbox3
+7,836089;objectChessPiece Variant (2) distance to box:1,578276
+7,836089;objectChessPiece Variant distance to box:1,599887
+7,848375;looked atbox3
+7,848375;objectChessPiece Variant (2) distance to box:1,567567
+7,848375;objectChessPiece Variant distance to box:1,589959
+7,8578;looked atTable
+7,8578;objectChessPiece Variant (2) distance to box:1,557979
+7,8578;objectChessPiece Variant distance to box:1,584201
+7,869357;looked atTable
+7,869357;objectChessPiece Variant (2) distance to box:1,548029
+7,869357;objectChessPiece Variant distance to box:1,577533
+7,879728;looked atTable
+7,879728;objectChessPiece Variant (2) distance to box:1,537793
+7,879728;objectChessPiece Variant distance to box:1,570181
+7,891033;looked atTable
+7,891033;objectChessPiece Variant (2) distance to box:1,529412
+7,891033;objectChessPiece Variant distance to box:1,56473
+7,902095;looked atTable
+7,902095;objectChessPiece Variant (2) distance to box:1,52077
+7,902095;objectChessPiece Variant distance to box:1,558539
+7,912734;looked atTable
+7,912734;objectChessPiece Variant (2) distance to box:1,511998
+7,912734;objectChessPiece Variant distance to box:1,551783
+7,924062;looked atTable
+7,924062;objectChessPiece Variant (2) distance to box:1,50303
+7,924062;objectChessPiece Variant distance to box:1,544663
+7,935537;looked atTable
+7,935537;objectChessPiece Variant (2) distance to box:1,493283
+7,935537;objectChessPiece Variant distance to box:1,538195
+7,945779;looked atTable
+7,945779;objectChessPiece Variant (2) distance to box:1,483465
+7,945779;objectChessPiece Variant distance to box:1,531069
+7,957727;looked atTable
+7,957727;objectChessPiece Variant (2) distance to box:1,473586
+7,957727;objectChessPiece Variant distance to box:1,523531
+7,968642;looked atTable
+7,968642;objectChessPiece Variant (2) distance to box:1,466312
+7,968642;objectChessPiece Variant distance to box:1,515995
+7,98008;looked atTable
+7,98008;objectChessPiece Variant (2) distance to box:1,458687
+7,98008;objectChessPiece Variant distance to box:1,508435
+7,991599;looked atTable
+7,991599;object ChessPiece Variant (2) is being grabbed
+7,991599;objectChessPiece Variant (2) distance to box:1,450844
+7,991599;object ChessPiece Variant is being grabbed
+7,991599;objectChessPiece Variant distance to box:1,500845
+8,003738;looked atbox3
+8,003738;objectChessPiece Variant (2) distance to box:1,442838
+8,003738;objectChessPiece Variant distance to box:1,493191
+8,013621;looked atbox3
+8,013621;objectChessPiece Variant (2) distance to box:1,435604
+8,013621;objectChessPiece Variant distance to box:1,486269
+8,025474;looked atbox3
+8,025474;objectChessPiece Variant (2) distance to box:1,426141
+8,025474;objectChessPiece Variant distance to box:1,483176
+8,03549;looked atbox3
+8,03549;objectChessPiece Variant (2) distance to box:1,416736
+8,03549;objectChessPiece Variant distance to box:1,479502
+8,045968;looked atbox3
+8,045968;objectChessPiece Variant (2) distance to box:1,407397
+8,045968;objectChessPiece Variant distance to box:1,475383
+8,057994;looked atbox3
+8,057994;objectChessPiece Variant (2) distance to box:1,400285
+8,057994;objectChessPiece Variant distance to box:1,466717
+8,067962;looked atbox3
+8,067962;objectChessPiece Variant (2) distance to box:1,392894
+8,067962;objectChessPiece Variant distance to box:1,458288
+8,07945;looked atbox3
+8,07945;objectChessPiece Variant (2) distance to box:1,385259
+8,07945;objectChessPiece Variant distance to box:1,44997
+8,09137;looked atTable
+8,09137;objectChessPiece Variant (2) distance to box:1,377404
+8,09137;objectChessPiece Variant distance to box:1,441722
+8,101478;looked atTable
+8,101478;objectChessPiece Variant (2) distance to box:1,369457
+8,101478;objectChessPiece Variant distance to box:1,433449
+8,112947;looked atTable
+8,112947;objectChessPiece Variant (2) distance to box:1,361446
+8,112947;objectChessPiece Variant distance to box:1,42517
+8,124309;looked atbox3
+8,124309;objectChessPiece Variant (2) distance to box:1,353386
+8,124309;objectChessPiece Variant distance to box:1,417191
+8,135267;looked atbox3
+8,135267;objectChessPiece Variant (2) distance to box:1,345362
+8,135267;objectChessPiece Variant distance to box:1,406721
+8,146556;looked atbox3
+8,146556;objectChessPiece Variant (2) distance to box:1,337226
+8,146556;objectChessPiece Variant distance to box:1,39666
+8,159743;looked atbox3
+8,159743;objectChessPiece Variant (2) distance to box:1,329072
+8,159743;objectChessPiece Variant distance to box:1,387004
+8,169281;looked atbox3
+8,169281;objectChessPiece Variant (2) distance to box:1,319161
+8,169281;objectChessPiece Variant distance to box:1,37696
+8,179647;looked atbox3
+8,179647;objectChessPiece Variant (2) distance to box:1,309386
+8,179647;objectChessPiece Variant distance to box:1,367179
+8,190925;looked atbox3
+8,190925;objectChessPiece Variant (2) distance to box:1,299804
+8,190925;objectChessPiece Variant distance to box:1,357697
+8,202169;looked atbox3
+8,202169;objectChessPiece Variant (2) distance to box:1,289687
+8,202169;objectChessPiece Variant distance to box:1,346254
+8,213046;looked atbox3
+8,213046;objectChessPiece Variant (2) distance to box:1,279791
+8,213046;objectChessPiece Variant distance to box:1,335222
+8,223714;looked atTable
+8,223714;object ChessPiece Variant (2) is being grabbed
+8,223714;objectChessPiece Variant (2) distance to box:1,270071
+8,223714;object ChessPiece Variant is being grabbed
+8,223714;objectChessPiece Variant distance to box:1,32444
+8,236089;looked atTable
+8,236089;objectChessPiece Variant (2) distance to box:1,260478
+8,236089;objectChessPiece Variant distance to box:1,31388
+8,246424;looked atTable
+8,246424;objectChessPiece Variant (2) distance to box:1,250976
+8,246424;objectChessPiece Variant distance to box:1,303514
+8,257496;looked atTable
+8,257496;objectChessPiece Variant (2) distance to box:1,238335
+8,257496;objectChessPiece Variant distance to box:1,293617
+8,26897;looked atTable
+8,26897;objectChessPiece Variant (2) distance to box:1,226219
+8,26897;objectChessPiece Variant distance to box:1,284024
+8,279597;looked atTable
+8,279597;objectChessPiece Variant (2) distance to box:1,214564
+8,279597;objectChessPiece Variant distance to box:1,274794
+8,291675;looked atTable
+8,291675;objectChessPiece Variant (2) distance to box:1,204653
+8,291675;objectChessPiece Variant distance to box:1,262811
+8,302202;looked atTable
+8,302202;objectChessPiece Variant (2) distance to box:1,194826
+8,302202;objectChessPiece Variant distance to box:1,251189
+8,315043;looked atbox3
+8,315043;objectChessPiece Variant (2) distance to box:1,183442
+8,315043;objectChessPiece Variant distance to box:1,238097
+8,32401;looked atbox3
+8,32401;objectChessPiece Variant (2) distance to box:1,173004
+8,32401;objectChessPiece Variant distance to box:1,226207
+8,33549;looked atbox3
+8,33549;objectChessPiece Variant (2) distance to box:1,162326
+8,33549;objectChessPiece Variant distance to box:1,212612
+8,346105;looked atbox3
+8,346105;objectChessPiece Variant (2) distance to box:1,151661
+8,346105;objectChessPiece Variant distance to box:1,199607
+8,357663;looked atbox3
+8,357663;objectChessPiece Variant (2) distance to box:1,141175
+8,357663;objectChessPiece Variant distance to box:1,187172
+8,368222;looked atbox3
+8,368222;objectChessPiece Variant (2) distance to box:1,128286
+8,368222;objectChessPiece Variant distance to box:1,175142
+8,379486;looked atbox3
+8,379486;objectChessPiece Variant (2) distance to box:1,116004
+8,379486;objectChessPiece Variant distance to box:1,163474
+8,391788;looked atbox3
+8,391788;objectChessPiece Variant (2) distance to box:1,104183
+8,391788;objectChessPiece Variant distance to box:1,152084
+8,401559;looked atbox3
+8,401559;objectChessPiece Variant (2) distance to box:1,092711
+8,401559;objectChessPiece Variant distance to box:1,140904
+8,412828;looked atbox3
+8,412828;objectChessPiece Variant (2) distance to box:1,084356
+8,412828;objectChessPiece Variant distance to box:1,132848
+8,424319;looked atbox3
+8,424319;objectChessPiece Variant (2) distance to box:1,069687
+8,424319;objectChessPiece Variant distance to box:1,122282
+8,435421;looked atbox3
+8,435421;objectChessPiece Variant (2) distance to box:1,055825
+8,435421;objectChessPiece Variant distance to box:1,111757
+8,446143;looked atbox3
+8,446143;objectChessPiece Variant (2) distance to box:1,043815
+8,446143;objectChessPiece Variant distance to box:1,102345
+8,457932;looked atbox3
+8,457932;object ChessPiece Variant (2) is being grabbed
+8,457932;objectChessPiece Variant (2) distance to box:1,030897
+8,457932;object ChessPiece Variant is being grabbed
+8,457932;objectChessPiece Variant distance to box:1,090039
+8,470585;looked atbox3
+8,470585;objectChessPiece Variant (2) distance to box:1,018507
+8,470585;objectChessPiece Variant distance to box:1,078059
+8,480278;looked atbox3
+8,480278;objectChessPiece Variant (2) distance to box:1,006476
+8,480278;objectChessPiece Variant distance to box:1,066291
+8,491402;looked atbox3
+8,491402;objectChessPiece Variant (2) distance to box:0,9967329
+8,491402;objectChessPiece Variant distance to box:1,055284
+8,501461;looked atbox3
+8,501461;objectChessPiece Variant (2) distance to box:0,9868202
+8,501461;objectChessPiece Variant distance to box:1,044328
+8,512814;looked atbox3
+8,512814;objectChessPiece Variant (2) distance to box:0,9767671
+8,512814;objectChessPiece Variant distance to box:1,033387
+8,524377;looked atbox3
+8,524377;objectChessPiece Variant (2) distance to box:0,9685187
+8,524377;objectChessPiece Variant distance to box:1,023651
+8,535176;looked atbox3
+8,535176;objectChessPiece Variant (2) distance to box:0,9598707
+8,535176;objectChessPiece Variant distance to box:1,014026
+8,545982;looked atbox3
+8,545982;objectChessPiece Variant (2) distance to box:0,9509611
+8,545982;objectChessPiece Variant distance to box:1,004333
+8,557479;looked atbox3
+8,557479;objectChessPiece Variant (2) distance to box:0,9418561
+8,557479;objectChessPiece Variant distance to box:0,9946211
+8,568824;looked atbox3
+8,568824;objectChessPiece Variant (2) distance to box:0,9373024
+8,568824;objectChessPiece Variant distance to box:0,9805099
+8,579628;looked atbox3
+8,579628;objectChessPiece Variant (2) distance to box:0,9332071
+8,579628;objectChessPiece Variant distance to box:0,9685988
+8,591324;looked atbox3
+8,591324;objectChessPiece Variant (2) distance to box:0,9281973
+8,591324;objectChessPiece Variant distance to box:0,956936
+8,602583;looked atbox3
+8,602583;objectChessPiece Variant (2) distance to box:0,9209129
+8,602583;objectChessPiece Variant (2) inside box
+8,602583;objectChessPiece Variant distance to box:0,9448937
+8,613009;looked atbox3
+8,613009;objectChessPiece Variant distance to box:0,933037
+8,626859;looked atbox3
+8,626859;objectChessPiece Variant distance to box:0,9213131
+8,63585;looked atbox3
+8,63585;objectChessPiece Variant distance to box:0,9096846
+8,645941;looked atbox3
+8,645941;objectChessPiece Variant distance to box:0,8981233
+8,657304;looked atbox3
+8,657304;objectChessPiece Variant distance to box:0,8889286
+8,668799;looked atbox3
+8,668799;objectChessPiece Variant distance to box:0,8794674
+8,679568;looked atbox3
+8,679568;objectChessPiece Variant distance to box:0,8697454
+8,691109;looked atbox3
+8,691109;object ChessPiece Variant (2) is being grabbed
+8,691109;object ChessPiece Variant is being grabbed
+8,691109;objectChessPiece Variant distance to box:0,8626001
+8,702009;looked atbox3
+8,702009;objectChessPiece Variant distance to box:0,8550351
+8,713303;looked atbox3
+8,713303;objectChessPiece Variant distance to box:0,8471846
+8,724655;looked atbox3
+8,724655;objectChessPiece Variant distance to box:0,8384497
+8,724655;objectChessPiece Variant inside box
+8,735726;looked atbox3
+8,746092;looked atbox3
+8,757721;looked atbox3
+8,768404;looked atbox3
+8,781822;looked atbox3
+8,791851;looked atbox3
+8,801403;looked atbox3
+8,813006;looked atbox3
+8,824204;looked atbox3
+8,835188;looked atbox3
+8,835188;objectChessPiece Variant (2) inside box
+8,845939;looked atbox3
+8,858274;looked atbox3
+8,868071;looked atbox3
+8,879699;looked atbox3
+8,89132;looked atbox3
+8,901416;looked atbox3
+8,913159;looked atbox3
+8,924486;looked atbox3
+8,924486;object ChessPiece Variant (2) is being grabbed
+8,924486;object ChessPiece Variant is being grabbed
+8,937287;looked atbox3
+8,946499;looked atbox3
+8,957476;looked atbox3
+8,957476;objectChessPiece Variant inside box
+8,968674;looked atbox3
+8,979909;looked atbox3
+8,990644;looked atbox3
+9,00234;looked atbox3
+9,012976;looked atbox3
+9,023499;looked atbox3
+9,035624;looked atbox3
+9,045822;looked atHand
+9,045822;looked at: Hand
+9,057411;looked atbox3
+9,057411;looked at: Hand
+9,068737;looked atbox3
+9,068737;looked at: Hand
+9,068737;objectChessPiece Variant (2) inside box
+9,079693;looked atbox3
+9,079693;looked at: Hand
+9,093328;looked atHand
+9,093328;looked at: Hand
+9,101943;looked atHand
+9,101943;looked at: Hand
+9,112542;looked atbox3
+9,112542;looked at: Hand
+9,123747;looked atHand
+9,123747;looked at: Hand
+9,135273;looked atbox3
+9,135273;looked at: Hand
+9,146192;looked atHand
+9,146192;looked at: Hand
+9,157809;looked atbox3
+9,157809;looked at: Hand
+9,157809;object ChessPiece Variant (2) is being grabbed
+9,157809;object ChessPiece Variant is being grabbed
+9,168165;looked atHand
+9,168165;looked at: Hand
+9,17984;looked atHand
+9,17984;looked at: Hand
+9,190779;looked atHand
+9,190779;looked at: Hand
+9,190779;objectChessPiece Variant inside box
+9,20177;looked atHand
+9,20177;looked at: Hand
+9,212605;looked atHand
+9,212605;looked at: Hand
+9,223896;looked atbox3
+9,223896;looked at: Hand
+9,234708;looked atbox3
+9,234708;looked at: Hand
+9,24791;looked atbox3
+9,24791;looked at: Hand
+9,257697;looked atbox3
+9,257697;looked at: Hand
+9,267887;looked atbox3
+9,267887;looked at: Hand
+9,27912;looked atHand
+9,27912;looked at: Hand
+9,290905;looked atHand
+9,290905;looked at: Hand
+9,301062;looked atHand
+9,301062;looked at: Hand
+9,301062;objectChessPiece Variant (2) inside box
+9,31256;looked atHand
+9,31256;looked at: Hand
+9,324142;looked atHand
+9,324142;looked at: Hand
+9,334844;looked atHand
+9,334844;looked at: Hand
+9,345614;looked atbox3
+9,361588;looked atbox3
+9,369355;looked atbox3
+9,379611;looked atbox3
+9,391351;looked atbox3
+9,391351;object ChessPiece Variant (2) is being grabbed
+9,391351;object ChessPiece Variant is being grabbed
+9,404751;looked atbox3
+9,413481;looked atbox3
+9,423671;looked atbox3
+9,423671;objectChessPiece Variant inside box
+9,43603;looked atbox3
+9,445803;looked atbox3
+9,457176;looked atbox3
+9,46831;looked atbox3
+9,479506;looked atbox3
+9,490438;looked atbox3
+9,50139;looked atbox3
+9,512324;looked atbox3
+9,523498;looked atbox3
+9,53495;looked atbox3
+9,53495;objectChessPiece Variant (2) inside box
+9,545408;looked atbox3
+9,55978;looked atbox3
+9,568076;looked atHand
+9,578331;looked atHand
+9,590011;looked atbox3
+9,601453;looked atHand
+9,612396;looked atHand
+9,622933;looked atHand
+9,634541;looked atHand
+9,645019;looked atHand
+9,656998;looked atHand
+9,656998;objectChessPiece Variant inside box
+9,667231;looked atHand
+9,67885;looked atHand
+9,69044;looked atHand
+9,700649;looked atHand
+9,715449;looked atHand
+9,723448;looked atHand
+9,734369;looked atHand
+9,745165;looked atHand
+9,756691;looked atHand
+9,76795;looked atHand
+9,76795;objectChessPiece Variant (2) inside box
+9,778824;looked atHand
+9,790167;looked atHand
+9,801513;looked atHand
+9,812213;looked atHand
+9,823097;looked atHand
+9,835131;looked atHand
+9,845305;looked atbox3
+9,857042;looked atbox3
+9,87038;looked atbox3
+9,878981;looked atbox3
+9,890209;looked atbox3
+9,890209;objectChessPiece Variant inside box
+9,901265;looked atbox3
+9,91221;looked atbox3
+9,923167;looked atbox3
+9,934968;looked atbox3
+9,945015;looked atbox3
+9,957132;looked atTable
+9,967631;looked atTable
+9,978816;looked atbox3
+9,990335;looked atTable
+10,00102;looked atTable
+10,00102;objectChessPiece Variant (2) inside box
+10,0123;looked atTable
+10,0262;looked atTable
+10,0344;looked atTable
+10,04536;looked atTable
+10,05724;looked atTable
+10,06745;looked atbox2
+10,07926;looked atbox2
+10,09073;looked atbox2
+10,10068;looked atbox2
+10,11227;looked atbox2
+10,12352;looked atbox2
+10,12352;objectChessPiece Variant inside box
+10,13447;looked atbox2
+10,14599;looked atbox2
+10,15716;looked atbox2
+10,1681;looked atbox2
+10,18126;looked atbox2
+10,19023;looked atTable
+10,20169;looked atTable
+10,21241;looked atbox1
+10,22319;looked atbox1
+10,23528;looked atbox1
+10,23528;objectChessPiece Variant (2) inside box
+10,24549;looked atbox1
+10,25718;looked atRoom
+10,26857;looked atRoom
+10,27938;looked atRoom
+10,29065;looked atTable2
+10,30164;looked atTable2
+10,31256;looked atTable2
+10,32387;looked atTable2
+10,33802;looked atTable2
+10,34582;looked atTable2
+10,3575;looked atTable2
+10,3575;objectChessPiece Variant inside box
+10,36831;looked atsimpleGrabCupMesh
+10,37933;looked atTable2
+10,39097;looked atTable2
+10,40126;looked atTable2
+10,41262;looked atTable2
+10,42415;looked atTable2
+10,43482;looked atsimpleGrabCupMesh
+10,44577;looked atTable2
+10,45779;looked atsimpleGrabCupMesh
+10,46795;looked atsimpleGrabCupMesh
+10,46795;objectChessPiece Variant (2) inside box
+10,47935;looked atTable2
+10,49357;looked atTable2
+10,50119;looked atTable2
+10,51271;looked atTable2
+10,52398;looked atTable2
+10,53497;looked atTable2
+10,54566;looked atTable2
+10,55715;looked atTable2
+10,56861;looked atTable2
+10,57936;looked atTable2
+10,59052;looked atTable2
+10,59052;objectChessPiece Variant inside box
+10,60187;looked atBoundsCollider
+10,613;looked atTable2
+10,62369;looked atTable2
+10,63563;looked atTable2
+10,64852;looked atBoundsCollider
+10,65769;looked atsimpleGrabTorchMesh
+10,66871;looked atsimpleGrabTorchMesh
+10,67943;looked atTable2
+10,69142;looked atTable2
+10,70204;looked atTable2
+10,70204;objectChessPiece Variant (2) inside box
+10,71282;looked atTable2
+10,72402;looked atTable2
+10,73546;looked atTable2
+10,74571;looked atTable2
+10,75769;looked atsimpleGrabTorchMesh
+10,76839;looked atsimpleGrabTorchMesh
+10,77936;looked atsimpleGrabTorchMesh
+10,79127;looked atTable2
+10,80383;looked atTable2
+10,81293;looked atTable2
+10,82424;looked atTable2
+10,82424;objectChessPiece Variant inside box
+10,83501;looked atTable2
+10,84603;looked atTable2
+10,85789;looked atTable2
+10,86828;looked atTable2
+10,87957;looked atTable2
+10,89128;looked atTable2
+10,90141;looked atTable2
+10,91296;looked atTable2
+10,92435;looked atTable2
+10,93513;looked atTable2
+10,93513;objectChessPiece Variant (2) inside box
+10,94586;looked atTable2
+10,95983;looked atTable2
+10,96959;looked atTable2
+10,97938;looked atTable2
+10,99064;looked atTable2
+11,00205;looked atTable2
+11,01297;looked atTable2
+11,02394;looked atTable2
+11,03595;looked atTable2
+11,04596;looked atTable2
+11,05776;looked atTable2
+11,05776;objectChessPiece Variant inside box
+11,06882;looked atTable2
+11,07959;looked atTable2
+11,091;looked atTable2
+11,10202;looked atTable2
+11,11507;looked atTable2
+11,12472;looked atTable2
+11,13558;looked atTable2
+11,14671;looked atTable2
+11,15777;looked atTable2
+11,16836;looked atTable2
+11,16836;objectChessPiece Variant (2) inside box
+11,17943;looked atTable2
+11,19141;looked atTable2
+11,20122;looked atTable2
+11,21275;looked atTable2
+11,22431;looked atTable2
+11,23504;looked atTable2
+11,246;looked atTable2
+11,25808;looked atTable2
+11,27058;looked atTable2
+11,27971;looked atTable2
+11,29134;looked atTable2
+11,29134;objectChessPiece Variant inside box
+11,30154;looked atTable2
+11,31323;looked atTable2
+11,32446;looked atTable2
+11,33539;looked atTable2
+11,34581;looked atTable2
+11,3575;looked atTable2
+11,36887;looked atTable2
+11,37963;looked atTable2
+11,39113;looked atTable2
+11,40227;looked atsimpleGrabTorchMesh
+11,40227;objectChessPiece Variant (2) inside box
+11,41304;looked atsimpleGrabTorchMesh
+11,42685;looked atsimpleGrabTorchMesh
+11,43595;looked atsimpleGrabTorchMesh
+11,44598;looked atsimpleGrabTorchMesh
+11,45772;looked atsimpleGrabTorchMesh
+11,46906;looked atsimpleGrabTorchMesh
+11,47955;looked atsimpleGrabTorchMesh
+11,49103;looked atsimpleGrabTorchMesh
+11,50195;looked atsimpleGrabTorchMesh
+11,51297;looked atTable2
+11,52405;looked atsimpleGrabTorchMesh
+11,52405;objectChessPiece Variant inside box
+11,53548;looked atsimpleGrabTorchMesh
+11,54609;looked atTable2
+11,55793;looked atTable2
+11,56854;looked atsimpleGrabTorchMesh
+11,58171;looked atsimpleGrabTorchMesh
+11,5913;looked atsimpleGrabTorchMesh
+11,60224;looked atsimpleGrabTorchMesh
+11,61289;looked atsimpleGrabTorchMesh
+11,62428;looked atsimpleGrabTorchMesh
+11,6352;looked atsimpleGrabTorchMesh
+11,6352;objectChessPiece Variant (2) inside box
+11,64602;looked atsimpleGrabTorchMesh
+11,65818;looked atsimpleGrabTorchMesh
+11,66806;looked atsimpleGrabTorchMesh
+11,67967;looked atsimpleGrabTorchMesh
+11,69105;looked atsimpleGrabTorchMesh
+11,70149;looked atsimpleGrabTorchMesh
+11,7129;looked atsimpleGrabTorchMesh
+11,72444;looked atsimpleGrabTorchMesh
+11,7374;looked atsimpleGrabTorchMesh
+11,74594;looked atsimpleGrabTorchMesh
+11,75755;looked atTable2
+11,75755;objectChessPiece Variant inside box
+11,76909;looked atTable2
+11,7797;looked atTable2
+11,79088;looked atTable2
+11,80206;looked atTable2
+11,81314;looked atTable2
+11,82375;looked atTable2
+11,83573;looked atTable2
+11,84576;looked atTable2
+11,85748;looked atTable2
+11,86869;looked atTable2
+11,86869;objectChessPiece Variant (2) inside box
+11,87956;looked atTable2
+11,8934;looked atTable2
+11,90196;looked atTable2
+11,91286;looked atTable2
+11,9241;looked atTable2
+11,93944;looked atTable2
+11,94618;looked atTable2
+11,95851;looked atTable2
+11,96997;looked atTable2
+11,98009;looked atTable2
+11,9922;looked atTable2
+11,9922;objectChessPiece Variant inside box
+12,0019;looked atTable2
+12,01351;looked atTable2
+12,0246;looked atTable2
+12,03527;looked atTable2
+12,04873;looked atTable2
+12,05797;looked atTable2
+12,06827;looked atTable2
+12,07942;looked atTable2
+12,0914;looked atTable2
+12,1012;looked atTable2
+12,1012;objectChessPiece Variant (2) inside box
+12,11267;looked atTable2
+12,1244;looked atTable2
+12,13467;looked atTable2
+12,14644;looked atTable2
+12,15699;looked atTable2
+12,16807;looked atTable2
+12,17951;looked atTable2
+12,19036;looked atTable2
+12,20459;looked atTable2
+12,21249;looked atTable2
+12,22329;looked atTable2
+12,22329;objectChessPiece Variant inside box
+12,23531;looked atTable2
+12,24555;looked atTable2
+12,25895;looked atTable2
+12,26851;looked atTable2
+12,2913;looked atTable2
+12,30257;looked atTable2
+12,31328;looked atTable2
+12,3244;looked atTable2
+12,33586;looked atTable2
+12,34597;looked atTable2
+12,34597;objectChessPiece Variant (2) inside box
+12,36028;looked atTable2
+12,36827;looked atTable2
+12,37849;looked atTable2
+12,39019;looked atTable2
+12,40085;looked atTable2
+12,4119;looked atTable2
+12,42543;looked atTable2
+12,43392;looked atTable2
+12,44395;looked atTable2
+12,45611;looked atTable2
+12,46822;looked atTable2
+12,46822;objectChessPiece Variant inside box
+12,47774;looked atTable2
+12,48896;looked atTable2
+12,49955;looked atTable2
+12,51294;looked atTable2
+12,5221;looked atTable2
+12,53309;looked atTable2
+12,54343;looked atTable2
+12,55495;looked atTable2
+12,56625;looked atTable2
+12,57777;looked atTable2
+12,57777;objectChessPiece Variant (2) inside box
+12,5882;looked atTable2
+12,60036;looked atTable2
+12,61056;looked atTable2
+12,62139;looked atTable2
+12,63378;looked atTable2
+12,64355;looked atTable2
+12,65529;looked atTable2
+12,6692;looked atTable2
+12,67742;looked atTable2
+12,68809;looked atTable2
+12,70016;looked atTable2
+12,70016;objectChessPiece Variant inside box
+12,71059;looked atTable2
+12,72182;looked atTable2
+12,73347;looked atTable2
+12,7437;looked atTable2
+12,75548;looked atTable2
+12,76657;looked atTable2
+12,77749;looked atTable2
+12,7886;looked atTable2
+12,79999;looked atTable2
+12,8107;looked atTable2
+12,8107;objectChessPiece Variant (2) inside box
+12,82405;looked atTable2
+12,83402;looked atTable2
+12,84404;looked atTable2
+12,85586;looked atsimpleGrabCupMesh
+12,86615;looked atsimpleGrabCupMesh
+12,88173;looked atTable2
+12,88951;looked atTable2
+12,89859;looked atTable2
+12,91004;looked atTable2
+12,92185;looked atTable2
+12,93249;looked atTable2
+12,93249;objectChessPiece Variant inside box
+12,94327;looked atTable2
+12,95495;looked atTable2
+12,96621;looked atTable2
+12,98011;looked atTable2
+12,9886;looked atTable2
+12,99979;looked atTable2
+13,01063;looked atTable2
+13,0214;looked atTable2
+13,03367;looked atTable2
+13,04375;looked atTable2
+13,04375;objectChessPiece Variant (2) inside box
+13,05525;looked atTable2
+13,06688;looked atTable2
+13,07782;looked atTable2
+13,0885;looked atsimpleGrabTorchMesh
+13,10054;looked atsimpleGrabTorchMesh
+13,11097;looked atTable2
+13,12203;looked atsimpleGrabTorchMesh
+13,13598;looked atsimpleGrabTorchMesh
+13,1449;looked atsimpleGrabTorchMesh
+13,15607;looked atHand
+13,16702;looked atsimpleGrabTorchMesh
+13,16702;objectChessPiece Variant inside box
+13,17794;looked atsimpleGrabTorchMesh
+13,18928;looked atsimpleGrabTorchMesh
+13,20037;looked atsimpleGrabTorchMesh
+13,21116;looked atsimpleGrabTorchMesh
+13,22235;looked atsimpleGrabTorchMesh
+13,2339;looked atsimpleGrabTorchMesh
+13,24452;looked atsimpleGrabTorchMesh
+13,2565;looked atsimpleGrabTorchMesh
+13,26657;looked atsimpleGrabTorchMesh
+13,27822;looked atsimpleGrabTorchMesh
+13,27822;objectChessPiece Variant (2) inside box
+13,29216;looked atsimpleGrabTorchMesh
+13,3005;looked atsimpleGrabTorchMesh
+13,3115;looked atsimpleGrabTorchMesh
+13,32285;looked atsimpleGrabTorchMesh
+13,33359;looked atRoom
+13,34445;looked atRoom
+13,356;looked atRoom
+13,36737;looked atRoom
+13,37821;looked atTable
+13,38909;looked atTable
+13,40107;looked atTable
+13,40107;objectChessPiece Variant inside box
+13,41164;looked atTable
+13,42246;looked atTable
+13,43435;looked atbox2
+13,44756;looked atbox2
+13,45621;looked atbox2
+13,46761;looked atbox2
+13,47836;looked atbox2
+13,48916;looked atbox2
+13,50111;looked atbox2
+13,51154;looked atbox2
+13,51154;objectChessPiece Variant (2) inside box
+13,52294;looked atbox2
+13,53473;looked atbox2
+13,54449;looked atbox2
+13,55651;looked atbox2
+13,56707;looked atbox2
+13,5785;looked atbox2
+13,58995;looked atTable
+13,60294;looked atTable
+13,61177;looked atTable
+13,62269;looked atTable
+13,63418;looked atTable
+13,63418;objectChessPiece Variant inside box
+13,64495;looked atbox2
+13,65691;looked atbox2
+13,66683;looked atTable
+13,67855;looked atTable
+13,69024;looked atTable
+13,70029;looked atTable
+13,71172;looked atTable
+13,72324;looked atTable
+13,73405;looked atTable
+13,74491;looked atTable
+13,74491;objectChessPiece Variant (2) inside box
+13,7586;looked atTable
+13,77319;looked atTable
+13,77836;looked atTable
+13,79039;looked atTable
+13,80234;looked atTable
+13,81267;looked atTable
+13,82344;looked atTable
+13,83531;looked atTable
+13,84519;looked atTable
+13,85679;looked atTable
+13,86806;looked atTable
+13,86806;objectChessPiece Variant inside box
+13,87886;looked atTable
+13,89011;looked atbox2
+13,90134;looked atbox2
+13,91465;looked atbox2
+13,92315;looked atTable
+13,93468;looked atTable
+13,94489;looked atTable
+13,95741;looked atTable
+13,96733;looked atTable
+13,97829;looked atTable
+13,97829;objectChessPiece Variant (2) inside box
+13,98973;looked atTable
+14,00119;looked atTable
+14,01168;looked atTable
+14,02274;looked atTable
+14,03431;looked atTable
+14,04465;looked atTable
+14,05686;looked atTable
+14,06945;looked atTable
+14,07883;looked atTable
+14,09014;looked atTable
+14,10033;looked atTable
+14,10033;objectChessPiece Variant inside box
+14,11194;looked atTable
+14,12337;looked atbox1
+14,13394;looked atbox1
+14,14594;looked atbox1
+14,15643;looked atbox1
+14,16749;looked atbox1
+14,17879;looked atbox1
+14,18973;looked atbox1
+14,20102;looked atbox1
+14,21179;looked atbox1
+14,21179;objectChessPiece Variant (2) inside box
+14,22507;looked atbox1
+14,23519;looked atbox1
+14,24484;looked atbox1
+14,25622;looked atbox1
+14,26772;looked atbox1
+14,27863;looked atbox1
+14,28984;looked atbox1
+14,30121;looked atbox1
+14,312;looked atbox1
+14,32313;looked atbox1
+14,33471;looked atbox1
+14,33471;objectChessPiece Variant inside box
+14,34492;looked atbox1
+14,35705;looked atbox1
+14,36752;looked atbox1
+14,38131;looked atbox1
+14,39051;looked atbox1
+14,40085;looked atbox1
+14,41222;looked atbox1
+14,42342;looked atbox1
+14,43415;looked atbox1
+14,44483;looked atbox1
+14,44483;objectChessPiece Variant (2) inside box
+14,45689;looked atbox1
+14,46747;looked atbox1
+14,47874;looked atbox1
+14,49042;looked atbox1
+14,50053;looked atbox1
+14,51275;looked atbox1
+14,52367;looked atbox1
+14,53674;looked atbox1
+14,54507;looked atbox1
+14,55681;looked atbox1
+14,56806;looked atbox1
+14,56806;objectChessPiece Variant inside box
+14,57912;looked atbox1
+14,5903;looked atbox1
+14,60155;looked atbox1
+14,61217;looked atbox1
+14,62286;looked atHand
+14,63529;looked atHand
+14,64524;looked atHand
+14,65664;looked atHand
+14,66797;looked atHand
+14,67896;looked atHand
+14,67896;objectChessPiece Variant (2) inside box
+14,69283;looked atHand
+14,70158;looked atHand
+14,71238;looked atHand
+14,72335;looked atsimpleGrabTorchMesh
+14,73497;looked atHand
+14,7451;looked atsimpleGrabTorchMesh
+14,75702;looked atsimpleGrabTorchMesh
+14,76793;looked atsimpleGrabTorchMesh
+14,77883;looked atsimpleGrabTorchMesh
+14,79039;looked atsimpleGrabTorchMesh
+14,80121;looked atsimpleGrabTorchMesh
+14,80121;objectChessPiece Variant inside box
+14,81237;looked atsimpleGrabTorchMesh
+14,82413;looked atsimpleGrabTorchMesh
+14,83465;looked atsimpleGrabTorchMesh
+14,84755;looked atsimpleGrabTorchMesh
+14,85744;looked atsimpleGrabTorchMesh
+14,8674;looked atsimpleGrabTorchMesh
+14,8792;looked atsimpleGrabTorchMesh
+14,89071;looked atsimpleGrabTorchMesh
+14,90083;looked atsimpleGrabTorchMesh
+14,91244;looked atsimpleGrabTorchMesh
+14,91244;objectChessPiece Variant (2) inside box
+14,92381;looked atsimpleGrabTorchMesh
+14,93471;looked atsimpleGrabTorchMesh
+14,94543;looked atsimpleGrabTorchMesh
+14,95689;looked atsimpleGrabTorchMesh
+14,96833;looked atsimpleGrabTorchMesh
+14,97943;looked atsimpleGrabTorchMesh
+14,9903;looked atsimpleGrabTorchMesh
+15,00393;looked atsimpleGrabTorchMesh
+15,01249;looked atsimpleGrabTorchMesh
+15,02332;looked atsimpleGrabTorchMesh
+15,03546;looked atsimpleGrabTorchMesh
+15,03546;objectChessPiece Variant inside box
+15,0452;looked atsimpleGrabTorchMesh
+15,05695;looked atsimpleGrabTorchMesh
+15,06821;looked atsimpleGrabTorchMesh
+15,06821;looked at: Hand
+15,07892;looked atsimpleGrabTorchMesh
+15,07892;looked at: Hand
+15,09048;looked atsimpleGrabTorchMesh
+15,09048;looked at: Hand
+15,10145;looked atHand
+15,10145;looked at: Hand
+15,11216;looked atHand
+15,11216;looked at: Hand
+15,12317;looked atHand
+15,12317;looked at: Hand
+15,13468;looked atHand
+15,13468;looked at: Hand
+15,14575;looked atHand
+15,14575;looked at: Hand
+15,14575;objectChessPiece Variant (2) inside box
+15,15938;looked atHand
+15,15938;looked at: Hand
+15,16805;looked atHand
+15,16805;looked at: Hand
+15,17801;looked atHand
+15,17801;looked at: Hand
+15,19031;looked atHand
+15,19031;looked at: Hand
+15,20104;looked atHand
+15,20104;looked at: Hand
+15,21176;looked atHand
+15,21176;looked at: Hand
+15,22287;looked atHand
+15,22287;looked at: Hand
+15,23437;looked atHand
+15,23437;looked at: Hand
+15,245;looked atHand
+15,257;looked atHand
+15,26707;looked atHand
+15,26707;objectChessPiece Variant inside box
+15,27858;looked atHand
+15,29059;looked atHand
+15,30051;looked atHand
+15,31438;looked atHand
+15,32344;looked atHand
+15,33439;looked atbox1
+15,34511;looked atbox1
+15,35643;looked atbox1
+15,3679;looked atbox1
+15,37877;looked atbox1
+15,37877;objectChessPiece Variant (2) inside box
+15,39009;looked atHand
+15,40164;looked atHand
+15,41225;looked atHand
+15,42306;looked atHand
+15,43518;looked atHand
+15,44523;looked atHand
+15,45668;looked atHand
+15,47028;looked atHand
+15,47888;looked atHand
+15,49089;looked atHand
+15,50145;looked atHand
+15,50145;objectChessPiece Variant inside box
+15,51197;looked atHand
+15,52332;looked atHand
+15,53457;looked atHand
+15,54522;looked atHand
+15,55715;looked atHand
+15,56765;looked atHand
+15,57863;looked atHand
+15,59015;looked atHand
+15,60084;looked atHand
+15,61199;looked atHand
+15,61199;objectChessPiece Variant (2) inside box
+15,62553;looked atbox1
+15,63497;looked atbox1
+15,6451;looked atbox1
+15,65704;looked atbox1
+15,66725;looked atbox1
+15,67872;looked atbox1
+15,6906;looked atbox1
+15,70103;looked atbox1
+15,71264;looked atbox1
+15,72358;looked atbox1
+15,73453;looked atbox1
+15,73453;objectChessPiece Variant inside box
+15,74508;looked atbox1
+15,75731;looked atbox1
+15,76803;looked atbox1
+15,78162;looked atbox1
+15,79021;looked atbox1
+15,80137;looked atbox1
+15,81228;looked atbox1
+15,82295;looked atbox1
+15,83513;looked atbox1
+15,84497;looked atbox1
+15,84497;objectChessPiece Variant (2) inside box
+15,8569;looked atbox1
+15,86846;looked atbox1
+15,87899;looked atbox1
+15,8905;looked atbox1
+15,90129;looked atbox1
+15,91216;looked atbox1
+15,92356;looked atbox1
+15,93733;looked atbox1
+15,94499;looked atHand
+15,95715;looked atHand
+15,9673;looked atsimpleGrabTorchMesh
+15,9673;objectChessPiece Variant inside box
+15,97877;looked atHand
+15,99023;looked atHand
+16,00079;looked atsimpleGrabTorchMesh
+16,01229;looked atsimpleGrabTorchMesh
+16,02318;looked atsimpleGrabTorchMesh
+16,03458;looked atsimpleGrabTorchMesh
+16,04502;looked atsimpleGrabTorchMesh
+16,05712;looked atsimpleGrabTorchMesh
+16,06728;looked atsimpleGrabTorchMesh
+16,07884;looked atsimpleGrabTorchMesh
+16,07884;objectChessPiece Variant (2) inside box
+16,09289;looked atsimpleGrabTorchMesh
+16,10103;looked atsimpleGrabTorchMesh
+16,11235;looked atsimpleGrabTorchMesh
+16,12527;looked atsimpleGrabTorchMesh
+16,13455;looked atsimpleGrabTorchMesh
+16,14581;looked atsimpleGrabTorchMesh
+16,15665;looked atsimpleGrabTorchMesh
+16,16794;looked atsimpleGrabTorchMesh
+16,17881;looked atsimpleGrabTorchMesh
+16,19014;looked atsimpleGrabTorchMesh
+16,20113;looked atsimpleGrabTorchMesh
+16,20113;objectChessPiece Variant inside box
+16,21257;looked atsimpleGrabTorchMesh
+16,22322;looked atsimpleGrabTorchMesh
+16,23526;looked atsimpleGrabTorchMesh
+16,24738;looked atbox1
+16,25687;looked atbox1
+16,268;looked atbox1
+16,27897;looked atbox1
+16,29027;looked atbox1
+16,30146;looked atbox1
+16,3123;looked atbox1
+16,3123;objectChessPiece Variant (2) inside box
+16,32308;looked atbox1
+16,33507;looked atbox1
+16,34489;looked atbox1
+16,35731;looked atbox1
+16,36788;looked atbox1
+16,37917;looked atbox1
+16,39037;looked atbox1
+16,40412;looked atbox1
+16,41292;looked atbox1
+16,42354;looked atbox1
+16,43467;looked atbox1
+16,43467;objectChessPiece Variant inside box
+16,44498;looked atbox1
+16,45751;looked atbox1
+16,46735;looked atbox1
+16,47884;looked atbox1
+16,49054;looked atbox1
+16,50111;looked atbox1
+16,51231;looked atbox1
+16,52398;looked atbox1
+16,53446;looked atbox1
+16,54516;looked atbox1
+16,54516;objectChessPiece Variant (2) inside box
+16,55928;looked atbox1
+16,56898;looked atbox1
+16,57868;looked atbox1
+16,59017;looked atbox1
+16,60161;looked atbox1
+16,61231;looked atbox1
+16,62324;looked atbox1
+16,63521;looked atbox1
+16,64534;looked atbox1
+16,65688;looked atbox1
+16,66818;looked atsimpleGrabTorchMesh
+16,66818;objectChessPiece Variant inside box
+16,67903;looked atbox1
+16,69047;looked atRoom
+16,70172;looked atRoom
+16,71545;looked atRoom
+16,72445;looked atRoom
+16,73509;looked atRoom
+16,74521;looked atRoom
+16,75706;looked atRoom
+16,76764;looked atRoom
+16,779;looked atRoom
+16,779;objectChessPiece Variant (2) inside box
+16,79074;looked atRoom
+16,80139;looked atRoom
+16,81212;looked atRoom
+16,82359;looked atRoom
+16,83454;looked atRoom
+16,84512;looked atRoom
+16,85739;looked atRoom
+16,86956;looked atRoom
+16,88698;looked atRoom
+16,89102;looked atRoom
+16,90152;looked atRoom
+16,90152;objectChessPiece Variant inside box
+16,91306;looked atRoom
+16,92459;looked atRoom
+16,93504;looked atRoom
+16,94557;looked atRoom
+16,95711;looked atRoom
+16,96832;looked atRoom
+16,97962;looked atRoom
+16,9904;looked atRoom
+17,00171;looked atTable2
+17,01249;looked atTable2
+17,01249;objectChessPiece Variant (2) inside box
+17,02588;looked atTable2
+17,03529;looked atTable2
+17,04521;looked atTable2
+17,05661;looked atsimpleGrabCupMesh
+17,0679;looked atsimpleGrabCupMesh
+17,07882;looked atTable2
+17,09017;looked atsimpleGrabCupMesh
+17,10115;looked atsimpleGrabCupMesh
+17,11209;looked atTable2
+17,12311;looked atTable2
+17,13481;looked atTable2
+17,13481;objectChessPiece Variant inside box
+17,14534;looked atTable2
+17,15698;looked atTable2
+17,16735;looked atTable2
+17,18071;looked atTable2
+17,19018;looked atTable2
+17,2008;looked atTable2
+17,21189;looked atTable2
+17,22346;looked atTable2
+17,23426;looked atTable2
+17,24496;looked atTable2
+17,24496;objectChessPiece Variant (2) inside box
+17,2569;looked atTable2
+17,26731;looked atTable2
+17,27857;looked atTable2
+17,29037;looked atTable2
+17,30063;looked atTable2
+17,31205;looked atTable2
+17,32361;looked atTable2
+17,33646;looked atTable2
+17,34538;looked atTable2
+17,35665;looked atTable2
+17,36798;looked atTable2
+17,36798;objectChessPiece Variant inside box
+17,37891;looked atTable2
+17,38996;looked atTable2
+17,40116;looked atTable2
+17,4123;looked atTable2
+17,42308;looked atTable2
+17,43496;looked atTable2
+17,44515;looked atTable2
+17,45667;looked atTable2
+17,46826;looked atTable2
+17,47904;looked atTable2
+17,47904;objectChessPiece Variant (2) inside box
+17,49281;looked atTable2
+17,50152;looked atTable2
+17,51239;looked atTable2
+17,52361;looked atTable2
+17,53503;looked atTable2
+17,54531;looked atTable2
+17,55721;looked atTable2
+17,56807;looked atTable2
+17,57917;looked atTable2
+17,59115;looked atTable2
+17,60102;looked atTable2
+17,60102;objectChessPiece Variant inside box
+17,61238;looked atTable2
+17,62438;looked atTable2
+17,63512;looked atTable2
+17,64808;looked atTable2
+17,6577;looked atTable2
+17,66817;looked atTable2
+17,67922;looked atTable2
+17,69175;looked atTable2
+17,70117;looked atTable2
+17,71271;looked atsimpleGrabCupMesh
+17,71271;objectChessPiece Variant (2) inside box
+17,72433;looked atsimpleGrabCupMesh
+17,73499;looked atsimpleGrabCupMesh
+17,74544;looked atsimpleGrabCupMesh
+17,75691;looked atsimpleGrabCupMesh
+17,76755;looked atsimpleGrabCupMesh
+17,77983;looked atTable2
+17,79084;looked atTable2
+17,80386;looked atTable2
+17,81248;looked atTable2
+17,82335;looked atTable2
+17,83536;looked atsimpleGrabCupMesh
+17,83536;objectChessPiece Variant inside box
+17,84556;looked atTable2
+17,85711;looked atTable2
+17,86844;looked atTable2
+17,87953;looked atTable2
+17,8909;looked atTable2
+17,90193;looked atTable2
+17,91269;looked atTable2
+17,92383;looked atTable2
+17,93508;looked atTable2
+17,94574;looked atTable2
+17,94574;objectChessPiece Variant (2) inside box
+17,95977;looked atsimpleGrabCupMesh
+17,96867;looked atTable2
+17,97896;looked atTable2
+17,99048;looked atTable2
+18,00148;looked atTable2
+18,01257;looked atTable2
+18,02404;looked atTable2
+18,03466;looked atTable2
+18,04542;looked atsimpleGrabCupMesh
+18,05772;looked atsimpleGrabCupMesh
+18,06773;looked atTable2
+18,06773;objectChessPiece Variant inside box
+18,07934;looked atTable2
+18,0911;looked atsimpleGrabCupMesh
+18,10122;looked atsimpleGrabCupMesh
+18,11564;looked atTable2
+18,12401;looked atTable2
+18,13465;looked atTable2
+18,14636;looked atTable2
+18,15713;looked atsimpleGrabCupMesh
+18,16927;looked atTable2
+18,17998;looked atTable2
+18,17998;objectChessPiece Variant (2) inside box
+18,19096;looked atTable2
+18,20249;looked atTable2
+18,21307;looked atsimpleGrabCupMesh
+18,22375;looked atTable2
+18,23545;looked atTable2
+18,24594;looked atTable2
+18,25727;looked atTable2
+18,27069;looked atTable2
+18,27928;looked atTable2
+18,29053;looked atTable2
+18,30169;looked atTable2
+18,30169;objectChessPiece Variant inside box
+18,31236;looked atTable2
+18,32378;looked atTable2
+18,33496;looked atTable2
+18,34511;looked atTable2
+18,35695;looked atTable2
+18,36765;looked atTable2
+18,3787;looked atTable2
+18,39043;looked atTable2
+18,40124;looked atTable2
+18,41228;looked atTable2
+18,41228;objectChessPiece Variant (2) inside box
+18,42586;looked atTable2
+18,43459;looked atTable2
+18,44533;looked atTable2
+18,45713;looked atTable2
+18,4674;looked atTable2
+18,49283;looked atTable2
+18,50115;looked atTable2
+18,51223;looked atTable2
+18,52358;looked atTable2
+18,5342;looked atTable2
+18,54492;looked atTable2
+18,54492;objectChessPiece Variant inside box
+18,55656;looked atTable2
+18,56806;looked atTable2
+18,58087;looked atTable2
+18,58964;looked atTable2
+18,60106;looked atTable2
+18,61187;looked atTable2
+18,62302;looked atTable2
+18,63489;looked atTable2
+18,64466;looked atTable2
+18,64466;looked at: Hand
+18,65627;looked atTable2
+18,65627;looked at: Hand
+18,65627;objectChessPiece Variant (2) inside box
+18,6675;looked atTable2
+18,6783;looked atTable2
+18,69206;looked atTable2
+18,7007;looked atTable2
+18,71049;looked atTable2
+18,72164;looked atTable2
+18,7367;looked atTable2
+18,74439;looked atTable2
+18,75571;looked atTable2
+18,76637;looked atTable2
+18,77724;looked atTable2
+18,77724;objectChessPiece Variant inside box
+18,78842;looked atTable2
+18,79983;looked atTable2
+18,8106;looked atTable2
+18,82181;looked atTable2
+18,83313;looked atTable2
+18,84364;looked atTable2
+18,8557;looked atTable2
+18,86591;looked atTable2
+18,87789;looked atTable2
+18,8913;looked atTable2
+18,8913;objectChessPiece Variant (2) inside box
+18,89964;looked atTable2
+18,91091;looked atTable2
+18,92226;looked atTable2
+18,93297;looked atTable2
+18,94357;looked atTable2
+18,95515;looked atTable2
+18,96659;looked atTable2
+18,97822;looked atTable2
+18,98873;looked atTable2
+19,0004;looked atTable2
+19,01078;looked atTable2
+19,01078;objectChessPiece Variant inside box
+19,02187;looked atTable2
+19,0341;looked atTable2
+19,04673;looked atTable2
+19,05564;looked atTable2
+19,06699;looked atTable2
+19,07756;looked atTable2
+19,08829;looked atTable2
+19,10034;looked atTable2
+19,11074;looked atTable2
+19,12205;looked atTable2
+19,12205;objectChessPiece Variant (2) inside box
+19,13373;looked atTable2
+19,14491;looked atTable2
+19,15599;looked atTable2
+19,16646;looked atTable2
+19,17738;looked atTable2
+19,18924;looked atTable2
+19,20288;looked atTable2
+19,21076;looked atTable2
+19,22219;looked atTable2
+19,23355;looked atTable2
+19,24381;looked atTable2
+19,24381;objectChessPiece Variant inside box
+19,25593;looked atTable2
+19,26642;looked atTable2
+19,27777;looked atTable2
+19,28915;looked atTable2
+19,2999;looked atTable2
+19,311;looked atTable2
+19,32274;looked atTable2
+19,33324;looked atTable2
+19,344;looked atTable2
+19,35807;looked atTable2
+19,35807;objectChessPiece Variant (2) inside box
+19,36678;looked atTable2
+19,37828;looked atTable2
+19,38884;looked atTable2
+19,40095;looked atTable2
+19,4112;looked atTable2
+19,42192;looked atTable2
+19,43408;looked atTable2
+19,44415;looked atTable2
+19,4557;looked atTable2
+19,467;looked atTable2
+19,47784;looked atTable2
+19,47784;objectChessPiece Variant inside box
+19,48879;looked atTable2
+19,48879;looked at: Hand
+19,50111;looked atTable2
+19,50111;looked at: Hand
+19,51373;looked atTable2
+19,51373;looked at: Hand
+19,52264;looked atTable2
+19,53413;looked atTable2
+19,53413;looked at: Hand
+19,54421;looked atTable2
+19,54421;looked at: Hand
+19,55683;looked atTable2
+19,55683;looked at: Hand
+19,56677;looked atTable2
+19,56677;looked at: Hand
+19,57799;looked atTable2
+19,57799;looked at: Hand
+19,58917;looked atTable2
+19,58917;looked at: Hand
+19,58917;objectChessPiece Variant (2) inside box
+19,60056;looked atTable2
+19,60056;looked at: Hand
+19,61139;looked atTable2
+19,61139;looked at: Hand
+19,62266;looked atTable2
+19,62266;looked at: Hand
+19,63385;looked atTable2
+19,63385;looked at: Hand
+19,64443;looked atTable2
+19,65628;looked atTable2
+19,6691;looked atTable2
+19,67826;looked atTable2
+19,68965;looked atTable2
+19,70022;looked atTable2
+19,71136;looked atTable2
+19,71136;looked at: Hand
+19,71136;objectChessPiece Variant inside box
+19,72292;looked atTable2
+19,7338;looked atTable2
+19,74427;looked atTable2
+19,75619;looked atsimpleGrabCupMesh
+19,75619;looked at: Hand
+19,7677;looked atsimpleGrabCupMesh
+19,77856;looked atsimpleGrabCupMesh
+19,78927;looked atsimpleGrabCupMesh
+19,80071;looked atsimpleGrabCupMesh
+19,81153;looked atsimpleGrabCupMesh
+19,82506;looked atsimpleGrabCupMesh
+19,82506;objectChessPiece Variant (2) inside box
+19,83466;looked atsimpleGrabCupMesh
+19,84473;looked atsimpleGrabCupMesh
+19,85621;looked atsimpleGrabCupMesh
+19,86746;looked atHand
+19,87822;looked atHand
+19,88904;looked atHand
+19,90103;looked atHand
+19,91155;looked atHand
+19,92286;looked atRoom
+19,93458;looked atRoom
+19,94476;looked atRoom
+19,94476;objectChessPiece Variant inside box
+19,95686;looked atRoom
+19,96792;looked atRoom
+19,98101;looked atRoom
+19,99006;looked atRoom
+20,00076;looked atRoom
+20,01196;looked atRoom
+20,0232;looked atRoom
+20,03399;looked atRoom
+20,04489;looked atRoom
+20,05699;looked atbox1
+20,05699;objectChessPiece Variant (2) inside box
+20,06709;looked atbox1
+20,07865;looked atbox1
+20,09033;looked atbox1
+20,10063;looked atbox1
+20,11178;looked atbox1
+20,12317;looked atbox1
+20,13631;looked atbox1
+20,14578;looked atbox1
+20,15656;looked atTable
+20,1677;looked atbox1
+20,17858;looked atTable
+20,17858;objectChessPiece Variant inside box
+20,18959;looked atbox1
+20,20144;looked atbox1
+20,2119;looked atbox1
+20,22274;looked atbox1
+20,23479;looked atbox1
+20,24498;looked atbox1
+20,25654;looked atbox1
+20,26803;looked atbox1
+20,27887;looked atbox1
+20,29274;looked atbox1
+20,29274;objectChessPiece Variant (2) inside box
+20,30123;looked atbox1
+20,3124;looked atTable
+20,3232;looked atTable
+20,33476;looked atTable
+20,34519;looked atTable
+20,35712;looked atbox2
+20,36773;looked atbox2
+20,37869;looked atbox2
+20,39026;looked atbox2
+20,40083;looked atbox2
+20,41208;looked atbox2
+20,41208;objectChessPiece Variant inside box
+20,42342;looked atbox2
+20,43483;looked atbox2
+20,44742;looked atbox2
+20,45706;looked atbox2
+20,46727;looked atbox2
+20,47862;looked atbox2
+20,49045;looked atbox2
+20,50054;looked atbox2
+20,51216;looked atbox2
+20,52349;looked atbox2
+20,52349;objectChessPiece Variant (2) inside box
+20,53427;looked atbox2
+20,54516;looked atbox2
+20,55675;looked atbox2
+20,56793;looked atbox2
+20,57866;looked atbox2
+20,58991;looked atbox2
+20,60344;looked atbox2
+20,61218;looked atbox2
+20,623;looked atbox2
+20,63495;looked atbox2
+20,64526;looked atbox2
+20,64526;objectChessPiece Variant inside box
+20,65663;looked atbox2
+20,66806;looked atbox2
+20,6788;looked atbox2
+20,68994;looked atbox2
+20,70126;looked atbox2
+20,71233;looked atbox2
+20,72383;looked atbox2
+20,7349;looked atbox2
+20,74503;looked atbox2
+20,75951;looked atbox2
+20,75951;objectChessPiece Variant (2) inside box
+20,76796;looked atbox2
+20,77844;looked atbox2
+20,78988;looked atbox2
+20,80117;looked atbox2
+20,81216;looked atbox2
+20,82354;looked atbox2
+20,8344;looked atbox2
+20,84523;looked atbox2
+20,85719;looked atbox2
+20,86732;looked atbox2
+20,87879;looked atbox2
+20,87879;objectChessPiece Variant inside box
+20,89064;looked atbox2
+20,90079;looked atbox2
+20,91536;looked atbox2
+20,9236;looked atbox2
+20,93454;looked atbox2
+20,94507;looked atbox2
+20,95653;looked atbox2
+20,96801;looked atbox2
+20,97884;looked atbox2
+20,99031;looked atbox2
+20,99031;objectChessPiece Variant (2) inside box
+21,00156;looked atbox2
+21,01234;looked atbox2
+21,02299;looked atbox2
+21,03507;looked atbox2
+21,04544;looked atbox2
+21,05675;looked atbox2
+21,07027;looked atbox2
+21,07904;looked atbox2
+21,09031;looked atbox2
+21,10143;looked atbox2
+21,11212;looked atbox2
+21,11212;objectChessPiece Variant inside box
+21,12346;looked atbox2
+21,13504;looked atbox2
+21,14592;looked atbox2
+21,1577;looked atbox2
+21,16756;looked atbox2
+21,17873;looked atbox2
+21,19016;looked atbox2
+21,20089;looked atbox2
+21,21218;looked atbox2
+21,22571;looked atbox2
+21,22571;objectChessPiece Variant (2) inside box
+21,23448;looked atbox2
+21,24546;looked atbox2
+21,25723;looked atbox2
+21,26746;looked atbox2
+21,27916;looked atbox2
+21,29069;looked atbox2
+21,30075;looked atbox2
+21,31235;looked atbox2
+21,32372;looked atHand
+21,33455;looked atHand
+21,34537;looked atHand
+21,34537;objectChessPiece Variant inside box
+21,3569;looked atHand
+21,36862;looked atHand
+21,3814;looked atHand
+21,39024;looked atHand
+21,40166;looked atHand
+21,40166;looked at: Hand
+21,41264;looked atHand
+21,41264;looked at: Hand
+21,42345;looked atHand
+21,42345;looked at: Hand
+21,43522;looked atHand
+21,44544;looked atHand
+21,45679;looked atHand
+21,45679;objectChessPiece Variant (2) inside box
+21,4677;looked atbox2
+21,48011;looked atbox2
+21,49074;looked atbox2
+21,50149;looked atbox2
+21,51222;looked atbox2
+21,52347;looked atbox2
+21,53718;looked atbox2
+21,54551;looked atbox2
+21,55714;looked atbox2
+21,56797;looked atbox2
+21,57888;looked atbox2
+21,57888;objectChessPiece Variant inside box
+21,59076;looked atbox2
+21,6015;looked atbox2
+21,61298;looked atbox2
+21,62416;looked atbox2
+21,63497;looked atbox2
+21,64563;looked atbox2
+21,65761;looked atbox2
+21,66779;looked atbox2
+21,67949;looked atbox2
+21,69332;looked atbox2
+21,69332;objectChessPiece Variant (2) inside box
+21,70107;looked atbox2
+21,71271;looked atbox2
+21,72379;looked atbox2
+21,73454;looked atbox2
+21,74531;looked atbox2
+21,75676;looked atbox2
+21,76827;looked atbox2
+21,77943;looked atbox2
+21,79033;looked atbox2
+21,80192;looked atbox2
+21,81256;looked atbox2
+21,81256;objectChessPiece Variant inside box
+21,82317;looked atbox2
+21,83559;looked atHand
+21,84778;looked atHand
+21,8572;looked atHand
+21,86824;looked atbox2
+21,87913;looked atbox2
+21,89091;looked atbox2
+21,90149;looked atbox2
+21,91223;looked atbox2
+21,92344;looked atbox2
+21,92344;objectChessPiece Variant (2) inside box
+21,93503;looked atbox2
+21,94542;looked atbox2
+21,95717;looked atbox2
+21,96763;looked atbox2
+21,97911;looked atbox2
+21,99063;looked atbox2
+22,00342;looked atbox2
+22,01249;looked atTable
+22,02395;looked atTable
+22,03461;looked atTable
+22,04537;looked atTable
+22,04537;objectChessPiece Variant inside box
+22,05745;looked atTable
+22,06783;looked atbox1
+22,07897;looked atbox1
+22,09043;looked atbox1
+22,10112;looked atsimpleGrabTorchMesh
+22,11251;looked atsimpleGrabTorchMesh
+22,1244;looked atsimpleGrabTorchMesh
+22,13535;looked atsimpleGrabTorchMesh
+22,14606;looked atbox1
+22,15934;looked atbox1
+22,15934;objectChessPiece Variant (2) inside box
+22,16852;looked atbox1
+22,17857;looked atRoom
+22,19009;looked atRoom
+22,20157;looked atRoom
+22,21252;looked atRoom
+22,2233;looked atRoom
+22,2354;looked atRoom
+22,24564;looked atRoom
+22,25735;looked atRoom
+22,26847;looked atTable2
+22,27929;looked atTable2
+22,27929;objectChessPiece Variant inside box
+22,29073;looked atTable2
+22,30183;looked atTable2
+22,31507;looked atTable2
+22,32381;looked atTable2
+22,33555;looked atTable2
+22,34581;looked atTable2
+22,35759;looked atTable2
+22,36827;looked atTable2
+22,37933;looked atTable2
+22,3907;looked atTable2
+22,3907;objectChessPiece Variant (2) inside box
+22,40138;looked atTable2
+22,41284;looked atTable2
+22,42408;looked atTable2
+22,43479;looked atTable2
+22,44563;looked atTable2
+22,45781;looked atTable2
+22,46992;looked atTable2
+22,47936;looked atTable2
+22,49091;looked atTable2
+22,50081;looked atTable2
+22,51247;looked atTable2
+22,51247;objectChessPiece Variant inside box
+22,52385;looked atTable2
+22,53488;looked atTable2
+22,54547;looked atTable2
+22,5574;looked atTable2
+22,56867;looked atTable2
+22,5795;looked atTable2
+22,59061;looked atTable2
+22,60207;looked atTable2
+22,61293;looked atTable2
+22,62638;looked atBoundsCollider
+22,62638;objectChessPiece Variant (2) inside box
+22,6358;looked atTable2
+22,64602;looked atTable2
+22,65745;looked atTable2
+22,66878;looked atBoundsCollider
+22,67993;looked atBoundsCollider
+22,69147;looked atTable2
+22,702;looked atTable2
+22,7128;looked atTable2
+22,72389;looked atTable2
+22,73549;looked atTable2
+22,74583;looked atTable2
+22,74583;objectChessPiece Variant inside box
+22,75765;looked atTable2
+22,76871;looked atTable2
+22,78182;looked atTable2
+22,79133;looked atTable2
+22,80145;looked atTable2
+22,81278;looked atTable2
+22,82424;looked atTable2
+22,83496;looked atTable2
+22,84589;looked atTable2
+22,85801;looked atTable2
+22,85801;objectChessPiece Variant (2) inside box
+22,86822;looked atTable2
+22,87988;looked atTable2
+22,89156;looked atTable2
+22,9014;looked atTable2
+22,91275;looked atTable2
+22,92428;looked atTable2
+22,93754;looked atTable2
+22,94605;looked atTable2
+22,9575;looked atTable2
+22,96879;looked atTable2
+22,97977;looked atTable2
+22,97977;objectChessPiece Variant inside box
+22,99087;looked atTable2
+23,00228;looked atTable2
+23,0131;looked atTable2
+23,02375;looked atBoundsCollider
+23,03597;looked atBoundsCollider
+23,04599;looked atTable2
+23,0577;looked atTable2
+23,06888;looked atTable2
+23,07975;looked atTable2
+23,09327;looked atTable2
+23,09327;objectChessPiece Variant (2) inside box
+23,10197;looked atTable2
+23,11303;looked atTable2
+23,12437;looked atTable2
+23,13568;looked atTable2
+23,14665;looked atTable2
+23,15779;looked atTable2
+23,16857;looked atTable2
+23,17963;looked atTable2
+23,19131;looked atTable2
+23,20141;looked atTable2
+23,21268;looked atTable2
+23,21268;objectChessPiece Variant inside box
+23,22427;looked atTable2
+23,23524;looked atTable2
+23,24872;looked atTable2
+23,25813;looked atTable2
+23,26825;looked atTable2
+23,27948;looked atTable2
+23,29136;looked atTable2
+23,30175;looked atTable2
+23,31315;looked atTable2
+23,32464;looked atTable2
+23,32464;objectChessPiece Variant (2) inside box
+23,33539;looked atTable2
+23,34614;looked atTable2
+23,35781;looked atTable2
+23,36888;looked atTable2
+23,37967;looked atTable2
+23,39086;looked atTable2
+23,40481;looked atTable2
+23,41321;looked atTable2
+23,42401;looked atTable2
+23,43583;looked atTable2
+23,44607;looked atTable2
+23,44607;objectChessPiece Variant inside box
+23,45804;looked atTable2
+23,4692;looked atTable2
+23,47978;looked atTable2
+23,49111;looked atTable2
+23,50222;looked atTable2
+23,513;looked atTable2
+23,5242;looked atTable2
+23,5356;looked atTable2
+23,5462;looked atTable2
+23,56042;looked atTable2
+23,56042;objectChessPiece Variant (2) inside box
+23,56903;looked atTable2
+23,57949;looked atTable2
+23,5914;looked atTable2
+23,60053;looked atTable2
+23,61214;looked atTable2
+23,62362;looked atTable2
+23,63436;looked atTable2
+23,64507;looked atTable2
+23,64507;object ChessPiece Variant (1) is being grabbed
+23,65727;looked atTable2
+23,66758;looked atTable2
+23,67874;looked atTable2
+23,67874;objectChessPiece Variant inside box
+23,69054;looked atTable2
+23,70097;looked atTable2
+23,71514;looked atTable2
+23,72346;looked atTable2
+23,73425;looked atTable2
+23,74505;looked atTable2
+23,75663;looked atTable2
+23,76818;looked atTable2
+23,77891;looked atTable2
+23,79005;looked atTable2
+23,79005;objectChessPiece Variant (2) inside box
+23,80154;looked atTable2
+23,81219;looked atTable2
+23,8234;looked atTable2
+23,83489;looked atTable2
+23,84508;looked atTable2
+23,85677;looked atTable2
+23,87057;looked atTable2
+23,87889;looked atTable2
+23,87889;object ChessPiece Variant (1) is being grabbed
+23,89003;looked atTable2
+23,90177;looked atTable2
+23,91211;looked atTable2
+23,91211;objectChessPiece Variant inside box
+23,9233;looked atTable2
+23,93488;looked atTable2
+23,94466;looked atTable2
+23,95698;looked atTable2
+23,96825;looked atTable2
+23,97842;looked atTable2
+23,98975;looked atTable2
+24,00099;looked atTable2
+24,01189;looked atTable2
+24,0251;looked atTable2
+24,0251;objectChessPiece Variant (2) inside box
+24,03497;looked atTable2
+24,04534;looked atTable2
+24,05684;looked atTable2
+24,06695;looked atTable2
+24,07836;looked atTable2
+24,08969;looked atTable2
+24,10055;looked atTable2
+24,11168;looked atTable2
+24,11168;object ChessPiece Variant (1) is being grabbed
+24,12325;looked atTable2
+24,13417;looked atTable2
+24,14542;looked atTable2
+24,14542;objectChessPiece Variant inside box
+24,15645;looked atTable2
+24,16818;looked atTable2
+24,18072;looked atTable2
+24,18963;looked atTable2
+24,20101;looked atTable2
+24,21171;looked atTable2
+24,22264;looked atTable2
+24,23472;looked atTable2
+24,24507;looked atTable2
+24,25637;looked atTable2
+24,25637;objectChessPiece Variant (2) inside box
+24,26753;looked atHand
+24,27862;looked atHand
+24,28977;looked atHand
+24,30093;looked atHand
+24,31169;looked atHand
+24,32283;looked atHand
+24,33665;looked atHand
+24,34483;looked atHand
+24,34483;object ChessPiece Variant (1) is being grabbed
+24,35669;looked atHand
+24,36754;looked atHand
+24,37829;looked atHand
+24,37829;objectChessPiece Variant inside box
+24,38948;looked atHand
+24,40148;looked atHand
+24,41184;looked atHand
+24,42291;looked atHand
+24,43452;looked atHand
+24,44475;looked atHand
+24,45714;looked atHand
+24,46729;looked atHand
+24,47866;looked atHand
+24,49267;looked atHand
+24,49267;objectChessPiece Variant (2) inside box
+24,50037;looked atHand
+24,51188;looked atHand
+24,52349;looked atHand
+24,53382;looked atHand
+24,54466;looked atHand
+24,55622;looked atHand
+24,5674;looked atHand
+24,57891;looked atHand
+24,57891;object ChessPiece Variant (1) is being grabbed
+24,58983;looked atHand
+24,60132;looked atBoundsCollider
+24,61181;looked atBoundsCollider
+24,61181;objectChessPiece Variant inside box
+24,62271;looked atTable2
+24,63483;looked atTable2
+24,64703;looked atTable2
+24,65706;looked atTable2
+24,66788;looked atTable2
+24,67853;looked atTable2
+24,68962;looked atTable2
+24,70098;looked atBasketball
+24,71198;looked atBasketball
+24,72316;looked atRoom
+24,72316;objectChessPiece Variant (2) inside box
+24,73456;looked atRoom
+24,74482;looked atRoom
+24,7567;looked atBasketball
+24,76739;looked atBasketball
+24,77827;looked atBasketball
+24,78942;looked atBasketball
+24,80306;looked atBasketball
+24,81176;looked atBasketball
+24,81176;object ChessPiece Variant (1) is being grabbed
+24,82273;looked atBasketball
+24,83449;looked atBasketball
+24,84477;looked atBasketball
+24,84477;objectChessPiece Variant inside box
+24,85692;looked atBasketball
+24,86762;looked atBasketball
+24,87855;looked atBasketball
+24,89003;looked atBasketball
+24,90012;looked atBasketball
+24,91166;looked atBasketball
+24,92308;looked atBasketball
+24,93405;looked atBasketball
+24,94459;looked atBasketball
+24,95888;looked atBasketball
+24,95888;objectChessPiece Variant (2) inside box
+24,96816;looked atBasketball
+24,97836;looked atBasketball
+24,98918;looked atBasketball
+25,00122;looked atBasketball
+25,01196;looked atBasketball
+25,02267;looked atBasketball
+25,03463;looked atBasketball
+25,04479;looked atBasketball
+25,04479;object ChessPiece Variant (1) is being grabbed
+25,05641;looked atBasketball
+25,06804;looked atBasketball
+25,07914;looked atBasketball
+25,07914;objectChessPiece Variant inside box
+25,08996;looked atBasketball
+25,10108;looked atBasketball
+25,1143;looked atBasketball
+25,12305;looked atBasketball
+25,13467;looked atBasketball
+25,14553;looked atBasketball
+25,15633;looked atBasketball
+25,16727;looked atBasketball
+25,17807;looked atBasketball
+25,18931;looked atBasketball
+25,18931;objectChessPiece Variant (2) inside box
+25,20064;looked atBasketball
+25,21201;looked atBasketball
+25,2228;looked atBasketball
+25,23417;looked atRoom
+25,24461;looked atRoom
+25,25668;looked atRoom
+25,27;looked atRoom
+25,27887;looked atRoom
+25,27887;object ChessPiece Variant (1) is being grabbed
+25,29;looked atBasketball
+25,30064;looked atBasketball
+25,31179;looked atBasketball
+25,31179;objectChessPiece Variant inside box
+25,32303;looked atBasketball
+25,33406;looked atBasketball
+25,34442;looked atRoom
+25,35622;looked atBasketball
+25,36771;looked atBasketball
+25,37854;looked atBasketball
+25,38958;looked atBasketball
+25,40079;looked atBasketball
+25,41213;looked atBasketball
+25,42485;looked atBasketball
+25,42485;objectChessPiece Variant (2) inside box
+25,43468;looked atBasketball
+25,44482;looked atBasketball
+25,45642;looked atBasketball
+25,4678;looked atBasketball
+25,47851;looked atBasketball
+25,49048;looked atBasketball
+25,50102;looked atBasketball
+25,51175;looked atBasketball
+25,51175;object Basketball 1 was grabbed
+25,51175;object ChessPiece Variant (1) is being grabbed
+25,52307;looked atBasketball
+25,5348;looked atBasketball
+25,54451;looked atBasketball
+25,54451;objectChessPiece Variant inside box
+25,55623;looked atBasketball
+25,56729;looked atBasketball
+25,58043;looked atBasketball
+25,5898;looked atBasketball
+25,60039;looked atBasketball
+25,61136;looked atBasketball
+25,62274;looked atBasketball
+25,63411;looked atBasketball
+25,64457;looked atBasketball
+25,6567;looked atBasketball
+25,6567;objectChessPiece Variant (2) inside box
+25,66683;looked atBasketball
+25,67861;looked atBasketball
+25,69077;looked atBasketball
+25,70048;looked atBasketball
+25,71187;looked atBasketball
+25,7232;looked atBasketball
+25,73633;looked atBasketball
+25,74465;looked atBasketball
+25,74465;object Basketball 1 was grabbed
+25,74465;object ChessPiece Variant (1) is being grabbed
+25,75603;looked atBasketball
+25,76797;looked atBasketball
+25,77827;looked atBasketball
+25,77827;objectChessPiece Variant inside box
+25,78924;looked atBasketball
+25,8013;looked atBasketball
+25,81182;looked atBasketball
+25,82257;looked atBasketball
+25,83476;looked atBasketball
+25,84457;looked atBasketball
+25,85628;looked atBasketball
+25,86752;looked atBasketball
+25,87852;looked atBasketball
+25,89198;looked atBasketball
+25,89198;objectChessPiece Variant (2) inside box
+25,9012;looked atBasketball
+25,91192;looked atBasketball
+25,92296;looked atBasketball
+25,93441;looked atBasketball
+25,9444;looked atBasketball
+25,9568;looked atBasketball
+25,96733;looked atBasketball
+25,97828;looked atBasketball
+25,97828;object Basketball 1 was grabbed
+25,97828;object ChessPiece Variant (1) is being grabbed
+25,98941;looked atBasketball
+26,0012;looked atBasketball
+26,01164;looked atBasketball
+26,01164;objectChessPiece Variant inside box
+26,0227;looked atBasketball
+26,0227;looked at: Hand
+26,03443;looked atBasketball
+26,04687;looked atBasketball
+26,04687;looked at: Hand
+26,05678;looked atBasketball
+26,05678;looked at: Hand
+26,06686;looked atBasketball
+26,06686;looked at: Hand
+26,07833;looked atBasketball
+26,07833;looked at: Hand
+26,08971;looked atBasketball
+26,08971;looked at: Hand
+26,10057;looked atBasketball
+26,10057;looked at: Hand
+26,11229;looked atBasketball
+26,11229;looked at: Hand
+26,12343;looked atBasketball
+26,12343;looked at: Hand
+26,12343;objectChessPiece Variant (2) inside box
+26,13395;looked atBasketball
+26,13395;looked at: Hand
+26,14539;looked atBasketball
+26,14539;looked at: Hand
+26,15632;looked atBasketball
+26,15632;looked at: Hand
+26,16759;looked atBasketball
+26,16759;looked at: Hand
+26,1784;looked atBasketball
+26,1784;looked at: Hand
+26,18898;looked atBasketball
+26,20346;looked atBasketball
+26,21155;looked atBasketball
+26,21155;object Basketball 1 was grabbed
+26,21155;object ChessPiece Variant (1) is being grabbed
+26,22238;looked atBasketball
+26,23491;looked atBasketball
+26,24439;looked atBasketball
+26,24439;objectChessPiece Variant inside box
+26,25607;looked atBasketball
+26,26754;looked atBasketball
+26,27835;looked atBasketball
+26,28905;looked atBasketball
+26,30122;looked atRoom
+26,31206;looked atBasketball
+26,3227;looked atRoom
+26,33455;looked atRoom
+26,34446;looked atRoom
+26,3584;looked atRoom
+26,3584;objectChessPiece Variant (2) inside box
+26,36704;looked atRoom
+26,37831;looked atBasketball
+26,38967;looked atBasketball
+26,40097;looked atBasketball
+26,41586;looked atBasketball
+26,42247;looked atBasketball
+26,43451;looked atBasketball
+26,44477;looked atBasketball
+26,44477;object Basketball 1 was grabbed
+26,44477;object ChessPiece Variant (1) is being grabbed
+26,45643;looked atBasketball
+26,46698;looked atBasketball
+26,47809;looked atBasketball
+26,47809;objectChessPiece Variant inside box
+26,48955;looked atBasketball
+26,50039;looked atBasketball
+26,51358;looked atBasketball
+26,52313;looked atBasketball
+26,53359;looked atBasketball
+26,53359;looked at: Hand
+26,54414;looked atBasketball
+26,54414;looked at: Hand
+26,55565;looked atBasketball
+26,55565;looked at: Hand
+26,56683;looked atBasketball
+26,56683;looked at: Hand
+26,57834;looked atBasketball
+26,57834;looked at: Hand
+26,58871;looked atBasketball
+26,58871;looked at: Hand
+26,58871;objectChessPiece Variant (2) inside box
+26,60086;looked atBasketball
+26,60086;looked at: Hand
+26,61136;looked atBasketball
+26,62173;looked atBasketball
+26,63397;looked atBasketball
+26,64426;looked atBasketball
+26,65561;looked atHand
+26,66899;looked atRoom
+26,67784;looked atRoom
+26,67784;object Basketball 1 was grabbed
+26,67784;object ChessPiece Variant (1) is being grabbed
+26,68852;looked atRoom
+26,7009;looked atRoom
+26,71106;looked atRoom
+26,71106;objectChessPiece Variant inside box
+26,72213;looked atRoom
+26,73447;looked atRoom
+26,74389;looked atRoom
+26,75561;looked atRoom
+26,7666;looked atbox1
+26,7775;looked atbox1
+26,7775;objectChessPiece Variant (1) distance to box:2,495409
+26,78866;looked atbox1
+26,78866;objectChessPiece Variant (1) distance to box:2,485376
+26,80013;looked atbox1
+26,80013;objectChessPiece Variant (1) distance to box:2,476014
+26,81104;looked atbox1
+26,81104;objectChessPiece Variant (1) distance to box:2,468326
+26,82502;looked atTable
+26,82502;objectChessPiece Variant (2) inside box
+26,82502;objectChessPiece Variant (1) distance to box:2,457936
+26,83365;looked atTable
+26,83365;objectChessPiece Variant (1) distance to box:2,448103
+26,84412;looked atbox2
+26,84412;objectChessPiece Variant (1) distance to box:2,439241
+26,85603;looked atbox2
+26,85603;objectChessPiece Variant (1) distance to box:2,424349
+26,86601;looked atbox2
+26,86601;objectChessPiece Variant (1) distance to box:2,410469
+26,87777;looked atbox2
+26,87777;objectChessPiece Variant (1) distance to box:2,397313
+26,88908;looked atbox2
+26,88908;objectChessPiece Variant (1) distance to box:2,383208
+26,89989;looked atbox2
+26,89989;objectChessPiece Variant (1) distance to box:2,370151
+26,91091;looked atbox2
+26,91091;object Basketball 1 was grabbed
+26,91091;object ChessPiece Variant (1) is being grabbed
+26,91091;objectChessPiece Variant (1) distance to box:2,358044
+26,92241;looked atbox2
+26,92241;objectChessPiece Variant (1) distance to box:2,348164
+26,93365;looked atbox2
+26,93365;objectChessPiece Variant (1) distance to box:2,330205
+26,944;looked atbox2
+26,944;basketball distance:2,491694
+26,944;objectChessPiece Variant inside box
+26,944;objectChessPiece Variant (1) distance to box:2,313877
+26,95541;looked atbox2
+26,95541;basketball distance:2,471999
+26,95541;objectChessPiece Variant (1) distance to box:2,298724
+26,96757;looked atbox2
+26,96757;basketball distance:2,453409
+26,96757;objectChessPiece Variant (1) distance to box:2,281551
+26,98047;looked atbox2
+26,98047;basketball distance:2,433817
+26,98047;objectChessPiece Variant (1) distance to box:2,265332
+26,98939;looked atbox2
+26,98939;basketball distance:2,413538
+26,98939;objectChessPiece Variant (1) distance to box:2,249874
+27,00039;looked atbox2
+27,00039;basketball distance:2,396094
+27,00039;objectChessPiece Variant (1) distance to box:2,231735
+27,01133;looked atbox2
+27,01133;basketball distance:2,375192
+27,01133;objectChessPiece Variant (1) distance to box:2,214715
+27,02212;looked atBasketball
+27,02212;basketball distance:2,35243
+27,02212;objectChessPiece Variant (1) distance to box:2,198635
+27,03446;looked atBasketball
+27,03446;basketball distance:2,32912
+27,03446;objectChessPiece Variant (1) distance to box:2,183316
+27,04431;looked atBasketball
+27,04431;basketball distance:2,305999
+27,04431;objectChessPiece Variant (1) distance to box:2,168524
+27,05609;looked atBasketball
+27,05609;objectChessPiece Variant (2) inside box
+27,05609;basketball distance:2,285665
+27,05609;objectChessPiece Variant (1) distance to box:2,151112
+27,06743;looked atBasketball
+27,06743;basketball distance:2,264225
+27,06743;objectChessPiece Variant (1) distance to box:2,134594
+27,07822;looked atBasketball
+27,07822;basketball distance:2,24121
+27,07822;objectChessPiece Variant (1) distance to box:2,118798
+27,08892;looked atBasketball
+27,08892;basketball distance:2,22497
+27,08892;objectChessPiece Variant (1) distance to box:2,103694
+27,1011;looked atBasketball
+27,1011;basketball distance:2,202892
+27,1011;objectChessPiece Variant (1) distance to box:2,08553
+27,11163;looked atBasketball
+27,11163;basketball distance:2,181776
+27,11163;objectChessPiece Variant (1) distance to box:2,067842
+27,12256;looked atBasketball
+27,12256;basketball distance:2,162017
+27,12256;objectChessPiece Variant (1) distance to box:2,051896
+27,13732;looked atBasketball
+27,13732;basketball distance:2,147735
+27,13732;objectChessPiece Variant (1) distance to box:2,028934
+27,14559;looked atbox2
+27,14559;object Basketball 1 was grabbed
+27,14559;basketball distance:2,13258
+27,14559;object ChessPiece Variant (1) is being grabbed
+27,14559;objectChessPiece Variant (1) distance to box:2,007461
+27,15647;looked atsimpleGrabCupMesh
+27,15647;basketball distance:2,116897
+27,15647;objectChessPiece Variant (1) distance to box:1,987438
+27,16765;looked atsimpleGrabCupMesh
+27,16765;basketball distance:2,109499
+27,16765;objectChessPiece Variant (1) distance to box:1,963418
+27,17811;looked atsimpleGrabCupMesh
+27,17811;basketball distance:2,100361
+27,17811;objectChessPiece Variant inside box
+27,17811;objectChessPiece Variant (1) distance to box:1,941061
+27,18916;looked atbox2
+27,18916;basketball distance:2,089735
+27,18916;objectChessPiece Variant (1) distance to box:1,920106
+27,20084;looked atbox2
+27,20084;basketball distance:2,084608
+27,20084;objectChessPiece Variant (1) distance to box:1,898135
+27,21131;looked atbox2
+27,21131;basketball distance:2,078197
+27,21131;objectChessPiece Variant (1) distance to box:1,877357
+27,22253;looked atbox2
+27,22253;basketball distance:2,070691
+27,22253;objectChessPiece Variant (1) distance to box:1,857476
+27,23428;looked atbox2
+27,23428;basketball distance:2,062222
+27,23428;objectChessPiece Variant (1) distance to box:1,838206
+27,24455;looked atbox2
+27,24455;basketball distance:2,053942
+27,24455;objectChessPiece Variant (1) distance to box:1,821481
+27,25674;looked atsimpleGrabCupMesh
+27,25674;basketball distance:2,046941
+27,25674;objectChessPiece Variant (1) distance to box:1,801525
+27,26663;looked atsimpleGrabCupMesh
+27,26663;basketball distance:2,039342
+27,26663;objectChessPiece Variant (1) distance to box:1,782041
+27,27817;looked atsimpleGrabCupMesh
+27,27817;basketball distance:2,031267
+27,27817;objectChessPiece Variant (1) distance to box:1,762891
+27,29181;looked atsimpleGrabCupMesh
+27,29181;objectChessPiece Variant (2) inside box
+27,29181;basketball distance:2,025636
+27,29181;objectChessPiece Variant (1) distance to box:1,7464
+27,30046;looked atsimpleGrabCupMesh
+27,30046;basketball distance:2,019402
+27,30046;objectChessPiece Variant (1) distance to box:1,730002
+27,3118;looked atbox2
+27,3118;basketball distance:2,012567
+27,3118;objectChessPiece Variant (1) distance to box:1,713611
+27,32298;looked atbox2
+27,32298;basketball distance:2,006064
+27,32298;objectChessPiece Variant (1) distance to box:1,701741
+27,33424;looked atbox3
+27,33424;basketball distance:1,998725
+27,33424;objectChessPiece Variant (1) distance to box:1,689096
+27,34461;looked atbox3
+27,34461;basketball distance:1,990626
+27,34461;objectChessPiece Variant (1) distance to box:1,675933
+27,35609;looked atbox3
+27,35609;basketball distance:1,981896
+27,35609;objectChessPiece Variant (1) distance to box:1,662439
+27,36743;looked atbox3
+27,36743;basketball distance:1,97998
+27,36743;objectChessPiece Variant (1) distance to box:1,654582
+27,37819;looked atbox3
+27,37819;object Basketball 1 was grabbed
+27,37819;basketball distance:1,977075
+27,37819;object ChessPiece Variant (1) is being grabbed
+27,37819;objectChessPiece Variant (1) distance to box:1,645371
+27,38902;looked atbox3
+27,38902;basketball distance:1,973417
+27,38902;objectChessPiece Variant (1) distance to box:1,635224
+27,40138;looked atbox3
+27,40138;basketball distance:1,97079
+27,40138;objectChessPiece Variant (1) distance to box:1,624624
+27,41142;looked atbox3
+27,41142;basketball distance:1,967514
+27,41142;objectChessPiece Variant inside box
+27,41142;objectChessPiece Variant (1) distance to box:1,613497
+27,42226;looked atTable
+27,42226;basketball distance:1,963751
+27,42226;objectChessPiece Variant (1) distance to box:1,602008
+27,43441;looked atTable
+27,43441;basketball distance:1,95962
+27,43441;objectChessPiece Variant (1) distance to box:1,590269
+27,44664;looked atTable
+27,44664;basketball distance:1,955622
+27,44664;objectChessPiece Variant (1) distance to box:1,579737
+27,45589;looked atTable
+27,45589;basketball distance:1,954233
+27,45589;objectChessPiece Variant (1) distance to box:1,572553
+27,46718;looked atTable
+27,46718;basketball distance:1,952284
+27,46718;objectChessPiece Variant (1) distance to box:1,564411
+27,47802;looked atTable
+27,47802;basketball distance:1,94985
+27,47802;objectChessPiece Variant (1) distance to box:1,555521
+27,48879;looked atTable
+27,48879;basketball distance:1,952253
+27,48879;objectChessPiece Variant (1) distance to box:1,547849
+27,5008;looked atbox3
+27,5008;basketball distance:1,953538
+27,5008;objectChessPiece Variant (1) distance to box:1,539695
+27,51118;looked atbox3
+27,51118;basketball distance:1,953983
+27,51118;objectChessPiece Variant (1) distance to box:1,531065
+27,52212;looked atbox3
+27,52212;objectChessPiece Variant (2) inside box
+27,52212;basketball distance:1,952473
+27,52212;objectChessPiece Variant (1) distance to box:1,523034
+27,53402;looked atbox3
+27,53402;basketball distance:1,950731
+27,53402;objectChessPiece Variant (1) distance to box:1,514507
+27,54478;looked atbox3
+27,54478;basketball distance:1,948807
+27,54478;objectChessPiece Variant (1) distance to box:1,505752
+27,55634;looked atbox3
+27,55634;basketball distance:1,94674
+27,55634;objectChessPiece Variant (1) distance to box:1,49677
+27,56729;looked atbox3
+27,56729;basketball distance:1,94191
+27,56729;objectChessPiece Variant (1) distance to box:1,487385
+27,57786;looked atbox3
+27,57786;basketball distance:1,937163
+27,57786;objectChessPiece Variant (1) distance to box:1,47787
+27,58922;looked atbox3
+27,58922;basketball distance:1,932474
+27,58922;objectChessPiece Variant (1) distance to box:1,46827
+27,60254;looked atbox3
+27,60254;basketball distance:1,92783
+27,60254;objectChessPiece Variant (1) distance to box:1,458613
+27,61107;looked atbox3
+27,61107;object Basketball 1 was grabbed
+27,61107;basketball distance:1,918865
+27,61107;object ChessPiece Variant (1) is being grabbed
+27,61107;objectChessPiece Variant (1) distance to box:1,448276
+27,6221;looked atbox3
+27,6221;basketball distance:1,910616
+27,6221;objectChessPiece Variant (1) distance to box:1,43798
+27,63412;looked atbox3
+27,63412;basketball distance:1,905935
+27,63412;objectChessPiece Variant (1) distance to box:1,425106
+27,64394;looked atbox3
+27,64394;basketball distance:1,901343
+27,64394;objectChessPiece Variant inside box
+27,64394;objectChessPiece Variant (1) distance to box:1,412614
+27,65629;looked atbox3
+27,65629;basketball distance:1,896818
+27,65629;objectChessPiece Variant (1) distance to box:1,400464
+27,66646;looked atbox3
+27,66646;basketball distance:1,892322
+27,66646;objectChessPiece Variant (1) distance to box:1,388567
+27,67786;looked atbox3
+27,67786;basketball distance:1,887838
+27,67786;objectChessPiece Variant (1) distance to box:1,376884
+27,68941;looked atbox3
+27,68941;basketball distance:1,882976
+27,68941;objectChessPiece Variant (1) distance to box:1,363754
+27,70029;looked atbox3
+27,70029;basketball distance:1,878137
+27,70029;objectChessPiece Variant (1) distance to box:1,351006
+27,71121;looked atbox3
+27,71121;basketball distance:1,873318
+27,71121;objectChessPiece Variant (1) distance to box:1,33856
+27,72282;looked atbox3
+27,72282;basketball distance:1,868938
+27,72282;objectChessPiece Variant (1) distance to box:1,32445
+27,73333;looked atbox3
+27,73333;basketball distance:1,86466
+27,73333;objectChessPiece Variant (1) distance to box:1,310749
+27,74405;looked atbox3
+27,74405;basketball distance:1,860437
+27,74405;objectChessPiece Variant (1) distance to box:1,297392
+27,75845;looked atbox3
+27,75845;objectChessPiece Variant (2) inside box
+27,75845;basketball distance:1,856244
+27,75845;objectChessPiece Variant (1) distance to box:1,284308
+27,76777;looked atbox3
+27,76777;basketball distance:1,85252
+27,76777;objectChessPiece Variant (1) distance to box:1,269279
+27,77761;looked atbox3
+27,77761;basketball distance:1,848798
+27,77761;objectChessPiece Variant (1) distance to box:1,254879
+27,78879;looked atbox3
+27,78879;basketball distance:1,845161
+27,78879;objectChessPiece Variant (1) distance to box:1,241051
+27,80091;looked atbox3
+27,80091;basketball distance:1,840491
+27,80091;objectChessPiece Variant (1) distance to box:1,227538
+27,81103;looked atbox3
+27,81103;basketball distance:1,835841
+27,81103;objectChessPiece Variant (1) distance to box:1,21439
+27,82196;looked atbox3
+27,82196;basketball distance:1,831223
+27,82196;objectChessPiece Variant (1) distance to box:1,201532
+27,83403;looked atbox3
+27,83403;basketball distance:1,826635
+27,83403;objectChessPiece Variant (1) distance to box:1,188882
+27,84433;looked atBoundsCollider
+27,84433;object Basketball 1 was grabbed
+27,84433;basketball distance:1,822838
+27,84433;object ChessPiece Variant (1) is being grabbed
+27,84433;objectChessPiece Variant (1) distance to box:1,179286
+27,85609;looked atBoundsCollider
+27,85609;basketball distance:1,819869
+27,85609;objectChessPiece Variant (1) distance to box:1,160822
+27,86779;looked atBoundsCollider
+27,86779;basketball distance:1,816813
+27,86779;objectChessPiece Variant (1) distance to box:1,14392
+27,87808;looked atbox3
+27,87808;basketball distance:1,813828
+27,87808;objectChessPiece Variant inside box
+27,87808;objectChessPiece Variant (1) distance to box:1,128768
+27,88866;looked atbox3
+27,88866;basketball distance:1,818619
+27,88866;objectChessPiece Variant (1) distance to box:1,108766
+27,90107;looked atBoundsCollider
+27,90107;basketball distance:1,822239
+27,90107;objectChessPiece Variant (1) distance to box:1,090113
+27,91351;looked atBoundsCollider
+27,91351;basketball distance:1,824982
+27,91351;objectChessPiece Variant (1) distance to box:1,072481
+27,92258;looked atbox3
+27,92258;basketball distance:1,824195
+27,92258;objectChessPiece Variant (1) distance to box:1,058072
+27,9343;looked atbox3
+27,9343;basketball distance:1,823367
+27,9343;objectChessPiece Variant (1) distance to box:1,043666
+27,94417;looked atbox3
+27,94417;basketball distance:1,822494
+27,94417;objectChessPiece Variant (1) distance to box:1,029318
+27,95695;looked atbox3
+27,95695;basketball distance:1,821569
+27,95695;objectChessPiece Variant (1) distance to box:1,015061
+27,96698;looked atbox3
+27,96698;basketball distance:1,820653
+27,96698;objectChessPiece Variant (1) distance to box:1,003593
+27,97773;looked atbox3
+27,97773;basketball distance:1,816929
+27,97773;objectChessPiece Variant (1) distance to box:0,9854855
+27,98904;looked atBoundsCollider
+27,98904;objectChessPiece Variant (2) inside box
+27,98904;basketball distance:1,813249
+27,98904;objectChessPiece Variant (1) distance to box:0,9682376
+28,00047;looked atBoundsCollider
+28,00047;basketball distance:1,809559
+28,00047;objectChessPiece Variant (1) distance to box:0,9515501
+28,0111;looked atBoundsCollider
+28,0111;basketball distance:1,803757
+28,0111;objectChessPiece Variant (1) distance to box:0,9369387
+28,02221;looked atBoundsCollider
+28,02221;basketball distance:1,798663
+28,02221;objectChessPiece Variant (1) distance to box:0,9224759
+28,0337;looked atBoundsCollider
+28,0337;basketball distance:1,793693
+28,0337;objectChessPiece Variant (1) distance to box:0,9081141
+28,04408;looked atBoundsCollider
+28,04408;basketball distance:1,784859
+28,04408;objectChessPiece Variant (1) distance to box:0,8928772
+28,05612;looked atBoundsCollider
+28,05612;basketball distance:1,776429
+28,05612;objectChessPiece Variant (1) distance to box:0,8778467
+28,06897;looked atbox3
+28,06897;basketball distance:1,768242
+28,06897;objectChessPiece Variant (1) distance to box:0,862994
+28,07802;looked atbox3
+28,07802;object Basketball 1 was grabbed
+28,07802;basketball distance:1,760209
+28,07802;object ChessPiece Variant (1) is being grabbed
+28,07802;objectChessPiece Variant (1) distance to box:0,8483419
+28,0895;looked atbox3
+28,0895;basketball distance:1,754534
+28,0895;objectChessPiece Variant (1) distance to box:0,830317
+28,10046;looked atbox3
+28,10046;basketball distance:1,749077
+28,10046;objectChessPiece Variant (1) distance to box:0,813038
+28,11135;looked atBoundsCollider
+28,11135;basketball distance:1,74378
+28,11135;objectChessPiece Variant inside box
+28,11135;objectChessPiece Variant (1) distance to box:0,7963328
+28,12288;looked atbox3
+28,12288;basketball distance:1,738826
+28,12288;objectChessPiece Variant (1) distance to box:0,7865736
+28,13338;looked atbox3
+28,13338;basketball distance:1,734039
+28,13338;objectChessPiece Variant (1) distance to box:0,7759495
+28,14469;looked atbox3
+28,14469;basketball distance:1,729553
+28,14469;objectChessPiece Variant (1) distance to box:0,76556
+28,15631;looked atbox3
+28,15631;basketball distance:1,725162
+28,15631;objectChessPiece Variant (1) distance to box:0,7546313
+28,16689;looked atbox3
+28,16689;basketball distance:1,721131
+28,16689;objectChessPiece Variant (1) distance to box:0,7447667
+28,16689;objectChessPiece Variant (1) inside box
+28,17872;looked atbox3
+28,17872;basketball distance:1,714638
+28,18938;looked atbox3
+28,18938;basketball distance:1,70845
+28,20109;looked atbox3
+28,20109;basketball distance:1,702516
+28,21123;looked atbox3
+28,21123;basketball distance:1,695913
+28,22456;looked atbox3
+28,22456;objectChessPiece Variant (2) inside box
+28,22456;basketball distance:1,689698
+28,23409;looked atbox3
+28,23409;basketball distance:1,683763
+28,24437;looked atbox3
+28,24437;basketball distance:1,678969
+28,25609;looked atbox3
+28,25609;basketball distance:1,674265
+28,26735;looked atbox3
+28,26735;basketball distance:1,669564
+28,27794;looked atbox3
+28,27794;basketball distance:1,664797
+28,2888;looked atbox3
+28,2888;basketball distance:1,661105
+28,30082;looked atbox3
+28,30082;basketball distance:1,657276
+28,31115;looked atbox3
+28,31115;object Basketball 1 was grabbed
+28,31115;basketball distance:1,653331
+28,31115;object ChessPiece Variant (1) is being grabbed
+28,32241;looked atbox3
+28,32241;basketball distance:1,650193
+28,3345;looked atbox3
+28,3345;basketball distance:1,646985
+28,34414;looked atbox3
+28,34414;basketball distance:1,643766
+28,34414;objectChessPiece Variant inside box
+28,35689;looked atbox3
+28,35689;basketball distance:1,640547
+28,3677;looked atbox3
+28,3677;basketball distance:1,63766
+28,38039;looked atbox3
+28,38039;basketball distance:1,634365
+28,38955;looked atbox3
+28,38955;basketball distance:1,631079
+28,40006;looked atbox3
+28,40006;basketball distance:1,627816
+28,40006;objectChessPiece Variant (1) inside box
+28,41111;looked atbox3
+28,41111;basketball distance:1,622621
+28,42263;looked atBoundsCollider
+28,42263;basketball distance:1,617694
+28,43391;looked atbox3
+28,43391;basketball distance:1,612944
+28,44413;looked atbox3
+28,44413;basketball distance:1,607025
+28,45617;looked atbox3
+28,45617;objectChessPiece Variant (2) inside box
+28,45617;basketball distance:1,601499
+28,4664;looked atBoundsCollider
+28,4664;basketball distance:1,59626
+28,47801;looked atbox3
+28,47801;basketball distance:1,591226
+28,48966;looked atbox3
+28,48966;basketball distance:1,591587
+28,50011;looked atbox3
+28,50011;basketball distance:1,591364
+28,51146;looked atbox3
+28,51146;basketball distance:1,590701
+28,52267;looked atbox3
+28,52267;basketball distance:1,588697
+28,53591;looked atbox3
+28,53591;basketball distance:1,586596
+28,5444;looked atbox3
+28,5444;object Basketball 1 was grabbed
+28,5444;basketball distance:1,584446
+28,5444;object ChessPiece Variant (1) is being grabbed
+28,55598;looked atbox3
+28,55598;basketball distance:1,582252
+28,56793;looked atbox3
+28,56793;basketball distance:1,58026
+28,57857;looked atbox3
+28,57857;basketball distance:1,58079
+28,57857;objectChessPiece Variant inside box
+28,58932;looked atbox3
+28,58932;basketball distance:1,580783
+28,60056;looked atbox3
+28,60056;basketball distance:1,580391
+28,61177;looked atbox3
+28,61177;basketball distance:1,577905
+28,62253;looked atbox3
+28,62253;basketball distance:1,575497
+28,63484;looked atbox3
+28,63484;basketball distance:1,573142
+28,63484;objectChessPiece Variant (1) inside box
+28,64484;looked atbox3
+28,64484;basketball distance:1,568086
+28,65647;looked atbox3
+28,65647;basketball distance:1,563595
+28,66772;looked atbox3
+28,66772;basketball distance:1,55946
+28,6787;looked atbox3
+28,6787;basketball distance:1,553066
+28,69215;looked atbox3
+28,69215;objectChessPiece Variant (2) inside box
+28,69215;basketball distance:1,547118
+28,70117;looked atbox3
+28,70117;basketball distance:1,541552
+28,715;looked atbox3
+28,715;basketball distance:1,53631
+28,7228;looked atRoom
+28,7228;basketball distance:1,531342
+28,73577;looked atRoom
+28,73577;basketball distance:1,526765
+28,74588;looked atRoom
+28,74588;basketball distance:1,522452
+28,75757;looked atRoom
+28,75757;basketball distance:1,518335
+28,7682;looked atRoom
+28,7682;basketball distance:1,51473
+28,77902;looked atRoom
+28,77902;object Basketball 1 was grabbed
+28,77902;basketball distance:1,506862
+28,77902;object ChessPiece Variant (1) is being grabbed
+28,7908;looked atRoom
+28,7908;basketball distance:1,500134
+28,80151;looked atRoom
+28,80151;basketball distance:1,49411
+28,8122;looked atRoom
+28,8122;basketball distance:1,491386
+28,8122;objectChessPiece Variant inside box
+28,82355;looked atRoom
+28,82355;basketball distance:1,488419
+28,83431;looked atRoom
+28,83431;basketball distance:1,485281
+28,84712;looked atRoom
+28,84712;basketball distance:1,487909
+28,8572;looked atRoom
+28,8572;basketball distance:1,48906
+28,86695;looked atRoom
+28,86695;basketball distance:1,489188
+28,86695;objectChessPiece Variant (1) inside box
+28,87851;looked atCart_Basket
+28,87851;basketball distance:1,486676
+28,89037;looked atRoom
+28,89037;basketball distance:1,484139
+28,90043;looked atRoom
+28,90043;basketball distance:1,48158
+28,91185;looked atRoom
+28,91185;basketball distance:1,479008
+28,92305;looked atRoom
+28,92305;objectChessPiece Variant (2) inside box
+28,92305;basketball distance:1,475469
+28,93411;looked atCart_Basket
+28,93411;basketball distance:1,471922
+28,94475;looked atRoom
+28,94475;basketball distance:1,468402
+28,95627;looked atRoom
+28,95627;basketball distance:1,464931
+28,96773;looked atRoom
+28,96773;basketball distance:1,461784
+28,97861;looked atRoom
+28,97861;basketball distance:1,457746
+28,99043;looked atRoom
+28,99043;basketball distance:1,454001
+29,0032;looked atRoom
+29,0032;basketball distance:1,450412
+29,01192;looked atRoom
+29,01192;object Basketball 1 was grabbed
+29,01192;basketball distance:1,450387
+29,02262;looked atRoom
+29,02262;basketball distance:1,450139
+29,03477;looked atRoom
+29,03477;basketball distance:1,449696
+29,04468;looked atRoom
+29,04468;basketball distance:1,446711
+29,04468;objectChessPiece Variant inside box
+29,05626;looked atRoom
+29,05626;basketball distance:1,443915
+29,06773;looked atRoom
+29,06773;basketball distance:1,441249
+29,07845;looked atRoom
+29,07845;basketball distance:1,436756
+29,08996;looked atRoom
+29,08996;basketball distance:1,432652
+29,10084;looked atRoom
+29,10084;basketball distance:1,428802
+29,10084;objectChessPiece Variant (1) inside box
+29,11175;looked atCart_Basket
+29,11175;basketball distance:1,425155
+29,12276;looked atRoom
+29,12276;basketball distance:1,420993
+29,13465;looked atRoom
+29,13465;basketball distance:1,417077
+29,1453;looked atRoom
+29,1453;basketball distance:1,413334
+29,15908;looked atCart_Basket
+29,15908;objectChessPiece Variant (2) inside box
+29,15908;basketball distance:1,40966
+29,16767;looked atCart_Basket
+29,16767;basketball distance:1,406191
+29,16767;basketball inside cart
+29,17783;looked atCart_Basket
+29,18933;looked atRoom
+29,20071;looked atCart_Basket
+29,21152;looked atRoom
+29,22269;looked atCart_Basket
+29,2341;looked atCart_Basket
+29,24489;looked atCart_Basket
+29,24489;object Basketball 1 was grabbed
+29,25693;looked atCart_Basket
+29,26695;looked atCart_Basket
+29,27815;looked atCart_Basket
+29,27815;objectChessPiece Variant inside box
+29,28956;looked atCart_Basket
+29,30089;looked atCart_Basket
+29,31418;looked atCart_Basket
+29,32302;looked atCart_Basket
+29,33386;looked atCart_Basket
+29,33386;objectChessPiece Variant (1) inside box
+29,3446;looked atCart_Basket
+29,35641;looked atRoom
+29,3675;looked atRoom
+29,37848;looked atRoom
+29,38959;looked atRoom
+29,38959;objectChessPiece Variant (2) inside box
+29,4012;looked atRoom
+29,41236;looked atRoom
+29,42261;looked atRoom
+29,43477;looked atRoom
+29,4447;looked atRoom
+29,45641;looked atRoom
+29,46992;looked atRoom
+29,47866;looked atRoom
+29,47866;object Basketball 1 was grabbed
+29,48988;looked atRoom
+29,50118;looked atRoom
+29,51183;looked atRoom
+29,51183;objectChessPiece Variant inside box
+29,52293;looked atRoom
+29,53481;looked atRoom
+29,54471;looked atCart_Basket
+29,55675;looked atCart_Basket
+29,56713;looked atRoom
+29,56713;objectChessPiece Variant (1) inside box
+29,57842;looked atRoom
+29,5898;looked atRoom
+29,60106;looked atRoom
+29,61182;looked atRoom
+29,6252;looked atRoom
+29,6252;objectChessPiece Variant (2) inside box
+29,63451;looked atRoom
+29,64479;looked atRoom
+29,65696;looked atRoom
+29,66698;looked atCart_Basket
+29,67838;looked atCart_Basket
+29,68983;looked atRoom
+29,70077;looked atCart_Basket
+29,71187;looked atCart_Basket
+29,71187;object Basketball 1 was grabbed
+29,72341;looked atRoom
+29,73399;looked atRoom
+29,74479;looked atRoom
+29,74479;objectChessPiece Variant inside box
+29,75611;looked atCart_Basket
+29,76794;looked atCart_Basket
+29,78068;looked atCart_Basket
+29,78976;looked atCart_Basket
+29,80104;looked atRoom
+29,80104;objectChessPiece Variant (1) inside box
+29,81182;looked atRoom
+29,82295;looked atCart_Basket
+29,83469;looked atRoom
+29,84487;looked atRoom
+29,85632;looked atRoom
+29,85632;objectChessPiece Variant (2) inside box
+29,8677;looked atRoom
+29,87866;looked atCart_Basket
+29,88984;looked atRoom
+29,90115;looked atRoom
+29,91222;looked atRoom
+29,92297;looked atRoom
+29,93689;looked atRoom
+29,94471;looked atRoom
+29,94471;object Basketball 1 was grabbed
+29,9568;looked atCart_Basket
+29,96773;looked atRoom
+29,9784;looked atRoom
+29,9784;objectChessPiece Variant inside box
+29,98961;looked atRoom
+30,00121;looked atRoom
+30,01182;looked atRoom
+30,02253;looked atRoom
+30,03401;looked atRoom
+30,03401;objectChessPiece Variant (1) inside box
+30,04492;looked atRoom
+30,05731;looked atRoom
+30,06775;looked atRoom
+30,07875;looked atRoom
+30,09256;looked atRoom
+30,09256;objectChessPiece Variant (2) inside box
+30,10044;looked atRoom
+30,112;looked atRoom
+30,1233;looked atRoom
+30,13412;looked atRoom
+30,14532;looked atRoom
+30,15656;looked atRoom
+30,16739;looked atCart_Basket
+30,17886;looked atCart_Basket
+30,17886;object Basketball 1 was grabbed
+30,18971;looked atRoom
+30,20132;looked atRoom
+30,21201;looked atRoom
+30,21201;objectChessPiece Variant inside box
+30,22266;looked atRoom
+30,23468;looked atRoom
+30,24686;looked atRoom
+30,25653;looked atRoom
+30,26768;looked atRoom
+30,26768;objectChessPiece Variant (1) inside box
+30,27837;looked atRoom
+30,28952;looked atRoom
+30,30128;looked atCart_Basket
+30,31187;looked atCart_Basket
+30,32343;looked atRoom
+30,32343;objectChessPiece Variant (2) inside box
+30,33474;looked atCart_Basket
+30,3448;looked atCart_Basket
+30,35678;looked atCart_Basket
+30,3673;looked atCart_Basket
+30,37838;looked atRoom
+30,38948;looked atRoom
+30,40342;looked atRoom
+30,41207;looked atRoom
+30,41207;object Basketball 1 was grabbed
+30,42337;looked atRoom
+30,43414;looked atRoom
+30,4447;looked atRoom
+30,4447;objectChessPiece Variant inside box
+30,45689;looked atCart_Basket
+30,46718;looked atCart_Basket
+30,47842;looked atRoom
+30,48981;looked atRoom
+30,50057;looked atCart_Basket
+30,50057;objectChessPiece Variant (1) inside box
+30,51202;looked atCart_Basket
+30,52376;looked atRoom
+30,53459;looked atRoom
+30,54481;looked atRoom
+30,55847;looked atRoom
+30,55847;objectChessPiece Variant (2) inside box
+30,56832;looked atRoom
+30,57817;looked atRoom
+30,58916;looked atCart_Basket
+30,60139;looked atCart_Basket
+30,61188;looked atCart_Basket
+30,62258;looked atCart_Basket
+30,63468;looked atCart_Basket
+30,64484;looked atCart_Basket
+30,64484;object Basketball 1 was grabbed
+30,65655;looked atRoom
+30,66789;looked atRoom
+30,67848;looked atRoom
+30,67848;objectChessPiece Variant inside box
+30,6897;looked atRoom
+30,70113;looked atCart_Basket
+30,71419;looked atCart_Basket
+30,72317;looked atRoom
+30,73469;looked atRoom
+30,73469;objectChessPiece Variant (1) inside box
+30,74469;looked atRoom
+30,75745;looked atRoom
+30,76735;looked atRoom
+30,77815;looked atRoom
+30,78939;looked atCart_Basket
+30,78939;objectChessPiece Variant (2) inside box
+30,80084;looked atRoom
+30,81191;looked atRoom
+30,82277;looked atCart_Basket
+30,83416;looked atRoom
+30,84468;looked atRoom
+30,85686;looked atRoom
+30,86906;looked atRoom
+30,87858;looked atRoom
+30,87858;object Basketball 1 was grabbed
+30,89015;looked atRoom
+30,90045;looked atRoom
+30,91178;looked atRoom
+30,91178;objectChessPiece Variant inside box
+30,92306;looked atRoom
+30,93401;looked atRoom
+30,94473;looked atCart_Basket
+30,95682;looked atCart_Basket
+30,96684;looked atRoom
+30,96684;objectChessPiece Variant (1) inside box
+30,97833;looked atRoom
+30,98928;looked atRoom
+31,0012;looked atCart_Basket
+31,01196;looked atRoom
+31,02474;looked atCart_Basket
+31,02474;objectChessPiece Variant (2) inside box
+31,03474;looked atCart_Basket
+31,045;looked atRoom
+31,05629;looked atRoom
+31,06758;looked atRoom
+31,07834;looked atRoom
+31,0892;looked atCart_Basket
+31,10132;looked atRoom
+31,11175;looked atRoom
+31,11175;object Basketball 1 was grabbed
+31,12272;looked atRoom
+31,13452;looked atRoom
+31,14526;looked atRoom
+31,14526;objectChessPiece Variant inside box
+31,1565;looked atRoom
+31,16744;looked atRoom
+31,18035;looked atRoom
+31,18993;looked atBasketball
+31,18993;looked at: Hand
+31,20054;looked atBasketball
+31,20054;looked at: Hand
+31,20054;objectChessPiece Variant (1) inside box
+31,21202;looked atBasketball
+31,21202;looked at: Hand
+31,22285;looked atBasketball
+31,22285;looked at: Hand
+31,23405;looked atBasketball
+31,23405;looked at: Hand
+31,24445;looked atBasketball
+31,24445;looked at: Hand
+31,25662;looked atBasketball
+31,25662;looked at: Hand
+31,25662;objectChessPiece Variant (2) inside box
+31,26685;looked atBasketball
+31,26685;looked at: Hand
+31,27846;looked atBasketball
+31,27846;looked at: Hand
+31,29005;looked atBasketball
+31,29005;looked at: Hand
+31,3001;looked atBasketball
+31,3001;looked at: Hand
+31,31147;looked atBasketball
+31,31147;looked at: Hand
+31,32303;looked atBasketball
+31,32303;looked at: Hand
+31,33623;looked atBasketball
+31,33623;looked at: Hand
+31,3449;looked atBasketball
+31,3449;looked at: Hand
+31,3449;object Basketball 1 was grabbed
+31,35608;looked atBasketball
+31,35608;looked at: Hand
+31,3677;looked atBasketball
+31,3677;looked at: Hand
+31,37836;looked atBasketball
+31,37836;looked at: Hand
+31,37836;objectChessPiece Variant inside box
+31,3891;looked atBasketball
+31,3891;looked at: Hand
+31,40146;looked atBasketball
+31,40146;looked at: Hand
+31,40146;basketball inside cart
+31,41184;looked atBasketball
+31,41184;looked at: Hand
+31,4226;looked atRoom
+31,4226;looked at: Hand
+31,43453;looked atBasketball
+31,43453;looked at: Hand
+31,43453;objectChessPiece Variant (1) inside box
+31,4447;looked atBasketball
+31,4447;looked at: Hand
+31,45634;looked atBasketball
+31,45634;looked at: Hand
+31,46762;looked atBasketball
+31,46762;looked at: Hand
+31,47847;looked atBasketball
+31,47847;looked at: Hand
+31,49227;looked atBasketball
+31,49227;looked at: Hand
+31,49227;objectChessPiece Variant (2) inside box
+31,50104;looked atBasketball
+31,51166;looked atBasketball
+31,52271;looked atShadow
+31,53438;looked atShadow
+31,54454;looked atCart_Basket
+31,55671;looked atShadow
+31,56716;looked atShadow
+31,57817;looked atShadow
+31,57817;object Basketball 1 was grabbed
+31,58948;looked atRoom
+31,60158;looked atRoom
+31,61172;looked atRoom
+31,61172;objectChessPiece Variant inside box
+31,62309;looked atRoom
+31,63469;looked atRoom
+31,64692;looked atRoom
+31,65676;looked atRoom
+31,66687;looked atBasketball
+31,66687;objectChessPiece Variant (1) inside box
+31,67831;looked atRoom
+31,68986;looked atRoom
+31,70069;looked atBasketball
+31,71189;looked atBasketball
+31,72287;looked atBasketball
+31,72287;objectChessPiece Variant (2) inside box
+31,73434;looked atBasketball
+31,74471;looked atBasketball
+31,75607;looked atBasketball
+31,76743;looked atBasketball
+31,77828;looked atBasketball
+31,78933;looked atBasketball
+31,80371;looked atBasketball
+31,8117;looked atBasketball
+31,8117;object Basketball 1 was grabbed
+31,82265;looked atBasketball
+31,835;looked atBasketball
+31,84479;looked atBasketball
+31,84479;objectChessPiece Variant inside box
+31,85626;looked atBasketball
+31,86776;looked atBasketball
+31,8784;looked atBasketball
+31,8892;looked atBasketball
+31,90147;looked atBasketball
+31,90147;objectChessPiece Variant (1) inside box
+31,9119;looked atBasketball
+31,9231;looked atBasketball
+31,9231;looked at: Hand
+31,93462;looked atBasketball
+31,93462;looked at: Hand
+31,94479;looked atBasketball
+31,94479;looked at: Hand
+31,95916;looked atBasketball
+31,95916;looked at: Hand
+31,95916;objectChessPiece Variant (2) inside box
+31,9677;looked atBasketball
+31,9677;looked at: Hand
+31,97809;looked atBasketball
+31,97809;looked at: Hand
+31,98941;looked atBasketball
+32,00089;looked atBasketball
+32,01162;looked atBasketball
+32,02261;looked atBasketball
+32,03665;looked atBasketball
+32,04453;looked atBasketball
+32,06103;looked atBasketball
+32,072;looked atBasketball
+32,07996;looked atBasketball
+32,07996;objectChessPiece Variant inside box
+32,09595;looked atBasketball
+32,10526;looked atBasketball
+32,11843;looked atBasketball
+32,12911;looked atBasketball
+32,1371;looked atBasketball
+32,1371;objectChessPiece Variant (1) inside box
+32,14916;looked atBasketball
+32,1639;looked atBasketball
+32,17522;looked atBasketball
+32,18328;looked atBasketball
+32,19787;looked atBasketball
+32,19787;objectChessPiece Variant (2) inside box
+32,20659;looked atShadow
+32,22355;looked atRoom
+32,23603;looked atRoom
+32,23993;looked atRoom
+32,25648;looked atRoom
+32,26434;looked atRoom
+32,28059;looked atRoom
+32,29176;looked atRoom
+32,29436;looked atRoom
+32,3066;looked atCart_Basket
+32,32333;looked atRoom
+32,32333;objectChessPiece Variant inside box
+32,33525;looked atRoom
+32,34107;looked atRoom
+32,35629;looked atRoom
+32,36163;looked atRoom
+32,37775;looked atRoom
+32,37775;objectChessPiece Variant (1) inside box
+32,38322;looked atRoom
+32,40063;looked atRoom
+32,4116;looked atCart_Basket
+32,41907;looked atRoom
+32,43426;looked atRoom
+32,43426;objectChessPiece Variant (2) inside box
+32,43835;looked atRoom
+32,44947;looked atRoom
+32,46719;looked atShadow
+32,4785;looked atShadow
+32,48965;looked atShadow
+32,49299;looked atShadow
+32,50408;looked atShadow
+32,52217;looked atShadow
+32,53301;looked atCart_Basket
+32,53765;looked atShadow
+32,5487;looked atShadow
+32,5487;objectChessPiece Variant inside box
+32,56643;looked atShadow
+32,58012;looked atShadow
+32,58897;looked atShadow
+32,59313;looked atCart_Basket
+32,60461;looked atCart_Basket
+32,60461;objectChessPiece Variant (1) inside box
+32,6214;looked atCart_Basket
+32,63379;looked atShadow
+32,63764;looked atShadow
+32,64854;looked atCart_Basket
+32,66671;looked atShadow
+32,66671;objectChessPiece Variant (2) inside box
+32,68402;looked atShadow
+32,69962;looked atShadow
+32,7103;looked atShadow
+32,71559;looked atRoom
+32,72702;looked atCart_Basket
+32,74611;looked atRoom
+32,7493;looked atCart_Basket
+32,76065;looked atRoom
+32,77704;looked atRoom
+32,78273;looked atRoom
+32,79451;looked atRoom
+32,79451;objectChessPiece Variant inside box
+32,80476;looked atRoom
+32,82333;looked atRoom
+32,82791;looked atRoom
+32,83809;looked atRoom
+32,84958;looked atRoom
+32,84958;objectChessPiece Variant (1) inside box
+32,86724;looked atRoom
+32,87244;looked atRoom
+32,88343;looked atRoom
+32,90253;looked atRoom
+32,9055;looked atRoom
+32,9055;objectChessPiece Variant (2) inside box
+32,91684;looked atRoom
+32,9279;looked atRoom
+32,94432;looked atRoom
+32,95022;looked atRoom
+32,96067;looked atRoom
+32,97832;looked atRoom
+32,9833;looked atRoom
+32,99491;looked atRoom
+33,00566;looked atRoom
+33,02442;looked atRoom
+33,02868;looked atRoom
+33,02868;objectChessPiece Variant inside box
+33,03852;looked atRoom
+33,06142;looked atTable2
+33,07326;looked atTable2
+33,08368;looked atRoom
+33,10565;looked atRoom
+33,10565;objectChessPiece Variant (1) inside box
+33,11802;looked atRoom
+33,12963;looked atRoom
+33,15043;looked atRoom
+33,15342;looked atRoom
+33,16343;looked atRoom
+33,16343;objectChessPiece Variant (2) inside box
+33,1845;looked atRoom
+33,20894;looked atRoom
+33,23416;looked atRoom
+33,24057;looked atRoom
+33,25214;looked atRoom
+33,2627;looked atRoom
+33,27384;looked atRoom
+33,28502;looked atRoom
+33,29647;looked atRoom
+33,30672;looked atRoom
+33,31913;looked atRoom
+33,31913;objectChessPiece Variant inside box
+33,32995;looked atRoom
+33,34019;looked atRoom
+33,35166;looked atRoom
+33,36314;looked atRoom
+33,37666;looked atRoom
+33,37666;objectChessPiece Variant (1) inside box
+33,3846;looked atTable2
+33,39674;looked atTable2
+33,40733;looked atTable2
+33,41839;looked atTable2
+33,42941;looked atTable2
+33,42941;objectChessPiece Variant (2) inside box
+33,44088;looked atTable2
+33,45179;looked atTable2
+33,46297;looked atTable2
+33,47384;looked atTable2
+33,4847;looked atTable2
+33,49662;looked atTable2
+33,50679;looked atTable2
+33,5185;looked atTable2
+33,53243;looked atTable2
+33,54049;looked atTable2
+33,55197;looked atTable2
+33,55197;objectChessPiece Variant inside box
+33,56302;looked atTable2
+33,57411;looked atTable2
+33,58511;looked atTable2
+33,59695;looked atTable2
+33,60711;looked atTable2
+33,60711;objectChessPiece Variant (1) inside box
+33,61877;looked atTable2
+33,63029;looked atTable2
+33,64026;looked atTable2
+33,65312;looked atTable2
+33,66314;looked atTable2
+33,66314;objectChessPiece Variant (2) inside box
+33,674;looked atTable2
+33,68769;looked atBasketball
+33,69672;looked atBasketball
+33,70733;looked atBasketball
+33,70733;basketball inside cart
+33,7189;looked atBasketball
+33,73018;looked atBasketball
+33,74071;looked atRoom
+33,75269;looked atRoom
+33,76281;looked atBasketball
+33,77425;looked atWall 7
+33,78527;looked atBasketball
+33,78527;objectChessPiece Variant inside box
+33,79753;looked atBasketball
+33,80825;looked atBasketball
+33,81906;looked atBasketball
+33,83035;looked atBasketball
+33,84365;looked atBasketball
+33,84365;objectChessPiece Variant (1) inside box
+33,85137;looked atWall 7
+33,8625;looked atBasketball
+33,87405;looked atBasketball
+33,88454;looked atBasketball
+33,89638;looked atBasketball
+33,89638;objectChessPiece Variant (2) inside box
+33,90671;looked atBasketball
+33,91851;looked atBasketball
+33,93002;looked atBasketball
+33,94048;looked atBasketball
+33,95197;looked atBasketball
+33,96332;looked atBasketball
+33,97419;looked atBasketball
+33,98512;looked atBasketball
+33,99965;looked atBasketball
+34,00761;looked atBasketball
+34,01939;looked atBasketball
+34,01939;objectChessPiece Variant inside box
+34,03046;looked atBasketball
+34,04061;looked atBasketball
+34,05196;looked atBasketball
+34,06266;looked atBasketball
+34,07435;looked atBasketball
+34,07435;objectChessPiece Variant (1) inside box
+34,08588;looked atBasketball
+34,09759;looked atBasketball
+34,10754;looked atBasketball
+34,11926;looked atRoom
+34,13036;looked atRoom
+34,13036;objectChessPiece Variant (2) inside box
+34,14123;looked atRoom
+34,15539;looked atRoom
+34,16336;looked atRoom
+34,17476;looked atRoom
+34,18556;looked atRoom
+34,1974;looked atTable2
+34,20834;looked atTable2
+34,21916;looked atTable2
+34,23073;looked atTable2
+34,24184;looked atTable2
+34,2529;looked atTable2
+34,2529;objectChessPiece Variant inside box
+34,26384;looked atTable2
+34,27528;looked atRoom
+34,28577;looked atTable2
+34,29781;looked atTable2
+34,31006;looked atRoom
+34,31006;objectChessPiece Variant (1) inside box
+34,31967;looked atRoom
+34,33125;looked atRoom
+34,3413;looked atRoom
+34,35299;looked atTable2
+34,36417;looked atTable2
+34,36417;objectChessPiece Variant (2) inside box
+34,37507;looked atTable2
+34,38634;looked atTable2
+34,39799;looked atTable2
+34,40802;looked atTable2
+34,41977;looked atTable2
+34,43122;looked atTable2
+34,44134;looked atTable2
+34,45363;looked atTable2
+34,46664;looked atTable2
+34,47515;looked atTable2
+34,48637;looked atTable2
+34,48637;objectChessPiece Variant inside box
+34,49746;looked atRoom
+34,50829;looked atRoom
+34,52001;looked atRoom
+34,53099;looked atRoom
+34,54158;looked atRoom
+34,54158;objectChessPiece Variant (1) inside box
+34,55348;looked atRoom
+34,56399;looked atRoom
+34,57509;looked atRoom
+34,58603;looked atRoom
+34,598;looked atTable2
+34,598;objectChessPiece Variant (2) inside box
+34,60896;looked atTable2
+34,62255;looked atBasketball
+34,63147;looked atBasketball
+34,64232;looked atBasketball
+34,65344;looked atBasketball
+34,66484;looked atBasketball
+34,67559;looked atBasketball
+34,6869;looked atBasketball
+34,69867;looked atBasketball
+34,70893;looked atBasketball
+34,71973;looked atBasketball
+34,71973;objectChessPiece Variant inside box
+34,7318;looked atBasketball
+34,74227;looked atBasketball
+34,75367;looked atBasketball
+34,76483;looked atBasketball
+34,77816;looked atBasketball
+34,77816;objectChessPiece Variant (1) inside box
+34,78716;looked atBasketball
+34,7988;looked atBasketball
+34,8092;looked atBasketball
+34,82052;looked atBasketball
+34,83182;looked atBasketball
+34,83182;objectChessPiece Variant (2) inside box
+34,8425;looked atBasketball
+34,85461;looked atBasketball
+34,86475;looked atBasketball
+34,87626;looked atBasketball
+34,88765;looked atBasketball
+34,89902;looked atBasketball
+34,90958;looked atBasketball
+34,92064;looked atBasketball
+34,93436;looked atBasketball
+34,94266;looked atBasketball
+34,95455;looked atBasketball
+34,95455;objectChessPiece Variant inside box
+34,96482;looked atBasketball
+34,97611;looked atBasketball
+34,9869;looked atBasketball
+34,99895;looked atBasketball
+35,00947;looked atBasketball
+35,00947;objectChessPiece Variant (1) inside box
+35,0204;looked atBasketball
+35,03282;looked atBasketball
+35,04268;looked atBasketball
+35,054;looked atBasketball
+35,06532;looked atBasketball
+35,06532;objectChessPiece Variant (2) inside box
+35,07627;looked atBasketball
+35,08961;looked atBasketball
+35,09912;looked atBasketball
+35,1096;looked atBasketball
+35,12071;looked atRoom
+35,13246;looked atRoom
+35,14264;looked atRoom
+35,15451;looked atRoom
+35,16549;looked atRoom
+35,17603;looked atRoom
+35,18731;looked atRoom
+35,18731;objectChessPiece Variant inside box
+35,19883;looked atBasketball
+35,2096;looked atBasketball
+35,22681;looked atBasketball
+35,2347;looked atBasketball
+35,24757;looked atBasketball
+35,24757;objectChessPiece Variant (1) inside box
+35,25715;looked atBasketball
+35,26828;looked atBasketball
+35,27916;looked atBasketball
+35,29087;looked atBasketball
+35,30164;looked atBasketball
+35,30164;objectChessPiece Variant (2) inside box
+35,31258;looked atRoom
+35,32457;looked atRoom
+35,34827;looked atBasketball
+35,35489;looked atBasketball
+35,3657;looked atBasketball
+35,37656;looked atBasketball
+35,38682;looked atBasketball
+35,40084;looked atBasketball
+35,41001;looked atBasketball
+35,42035;looked atBasketball
+35,43254;looked atBasketball
+35,43254;objectChessPiece Variant inside box
+35,44266;looked atBasketball
+35,45438;looked atBasketball
+35,46555;looked atBasketball
+35,47627;looked atBasketball
+35,48735;looked atBasketball
+35,48735;objectChessPiece Variant (1) inside box
+35,49918;looked atBasketball
+35,50986;looked atRoom
+35,52079;looked atBasketball
+35,5326;looked atBasketball
+35,54298;looked atRoom
+35,54298;objectChessPiece Variant (2) inside box
+35,55779;looked atRoom
+35,5659;looked atRoom
+35,57642;looked atRoom
+35,5876;looked atRoom
+35,59923;looked atRoom
+35,60966;looked atRoom
+35,62106;looked atBasketball
+35,63245;looked atBasketball
+35,64289;looked atRoom
+35,65518;looked atRoom
+35,66533;looked atBasketball
+35,66533;objectChessPiece Variant inside box
+35,67659;looked atBasketball
+35,68826;looked atBasketball
+35,69887;looked atBasketball
+35,71238;looked atBasketball
+35,72164;looked atRoom
+35,72164;objectChessPiece Variant (1) inside box
+35,73244;looked atRoom
+35,74331;looked atRoom
+35,75532;looked atRoom
+35,76549;looked atBasketball
+35,77681;looked atBasketball
+35,77681;objectChessPiece Variant (2) inside box
+35,78773;looked atBasketball
+35,7999;looked atBasketball
+35,81043;looked atBasketball
+35,82129;looked atBasketball
+35,83323;looked atBasketball
+35,84344;looked atBasketball
+35,85535;looked atBasketball
+35,87164;looked atBasketball
+35,87761;looked atBasketball
+35,88774;looked atBasketball
+35,89977;looked atBasketball
+35,89977;objectChessPiece Variant inside box
+35,91012;looked atBasketball
+35,92119;looked atBasketball
+35,93292;looked atBasketball
+35,94313;looked atBasketball
+35,95515;looked atBasketball
+35,95515;basketball inside cart
+35,95515;objectChessPiece Variant (1) inside box
+35,96608;looked atBasketball
+35,97738;looked atBasketball
+35,98858;looked atBasketball
+35,99963;looked atBasketball
+36,0103;looked atBasketball
+36,0103;objectChessPiece Variant (2) inside box
+36,02375;looked atBasketball
+36,03302;looked atBasketball
+36,04325;looked atBasketball
+36,05538;looked atBasketball
+36,06543;looked atBasketball
+36,07706;looked atBasketball
+36,08855;looked atBasketball
+36,0993;looked atBasketball
+36,0993;object Basketball was grabbed
+36,0993;object Basketball 1 (1) was grabbed
+36,11036;looked atBasketball
+36,12237;looked atBasketball
+36,13295;looked atBasketball
+36,13295;objectChessPiece Variant inside box
+36,14413;looked atBasketball
+36,15609;looked atBasketball
+36,16575;looked atBasketball
+36,1793;looked atBasketball
+36,18848;looked atBasketball
+36,18848;objectChessPiece Variant (1) inside box
+36,19978;looked atBasketball
+36,21056;looked atBasketball
+36,22122;looked atBasketball
+36,23335;looked atBasketball
+36,24351;looked atBasketball
+36,24351;objectChessPiece Variant (2) inside box
+36,25515;looked atBasketball
+36,26683;looked atBasketball
+36,27727;looked atBasketball
+36,28819;looked atBasketball
+36,30028;looked atBasketball
+36,31045;looked atBasketball
+36,32142;looked atBasketball
+36,33563;looked atBasketball
+36,33563;object Basketball was grabbed
+36,33563;object Basketball 1 (1) was grabbed
+36,34378;looked atBasketball
+36,35598;looked atBasketball
+36,36621;looked atBasketball
+36,36621;objectChessPiece Variant inside box
+36,37727;looked atBasketball
+36,38897;looked atBasketball
+36,3999;looked atBasketball
+36,41082;looked atBasketball
+36,42201;looked atBasketball
+36,42201;objectChessPiece Variant (1) inside box
+36,43342;looked atBasketball
+36,44381;looked atBasketball
+36,45584;looked atRoom
+36,46579;looked atRoom
+36,47741;looked atRoom
+36,47741;objectChessPiece Variant (2) inside box
+36,49098;looked atRoom
+36,49997;looked atRoom
+36,51084;looked atRoom
+36,52216;looked atRoom
+36,53293;looked atRoom
+36,54385;looked atBasketball
+36,55582;looked atBasketball
+36,56603;looked atRoom
+36,56603;object Basketball was grabbed
+36,56603;object Basketball 1 (1) was grabbed
+36,57742;looked atRoom
+36,58862;looked atRoom
+36,60029;looked atRoom
+36,60029;objectChessPiece Variant inside box
+36,61102;looked atRoom
+36,62186;looked atRoom
+36,63408;looked atRoom
+36,64604;looked atRoom
+36,65582;looked atRoom
+36,65582;objectChessPiece Variant (1) inside box
+36,667;looked atRoom
+36,67786;looked atRoom
+36,68841;looked atRoom
+36,70041;looked atRoom
+36,71111;looked atRoom
+36,71111;objectChessPiece Variant (2) inside box
+36,7218;looked atRoom
+36,73389;looked atRoom
+36,74403;looked atRoom
+36,75604;looked atRoom
+36,76653;looked atRoom
+36,77771;looked atRoom
+36,78898;looked atRoom
+36,80264;looked atRoom
+36,80264;object Basketball was grabbed
+36,80264;object Basketball 1 (1) was grabbed
+36,81096;looked atRoom
+36,82234;looked atRoom
+36,83369;looked atRoom
+36,83369;objectChessPiece Variant inside box
+36,84389;looked atRoom
+36,85651;looked atRoom
+36,86629;looked atRoom
+36,87774;looked atRoom
+36,88918;looked atRoom
+36,88918;objectChessPiece Variant (1) inside box
+36,9001;looked atBasketball
+36,91167;looked atBasketball
+36,92258;looked atBasketball
+36,93325;looked atBasketball
+36,94411;looked atBasketball
+36,94411;objectChessPiece Variant (2) inside box
+36,95846;looked atBasketball
+36,96698;looked atBasketball
+36,97734;looked atBasketball
+36,98859;looked atBasketball
+37,00071;looked atBasketball
+37,01122;looked atBasketball
+37,02209;looked atBasketball
+37,03416;looked atBasketball
+37,03416;object Basketball was grabbed
+37,03416;object Basketball 1 (1) was grabbed
+37,04423;looked atBasketball
+37,05605;looked atBasketball
+37,06703;looked atBasketball
+37,06703;objectChessPiece Variant inside box
+37,07792;looked atBasketball
+37,0889;looked atBasketball
+37,10081;looked atBasketball
+37,11367;looked atBasketball
+37,12237;looked atBasketball
+37,12237;objectChessPiece Variant (1) inside box
+37,13416;looked atBasketball
+37,14476;looked atRoom
+37,1561;looked atBasketball
+37,16661;looked atTable2
+37,17769;looked atTable2
+37,17769;objectChessPiece Variant (2) inside box
+37,18897;looked atTable2
+37,2006;looked atTable2
+37,21125;looked atTable2
+37,22224;looked atTable2
+37,2338;looked atTable2
+37,24468;looked atTable2
+37,25635;looked atTable2
+37,26866;looked atTable2
+37,26866;object Basketball was grabbed
+37,26866;object Basketball 1 (1) was grabbed
+37,27887;looked atTable2
+37,29032;looked atTable2
+37,29975;looked atTable2
+37,29975;objectChessPiece Variant inside box
+37,31127;looked atTable2
+37,32281;looked atRoom
+37,33347;looked atRoom
+37,34423;looked atRoom
+37,35643;looked atRoom
+37,35643;basketball distance:2,482537
+37,35643;objectChessPiece Variant (1) inside box
+37,36665;looked atRoom
+37,36665;basketball distance:2,462251
+37,37822;looked atRoom
+37,37822;basketball distance:2,442114
+37,38884;looked atTable
+37,38884;basketball distance:2,421929
+37,4011;looked atRoom
+37,4011;basketball distance:2,402953
+37,41143;looked atRoom
+37,41143;basketball distance:2,381506
+37,41143;objectChessPiece Variant (2) inside box
+37,42432;looked atRoom
+37,42432;basketball distance:2,360064
+37,43449;looked atRoom
+37,43449;basketball distance:2,338442
+37,4442;looked atRoom
+37,4442;basketball distance:2,316563
+37,4442;basketball distance:2,484468
+37,45587;looked atTable
+37,45587;basketball distance:2,294091
+37,45587;basketball distance:2,460641
+37,46745;looked atTable
+37,46745;basketball distance:2,271188
+37,46745;basketball distance:2,4392
+37,47831;looked atRoom
+37,47831;basketball distance:2,250666
+37,47831;basketball distance:2,418111
+37,48895;looked atTable
+37,48895;basketball distance:2,228838
+37,48895;basketball distance:2,398216
+37,50097;looked atTable
+37,50097;object Basketball was grabbed
+37,50097;basketball distance:2,205697
+37,50097;object Basketball 1 (1) was grabbed
+37,50097;basketball distance:2,379296
+37,51147;looked atRoom
+37,51147;basketball distance:2,181176
+37,51147;basketball distance:2,360682
+37,52336;looked atRoom
+37,52336;basketball distance:2,159409
+37,52336;basketball distance:2,342288
+37,53429;looked atTable
+37,53429;basketball distance:2,141228
+37,53429;basketball distance:2,325585
+37,53429;objectChessPiece Variant inside box
+37,54399;looked atTable
+37,54399;basketball distance:2,121483
+37,54399;basketball distance:2,308666
+37,55612;looked atTable
+37,55612;basketball distance:2,1004
+37,55612;basketball distance:2,291602
+37,56679;looked atRoom
+37,56679;basketball distance:2,078835
+37,56679;basketball distance:2,27802
+37,58002;looked atRoom
+37,58002;basketball distance:2,056537
+37,58002;basketball distance:2,26372
+37,58952;looked atRoom
+37,58952;basketball distance:2,033534
+37,58952;basketball distance:2,247525
+37,58952;objectChessPiece Variant (1) inside box
+37,60023;looked atTable
+37,60023;basketball distance:2,010884
+37,60023;basketball distance:2,231405
+37,61164;looked atRoom
+37,61164;basketball distance:2,000356
+37,61164;basketball distance:2,214855
+37,6225;looked atTable
+37,6225;basketball distance:1,987868
+37,6225;basketball distance:2,199197
+37,63398;looked atTable
+37,63398;basketball distance:1,973833
+37,63398;basketball distance:2,184578
+37,64434;looked atRoom
+37,64434;basketball distance:1,961145
+37,64434;basketball distance:2,169034
+37,64434;objectChessPiece Variant (2) inside box
+37,65665;looked atRoom
+37,65665;basketball distance:1,946147
+37,65665;basketball distance:2,153523
+37,66674;looked atRoom
+37,66674;basketball distance:1,929398
+37,66674;basketball distance:2,138317
+37,67862;looked atRoom
+37,67862;basketball distance:1,911312
+37,67862;basketball distance:2,123673
+37,68987;looked atRoom
+37,68987;basketball distance:1,899681
+37,68987;basketball distance:2,109477
+37,69968;looked atRoom
+37,69968;basketball distance:1,886202
+37,69968;basketball distance:2,095956
+37,71149;looked atRoom
+37,71149;basketball distance:1,871241
+37,71149;basketball distance:2,082932
+37,72272;looked atRoom
+37,72272;basketball distance:1,85794
+37,72272;basketball distance:2,071617
+37,73561;looked atRoom
+37,73561;object Basketball was grabbed
+37,73561;basketball distance:1,840345
+37,73561;object Basketball 1 (1) was grabbed
+37,73561;basketball distance:2,056456
+37,74425;looked atRoom
+37,74425;basketball distance:1,822571
+37,74425;basketball distance:2,041983
+37,75664;looked atRoom
+37,75664;basketball distance:1,804494
+37,75664;basketball distance:2,02805
+37,76703;looked atCart_Basket
+37,76703;basketball distance:1,79576
+37,76703;basketball distance:2,014678
+37,76703;objectChessPiece Variant inside box
+37,77779;looked atBasketball
+37,77779;basketball distance:1,785386
+37,77779;basketball distance:2,001766
+37,78889;looked atBasketball
+37,78889;basketball distance:1,773928
+37,78889;basketball distance:1,989154
+37,80084;looked atBasketball
+37,80084;basketball distance:1,762391
+37,80084;basketball distance:1,977407
+37,81124;looked atCart_Basket
+37,81124;basketball distance:1,747538
+37,81124;basketball distance:1,969042
+37,82195;looked atRoom
+37,82195;basketball distance:1,733449
+37,82195;basketball distance:1,950844
+37,82195;objectChessPiece Variant (1) inside box
+37,83423;looked atCart_Basket
+37,83423;basketball distance:1,719739
+37,83423;basketball distance:1,933839
+37,84431;looked atBasketball
+37,84431;basketball distance:1,709102
+37,84431;basketball distance:1,917742
+37,85577;looked atCart_Basket
+37,85577;basketball distance:1,702571
+37,85577;basketball distance:1,899411
+37,86744;looked atCart_Basket
+37,86744;basketball distance:1,695006
+37,86744;basketball distance:1,882243
+37,87795;looked atBasketball
+37,87795;basketball distance:1,686643
+37,87795;basketball distance:1,865818
+37,87795;objectChessPiece Variant (2) inside box
+37,89128;looked atRoom
+37,89128;basketball distance:1,679089
+37,89128;basketball distance:1,841102
+37,90092;looked atBasketball
+37,90092;basketball distance:1,670955
+37,90092;basketball distance:1,819193
+37,91118;looked atBasketball
+37,91118;basketball distance:1,662469
+37,91118;basketball distance:1,799415
+37,92217;looked atRoom
+37,92217;basketball distance:1,654878
+37,92217;basketball distance:1,781281
+37,93391;looked atCart_Basket
+37,93391;basketball distance:1,65264
+37,93391;basketball distance:1,757677
+37,94394;looked atBasketball
+37,94394;basketball distance:1,649143
+37,94394;basketball distance:1,736377
+37,95599;looked atBasketball
+37,95599;basketball distance:1,644853
+37,95599;basketball distance:1,716871
+37,96692;looked atBasketball
+37,96692;object Basketball was grabbed
+37,96692;basketball distance:1,644546
+37,96692;object Basketball 1 (1) was grabbed
+37,96692;basketball distance:1,69987
+37,97765;looked atBasketball
+37,97765;basketball distance:1,643451
+37,97765;basketball distance:1,683636
+37,98895;looked atBasketball
+37,98895;basketball distance:1,641982
+37,98895;basketball distance:1,668175
+38,00017;looked atBasketball
+38,00017;basketball distance:1,640486
+38,00017;basketball distance:1,653437
+38,00017;objectChessPiece Variant inside box
+38,01082;looked atRoom
+38,01082;basketball distance:1,639666
+38,01082;basketball distance:1,641068
+38,0222;looked atBasketball
+38,0222;basketball distance:1,640239
+38,0222;basketball distance:1,624211
+38,03388;looked atBasketball
+38,03388;basketball distance:1,64035
+38,03388;basketball distance:1,60855
+38,04632;looked atBasketball
+38,04632;basketball distance:1,640265
+38,04632;basketball distance:1,594008
+38,05632;looked atBasketball
+38,05632;basketball distance:1,645711
+38,05632;basketball distance:1,584194
+38,05632;objectChessPiece Variant (1) inside box
+38,06621;looked atBasketball
+38,06621;basketball distance:1,649529
+38,06621;basketball distance:1,574331
+38,07804;looked atBasketball
+38,07804;basketball distance:1,652371
+38,07804;basketball distance:1,564896
+38,0892;looked atBasketball
+38,0892;basketball distance:1,660052
+38,0892;basketball distance:1,562401
+38,10021;looked atBasketball
+38,10021;basketball distance:1,66652
+38,10021;basketball distance:1,558736
+38,11121;looked atBasketball
+38,11121;basketball distance:1,672229
+38,11121;basketball distance:1,55484
+38,11121;objectChessPiece Variant (2) inside box
+38,12237;looked atBasketball
+38,12237;basketball distance:1,67404
+38,12237;basketball distance:1,562728
+38,13403;looked atBasketball
+38,13403;basketball distance:1,676277
+38,13403;basketball distance:1,567846
+38,14523;looked atBasketball
+38,14523;basketball distance:1,678888
+38,14523;basketball distance:1,571205
+38,15657;looked atBasketball
+38,15657;basketball distance:1,681819
+38,15657;basketball distance:1,573602
+38,16617;looked atCart_Basket
+38,16617;basketball distance:1,685832
+38,16617;basketball distance:1,575973
+38,17771;looked atCart_Basket
+38,17771;basketball distance:1,689695
+38,17771;basketball distance:1,578162
+38,18865;looked atCart_Basket
+38,18865;basketball distance:1,69345
+38,18865;basketball distance:1,580369
+38,18865;basketball inside cart
+38,20347;looked atBasketball
+38,20347;object Basketball was grabbed
+38,20347;basketball distance:1,697139
+38,20347;object Basketball 1 (1) was grabbed
+38,20347;basketball distance:1,582757
+38,21123;looked atBasketball
+38,21123;basketball distance:1,700372
+38,21123;basketball distance:1,586446
+38,22229;looked atCart_Basket
+38,22229;basketball distance:1,685271
+38,22229;basketball distance:1,579191
+38,23423;looked atBasketball
+38,23423;basketball distance:1,676022
+38,23423;basketball distance:1,573196
+38,23423;objectChessPiece Variant inside box
+38,24409;looked atBasketball
+38,24409;basketball distance:1,670235
+38,24409;basketball distance:1,56828
+38,25567;looked atRoom
+38,25567;basketball distance:1,661175
+38,25567;basketball distance:1,559332
+38,26755;looked atCart_Basket
+38,26755;basketball distance:1,65475
+38,26755;basketball distance:1,551484
+38,27811;looked atCart_Basket
+38,27811;basketball distance:1,649952
+38,27811;basketball distance:1,544484
+38,28872;looked atRoom
+38,28872;basketball distance:1,639945
+38,28872;basketball distance:1,535726
+38,28872;objectChessPiece Variant (1) inside box
+38,30074;looked atRoom
+38,30074;basketball distance:1,631649
+38,30074;basketball distance:1,52771
+38,31124;looked atRoom
+38,31124;basketball distance:1,624478
+38,31124;basketball distance:1,520238
+38,32228;looked atRoom
+38,32228;basketball distance:1,618089
+38,32228;basketball distance:1,513194
+38,33406;looked atRoom
+38,33406;basketball distance:1,607941
+38,33406;basketball distance:1,504602
+38,34406;looked atRoom
+38,34406;basketball distance:1,598816
+38,34406;basketball distance:1,496679
+38,34406;objectChessPiece Variant (2) inside box
+38,35856;looked atRoom
+38,35856;basketball distance:1,590492
+38,35856;basketball distance:1,489258
+38,36732;looked atRoom
+38,36732;basketball distance:1,586735
+38,36732;basketball distance:1,481439
+38,3774;looked atRoom
+38,3774;basketball distance:1,582714
+38,3774;basketball distance:1,473858
+38,38982;looked atRoom
+38,38982;basketball distance:1,578452
+38,38982;basketball distance:1,466501
+38,40059;looked atRoom
+38,40059;basketball distance:1,571948
+38,40059;basketball distance:1,458081
+38,41123;looked atRoom
+38,41123;basketball distance:1,565529
+38,41123;basketball distance:1,449824
+38,42227;looked atRoom
+38,42227;basketball distance:1,559256
+38,42227;basketball distance:1,441793
+38,43407;looked atRoom
+38,43407;object Basketball was grabbed
+38,43407;basketball distance:1,55313
+38,43407;object Basketball 1 (1) was grabbed
+38,43407;basketball distance:1,43398
+38,44438;looked atRoom
+38,44438;basketball distance:1,54716
+38,44438;basketball distance:1,426384
+38,45657;looked atRoom
+38,45657;basketball distance:1,542108
+38,45657;basketball distance:1,411517
+38,46634;looked atRoom
+38,46634;basketball distance:1,537022
+38,46634;basketball distance:1,397938
+38,46634;objectChessPiece Variant inside box
+38,47825;looked atRoom
+38,47825;basketball distance:1,531965
+38,47825;basketball distance:1,385613
+38,48964;looked atRoom
+38,48964;basketball distance:1,527299
+38,48964;basketball distance:1,377048
+38,50009;looked atRoom
+38,50009;basketball distance:1,522009
+38,50009;basketball distance:1,367306
+38,51361;looked atRoom
+38,51361;basketball distance:1,516966
+38,51361;basketball distance:1,358023
+38,52298;looked atRoom
+38,52298;basketball distance:1,510461
+38,52298;basketball distance:1,348002
+38,52298;objectChessPiece Variant (1) inside box
+38,53373;looked atRoom
+38,53373;basketball distance:1,504265
+38,53373;basketball distance:1,338539
+38,54442;looked atRoom
+38,54442;basketball distance:1,498399
+38,54442;basketball distance:1,329535
+38,55645;looked atRoom
+38,55645;basketball distance:1,492843
+38,55645;basketball distance:1,320884
+38,56656;looked atRoom
+38,56656;basketball distance:1,487549
+38,56656;basketball distance:1,317591
+38,57808;looked atRoom
+38,57808;basketball distance:1,482539
+38,57808;basketball distance:1,313846
+38,57808;objectChessPiece Variant (2) inside box
+38,58886;looked atRoom
+38,58886;basketball distance:1,477832
+38,58886;basketball distance:1,309816
+38,60141;looked atCart_Basket
+38,60141;basketball distance:1,475072
+38,60141;basketball distance:1,306734
+38,61152;looked atCart_Basket
+38,61152;basketball distance:1,472228
+38,61152;basketball distance:1,303416
+38,62218;looked atCart_Basket
+38,62218;basketball distance:1,469344
+38,62218;basketball distance:1,299995
+38,63459;looked atCart_Basket
+38,63459;basketball distance:1,466403
+38,63459;basketball distance:1,296491
+38,64446;looked atBasketball
+38,64446;basketball distance:1,463819
+38,64446;basketball distance:1,293468
+38,65596;looked atBasketball
+38,65596;basketball distance:1,462995
+38,65596;basketball distance:1,289278
+38,66941;looked atBasketball
+38,66941;object Basketball was grabbed
+38,66941;basketball distance:1,461772
+38,66941;object Basketball 1 (1) was grabbed
+38,66941;basketball distance:1,285135
+38,67823;looked atBasketball
+38,67823;basketball distance:1,460316
+38,67823;basketball distance:1,28107
+38,68915;looked atBasketball
+38,68915;basketball distance:1,458305
+38,68915;basketball distance:1,278844
+38,70098;looked atBasketball
+38,70098;basketball distance:1,456149
+38,70098;basketball distance:1,276432
+38,70098;objectChessPiece Variant inside box
+38,71149;looked atBasketball
+38,71149;basketball distance:1,453993
+38,71149;basketball distance:1,273933
+38,72245;looked atCart_Basket
+38,72245;basketball distance:1,452315
+38,72245;basketball distance:1,27656
+38,73443;looked atCart_Basket
+38,73443;basketball distance:1,450626
+38,73443;basketball distance:1,278175
+38,74421;looked atCart_Basket
+38,74421;basketball distance:1,448943
+38,74421;basketball distance:1,279121
+38,7563;looked atCart_Basket
+38,7563;basketball distance:1,447296
+38,7563;basketball distance:1,279643
+38,7563;objectChessPiece Variant (1) inside box
+38,76691;looked atBasketball
+38,76691;basketball distance:1,442204
+38,76691;basketball distance:1,281698
+38,77835;looked atBasketball
+38,77835;basketball distance:1,437585
+38,77835;basketball distance:1,283102
+38,78927;looked atBasketball
+38,78927;basketball distance:1,433399
+38,78927;basketball distance:1,284117
+38,80065;looked atBasketball
+38,80065;basketball distance:1,429981
+38,80065;basketball distance:1,281477
+38,8116;looked atBasketball
+38,8116;basketball distance:1,426829
+38,8116;basketball distance:1,279375
+38,8116;objectChessPiece Variant (2) inside box
+38,82515;looked atCart_Basket
+38,82515;basketball distance:1,423895
+38,82515;basketball distance:1,277689
+38,83435;looked atBasketball
+38,83435;basketball distance:1,419777
+38,83435;basketball distance:1,278975
+38,8445;looked atBasketball
+38,8445;basketball distance:1,415992
+38,8445;basketball distance:1,279906
+38,85646;looked atBasketball
+38,85646;basketball distance:1,412472
+38,85646;basketball distance:1,280635
+38,86668;looked atBasketball
+38,86668;basketball distance:1,409161
+38,86668;basketball distance:1,281262
+38,87815;looked atBasketball
+38,87815;basketball distance:1,40602
+38,87815;basketball distance:1,28185
+38,88953;looked atCart_Basket
+38,88953;basketball distance:1,400363
+38,88953;basketball distance:1,276868
+38,90043;looked atCart_Basket
+38,90043;object Basketball was grabbed
+38,90043;basketball distance:1,395158
+38,90043;object Basketball 1 (1) was grabbed
+38,90043;basketball distance:1,272742
+38,91155;looked atCart_Basket
+38,91155;basketball distance:1,390357
+38,91155;basketball distance:1,269307
+38,92305;looked atCart_Basket
+38,92305;basketball distance:1,386284
+38,92305;basketball distance:1,260612
+38,93369;looked atCart_Basket
+38,93369;basketball distance:1,382476
+38,93369;basketball distance:1,25309
+38,93369;objectChessPiece Variant inside box
+38,94452;looked atCart_Basket
+38,94452;basketball distance:1,378865
+38,94452;basketball distance:1,246567
+38,95685;looked atCart_Basket
+38,95685;basketball distance:1,375406
+38,95685;basketball distance:1,240883
+38,96658;looked atCart_Basket
+38,96658;basketball distance:1,370843
+38,96658;basketball distance:1,233084
+38,98028;looked atRoom
+38,98028;basketball distance:1,36625
+38,98028;basketball distance:1,225654
+38,98964;looked atRoom
+38,98964;basketball distance:1,362216
+38,98964;basketball distance:1,219277
+38,98964;objectChessPiece Variant (1) inside box
+39,0006;looked atRoom
+39,0006;basketball distance:1,359575
+39,0006;basketball distance:1,213826
+39,01166;looked atRoom
+39,01166;basketball distance:1,357105
+39,01166;basketball distance:1,209
+39,02232;looked atRoom
+39,02232;basketball distance:1,354834
+39,02232;basketball distance:1,20476
+39,0344;looked atRoom
+39,0344;basketball distance:1,352675
+39,0344;basketball distance:1,200866
+39,04455;looked atRoom
+39,04455;basketball distance:1,349171
+39,04455;basketball distance:1,196483
+39,04455;objectChessPiece Variant (2) inside box
+39,05646;looked atRoom
+39,05646;basketball distance:1,346045
+39,05646;basketball distance:1,19257
+39,06754;looked atRoom
+39,06754;basketball distance:1,343238
+39,06754;basketball distance:1,189043
+39,07854;looked atRoom
+39,07854;basketball distance:1,340941
+39,07854;basketball distance:1,186188
+39,08939;looked atCart_Basket
+39,08939;basketball distance:1,340872
+39,08939;basketball distance:1,186571
+39,10066;looked atCart_Basket
+39,10066;basketball distance:1,3408
+39,10066;basketball distance:1,18659
+39,11139;looked atCart_Basket
+39,11139;basketball distance:1,340659
+39,11139;basketball distance:1,186379
+39,12265;looked atCart_Basket
+39,12265;basketball distance:1,342084
+39,12265;basketball distance:1,188799
+39,13658;looked atCart_Basket
+39,13658;object Basketball was grabbed
+39,13658;basketball distance:1,342968
+39,13658;object Basketball 1 (1) was grabbed
+39,13658;basketball distance:1,190511
+39,14496;looked atCart_Basket
+39,14496;basketball distance:1,343498
+39,14496;basketball distance:1,191701
+39,15643;looked atRoom
+39,15643;basketball distance:1,343796
+39,15643;basketball distance:1,192517
+39,16706;looked atCart_Basket
+39,16706;basketball distance:1,3462
+39,16706;basketball distance:1,199763
+39,16706;objectChessPiece Variant inside box
+39,17812;looked atRoom
+39,17812;basketball distance:1,348386
+39,17812;basketball distance:1,205651
+39,18937;looked atRoom
+39,18937;basketball distance:1,35043
+39,18937;basketball distance:1,210612
+39,20063;looked atRoom
+39,20063;basketball distance:1,35571
+39,20063;basketball distance:1,214195
+39,2114;looked atRoom
+39,2114;basketball distance:1,360388
+39,2114;basketball distance:1,217777
+39,22262;looked atRoom
+39,22262;basketball distance:1,364489
+39,22262;basketball distance:1,22123
+39,22262;objectChessPiece Variant (1) inside box
+39,23415;looked atCart_Basket
+39,23415;basketball distance:1,370121
+39,23415;basketball distance:1,227329
+39,24455;looked atBasketball
+39,24455;basketball distance:1,375193
+39,24455;basketball distance:1,232634
+39,25679;looked atBasketball
+39,25679;basketball distance:1,379901
+39,25679;basketball distance:1,237402
+39,26647;looked atBasketball
+39,26647;basketball distance:1,384384
+39,26647;basketball distance:1,242086
+39,27861;looked atBasketball
+39,27861;basketball distance:1,388278
+39,27861;basketball distance:1,24621
+39,27861;objectChessPiece Variant (2) inside box
+39,29211;looked atBasketball
+39,29211;basketball distance:1,392398
+39,29211;basketball distance:1,247026
+39,30011;looked atBasketball
+39,30011;basketball distance:1,396302
+39,30011;basketball distance:1,24854
+39,31161;looked atBasketball
+39,31161;basketball distance:1,400054
+39,31161;basketball distance:1,250568
+39,32304;looked atBasketball
+39,32304;basketball distance:1,40296
+39,32304;basketball distance:1,254176
+39,33382;looked atBasketball
+39,33382;basketball distance:1,406156
+39,33382;basketball distance:1,258028
+39,34446;looked atBasketball
+39,34446;basketball distance:1,40959
+39,34446;basketball distance:1,262116
+39,35671;looked atBasketball
+39,35671;basketball distance:1,412964
+39,35671;basketball distance:1,266157
+39,3668;looked atBasketball
+39,3668;object Basketball was grabbed
+39,3668;basketball distance:1,415312
+39,3668;object Basketball 1 (1) was grabbed
+39,3668;basketball distance:1,269174
+39,37833;looked atBasketball
+39,37833;basketball distance:1,412072
+39,37833;basketball distance:1,269
+39,38936;looked atBasketball
+39,38936;basketball distance:1,41026
+39,38936;basketball distance:1,26961
+39,40145;looked atBasketball
+39,40145;basketball distance:1,409183
+39,40145;basketball distance:1,269836
+39,40145;objectChessPiece Variant inside box
+39,41177;looked atBasketball
+39,41177;basketball distance:1,408237
+39,41177;basketball distance:1,26958
+39,4225;looked atBasketball
+39,4225;basketball distance:1,408276
+39,4225;basketball distance:1,269273
+39,43456;looked atBasketball
+39,43456;basketball distance:1,409004
+39,43456;basketball distance:1,27016
+39,44697;looked atBasketball
+39,44697;basketball distance:1,410676
+39,44697;basketball distance:1,267252
+39,45627;looked atBasketball
+39,45627;basketball distance:1,412714
+39,45627;basketball distance:1,264996
+39,45627;objectChessPiece Variant (1) inside box
+39,46755;looked atBasketball
+39,46755;basketball distance:1,415015
+39,46755;basketball distance:1,263038
+39,47841;looked atBasketball
+39,47841;basketball distance:1,417726
+39,47841;basketball distance:1,262462
+39,48961;looked atBasketball
+39,48961;basketball distance:1,420603
+39,48961;basketball distance:1,26226
+39,5009;looked atBasketball
+39,5009;basketball distance:1,423664
+39,5009;basketball distance:1,263138
+39,51166;looked atBasketball
+39,51166;basketball distance:1,426915
+39,51166;basketball distance:1,264713
+39,51166;objectChessPiece Variant (2) inside box
+39,52259;looked atBasketball
+39,52259;basketball distance:1,428057
+39,52259;basketball distance:1,269197
+39,5345;looked atBasketball
+39,5345;basketball distance:1,429697
+39,5345;basketball distance:1,274106
+39,54443;looked atBasketball
+39,54443;basketball distance:1,431725
+39,54443;basketball distance:1,278967
+39,55644;looked atBasketball
+39,55644;basketball distance:1,434076
+39,55644;basketball distance:1,28387
+39,56725;looked atBasketball
+39,56725;basketball distance:1,436348
+39,56725;basketball distance:1,288365
+39,57833;looked atBasketball
+39,57833;basketball distance:1,437553
+39,57833;basketball inside cart
+39,57833;basketball distance:1,292002
+39,58944;looked atBasketball
+39,58944;basketball distance:1,295586
+39,6031;looked atBasketball
+39,6031;object Basketball was grabbed
+39,6031;object Basketball 1 (1) was grabbed
+39,6031;basketball distance:1,299162
+39,61139;looked atBasketball
+39,61139;basketball distance:1,299635
+39,62266;looked atBasketball
+39,62266;basketball distance:1,299975
+39,63412;looked atBasketball
+39,63412;basketball distance:1,300123
+39,63412;objectChessPiece Variant inside box
+39,64439;looked atBasketball
+39,64439;basketball distance:1,301894
+39,65654;looked atBasketball
+39,65654;basketball distance:1,304066
+39,66661;looked atBasketball
+39,66661;basketball distance:1,306505
+39,66661;basketball inside cart
+39,67831;looked atBasketball
+39,68992;looked atBasketball
+39,68992;objectChessPiece Variant (1) inside box
+39,7004;looked atBasketball
+39,71151;looked atBasketball
+39,72292;looked atBasketball
+39,73362;looked atBasketball
+39,74444;looked atBasketball
+39,74444;objectChessPiece Variant (2) inside box
+39,75929;looked atBasketball
+39,76729;looked atBasketball
+39,77775;looked atBasketball
+39,78896;looked atBasketball
+39,80121;looked atBasketball
+39,81162;looked atBasketball
+39,82235;looked atBasketball
+39,83441;looked atBasketball
+39,83441;object Basketball was grabbed
+39,83441;object Basketball 1 (1) was grabbed
+39,84468;looked atBasketball
+39,8565;looked atBasketball
+39,86733;looked atBasketball
+39,86733;objectChessPiece Variant inside box
+39,87815;looked atBasketball
+39,8893;looked atBasketball
+39,90127;looked atBasketball
+39,91393;looked atBasketball
+39,92357;looked atBasketball
+39,92357;objectChessPiece Variant (1) inside box
+39,94905;looked atBasketball
+39,96758;looked atBasketball
+39,98438;looked atBasketball
+39,99086;looked atBasketball
+40,00217;looked atBasketball
+40,00217;objectChessPiece Variant (2) inside box
+40,02666;looked atBasketball
+40,03516;looked atBasketball
+40,04697;looked atBasketball
+40,05908;looked atBasketball
+40,07528;looked atBasketball
+40,08118;looked atBasketball
+40,1102;looked atBasketball
+40,12003;looked atBasketball
+40,1433;looked atBasketball
+40,15221;looked atBasketball
+40,15944;looked atBasketball
+40,15944;objectChessPiece Variant inside box
+40,17925;looked atBasketball
+40,20421;looked atBasketball
+40,22229;looked atBasketball
+40,24807;looked atBasketball
+40,2671;looked atRoom
+40,2671;objectChessPiece Variant (1) inside box
+40,27999;looked atRoom
+40,3051;looked atRoom
+40,31445;looked atRoom
+40,32597;looked atRoom
+40,34641;looked atRoom
+40,34641;objectChessPiece Variant (2) inside box
+40,3496;looked atRoom
+40,35885;looked atRoom
+40,37349;looked atRoom
+40,38865;looked atRoom
+40,39258;looked atRoom
+40,40294;looked atRoom
+40,41527;looked atRoom
+40,42558;looked atRoom
+40,43735;looked atRoom
+40,44835;looked atRoom
+40,46052;looked atBasketball
+40,46052;objectChessPiece Variant inside box
+40,47141;looked atBasketball
+40,48306;looked atBasketball
+40,49458;looked atBasketball
+40,5049;looked atBasketball
+40,51704;looked atBasketball
+40,51704;objectChessPiece Variant (1) inside box
+40,5279;looked atBasketball
+40,54134;looked atBasketball
+40,5569;looked atBasketball
+40,5569;basketball inside cart
+40,56116;looked atBasketball
+40,57283;looked atBasketball
+40,57283;objectChessPiece Variant (2) inside box
+40,58296;looked atBasketball
+40,59507;looked atBasketball
+40,60585;looked atBasketball
+40,61705;looked atBasketball
+40,62818;looked atBasketball
+40,64625;looked atBasketball
+40,65062;looked atBasketball
+40,66088;looked atBasketball
+40,68274;looked atBasketball
+40,70684;looked atBasketball
+40,71742;looked atBasketball
+40,71742;objectChessPiece Variant inside box
+40,72886;looked atBasketball
+40,73989;looked atBasketball
+40,75771;looked atBasketball
+40,76208;looked atBasketball
+40,77208;looked atBasketball
+40,77208;objectChessPiece Variant (1) inside box
+40,7831;looked atBasketball
+40,79557;looked atBasketball
+40,80531;looked atBasketball
+40,82356;looked atBasketball
+40,82813;looked atBasketball
+40,82813;objectChessPiece Variant (2) inside box
+40,83778;looked atBasketball
+40,85177;looked atBasketball
+40,86147;looked atBasketball
+40,88263;looked atBasketball
+40,89476;looked atBasketball
+40,90492;looked atBasketball
+40,91694;looked atBasketball
+40,92765;looked atBasketball
+40,94559;looked atBasketball
+40,95229;looked atBasketball
+40,95905;looked atBasketball
+40,95905;objectChessPiece Variant inside box
+40,99121;looked atBasketball
+40,99812;looked atBasketball
+41,00298;looked atBasketball
+41,02217;looked atBasketball
+41,02862;looked atBasketball
+41,02862;objectChessPiece Variant (1) inside box
+41,03379;looked atBasketball
+41,04474;looked atBasketball
+41,05601;looked atBasketball
+41,06666;looked atBasketball
+41,08574;looked atBasketball
+41,08574;objectChessPiece Variant (2) inside box
+41,09152;looked atBasketball
+41,09891;looked atBasketball
+41,12207;looked atBasketball
+41,1324;looked atBasketball
+41,14161;looked atBasketball
+41,15535;looked atBasketball
+41,16347;looked atShadow
+41,17441;looked atShadow
+41,18507;looked atRoom
+41,20582;looked atRoom
+41,20842;looked atRoom
+41,20842;objectChessPiece Variant inside box
+41,21877;looked atRoom
+41,23035;looked atRoom
+41,23981;looked atRoom
+41,2519;looked atCart_Basket
+41,26237;looked atRoom
+41,26237;objectChessPiece Variant (1) inside box
+41,27313;looked atRoom
+41,28459;looked atBasketball
+41,29625;looked atBasketball
+41,30811;looked atBasketball
+41,318;looked atBasketball
+41,318;objectChessPiece Variant (2) inside box
+41,32834;looked atBasketball
+41,33978;looked atBasketball
+41,35069;looked atBasketball
+41,36125;looked atBasketball
+41,37337;looked atBasketball
+41,38358;looked atBasketball
+41,39539;looked atBasketball
+41,40622;looked atBasketball
+41,41736;looked atBasketball
+41,4281;looked atCart_Basket
+41,43961;looked atBasketball
+41,43961;objectChessPiece Variant inside box
+41,45087;looked atRoom
+41,46439;looked atRoom
+41,47287;looked atRoom
+41,48357;looked atCart_Basket
+41,49554;looked atBasketball
+41,49554;objectChessPiece Variant (1) inside box
+41,50541;looked atRoom
+41,51954;looked atRoom
+41,52871;looked atBasketball
+41,53866;looked atRoom
+41,55024;looked atRoom
+41,55024;objectChessPiece Variant (2) inside box
+41,56148;looked atBasketball
+41,57256;looked atBasketball
+41,58393;looked atRoom
+41,59567;looked atRoom
+41,60579;looked atRoom
+41,61972;looked atRoom
+41,62909;looked atRoom
+41,63922;looked atRoom
+41,65156;looked atRoom
+41,66232;looked atRoom
+41,67271;looked atRoom
+41,67271;objectChessPiece Variant inside box
+41,68424;looked atRoom
+41,69568;looked atRoom
+41,70594;looked atRoom
+41,71811;looked atRoom
+41,72864;looked atRoom
+41,72864;objectChessPiece Variant (1) inside box
+41,73975;looked atRoom
+41,75091;looked atRoom
+41,76227;looked atRoom
+41,776;looked atRoom
+41,78422;looked atRoom
+41,78422;objectChessPiece Variant (2) inside box
+41,79572;looked atRoom
+41,80698;looked atRoom
+41,81806;looked atRoom
+41,82904;looked atRoom
+41,84054;looked atRoom
+41,85091;looked atRoom
+41,8619;looked atRoom
+41,87323;looked atRoom
+41,88424;looked atRoom
+41,89614;looked atRoom
+41,90657;looked atRoom
+41,90657;objectChessPiece Variant inside box
+41,91838;looked atRoom
+41,93201;looked atRoom
+41,94031;looked atRoom
+41,95162;looked atRoom
+41,96286;looked atRoom
+41,96286;objectChessPiece Variant (1) inside box
+41,97369;looked atRoom
+41,9849;looked atRoom
+41,9849;basketball inside cart
+41,9968;looked atRoom
+42,00729;looked atRoom
+42,01909;looked atRoom
+42,01909;objectChessPiece Variant (2) inside box
+42,02997;looked atRoom
+42,04041;looked atRoom
+42,05207;looked atRoom
+42,06248;looked atRoom
+42,07361;looked atRoom
+42,07361;basketball inside cart
+42,08816;looked atRoom
+42,0968;looked atRoom
+42,10703;looked atRoom
+42,11895;looked atRoom
+42,13026;looked atRoom
+42,14058;looked atRoom
+42,14058;objectChessPiece Variant inside box
+42,15217;looked atRoom
+42,16369;looked atRoom
+42,17495;looked atRoom
+42,18547;looked atRoom
+42,1972;looked atRoom
+42,1972;objectChessPiece Variant (1) inside box
+42,20824;looked atRoom
+42,21945;looked atRoom
+42,23065;looked atRoom
+42,24405;looked atRoom
+42,25272;looked atRoom
+42,25272;objectChessPiece Variant (2) inside box
+42,26416;looked atRoom
+42,27503;looked atRoom
+42,28585;looked atRoom
+42,29774;looked atRoom
+42,30803;looked atRoom
+42,31976;looked atRoom
+42,33157;looked atRoom
+42,34158;looked atRoom
+42,35315;looked atRoom
+42,36435;looked atRoom
+42,37518;looked atRoom
+42,37518;objectChessPiece Variant inside box
+42,38619;looked atRoom
+42,40042;looked atRoom
+42,40935;looked atRoom
+42,42082;looked atRoom
+42,43133;looked atRoom
+42,43133;objectChessPiece Variant (1) inside box
+42,44198;looked atRoom
+42,45362;looked atRoom
+42,46414;looked atRoom
+42,47532;looked atRoom
+42,48664;looked atRoom
+42,48664;objectChessPiece Variant (2) inside box
+42,49805;looked atRoom
+42,50859;looked atRoom
+42,52065;looked atRoom
+42,53164;looked atRoom
+42,54199;looked atRoom
+42,55635;looked atRoom
+42,56409;looked atRoom
+42,57565;looked atRoom
+42,58643;looked atRoom
+42,59828;looked atRoom
+42,60912;looked atRoom
+42,60912;objectChessPiece Variant inside box
+42,62012;looked atRoom
+42,63205;looked atRoom
+42,64204;looked atRoom
+42,6538;looked atRoom
+42,66494;looked atRoom
+42,66494;objectChessPiece Variant (1) inside box
+42,67568;looked atRoom
+42,68692;looked atRoom
+42,69877;looked atRoom
+42,71192;looked atRoom
+42,7202;looked atRoom
+42,7202;objectChessPiece Variant (2) inside box
+42,73188;looked atRoom
+42,74239;looked atRoom
+42,75416;looked atRoom
+42,76521;looked atRoom
+42,77606;looked atRoom
+42,78712;looked atRoom
+42,79908;looked atRoom
+42,80965;looked atRoom
+42,8209;looked atRoom
+42,8321;looked atRoom
+42,8321;basketball inside cart
+42,8424;looked atRoom
+42,8424;objectChessPiece Variant inside box
+42,85422;looked atRoom
+42,86761;looked atRoom
+42,87641;looked atRoom
+42,88731;looked atRoom
+42,89906;looked atRoom
+42,89906;objectChessPiece Variant (1) inside box
+42,90981;looked atRoom
+42,92105;looked atRoom
+42,93176;looked atRoom
+42,94257;looked atRoom
+42,95475;looked atRoom
+42,95475;objectChessPiece Variant (2) inside box
+42,96515;looked atRoom
+42,97634;looked atRoom
+42,9873;looked atRoom
+42,99864;looked atRoom
+43,01015;looked atRoom
+43,02378;looked atRoom
+43,03256;looked atRoom
+43,04308;looked atRoom
+43,05426;looked atRoom
+43,0658;looked atRoom
+43,07669;looked atRoom
+43,07669;objectChessPiece Variant inside box
+43,08839;looked atRoom
+43,10164;looked atRoom
+43,1098;looked atRoom
+43,12064;looked atRoom
+43,13258;looked atRoom
+43,13258;objectChessPiece Variant (1) inside box
+43,1429;looked atRoom
+43,15509;looked atRoom
+43,16582;looked atRoom
+43,17988;study ended
+43,17988;looked atRoom
+43,17988;objectChessPiece Variant (2) inside box
+43,17988;objectChessPiece Variant inside box
+43,17988;objectChessPiece Variant (1) inside box
+43,17988;objectChessPiece Variant (2) inside box
+43,17988;objectChessPiece Variant inside box
+43,17988;objectChessPiece Variant (1) inside box
+43,17988;objectChessPiece Variant (2) inside box
+43,17988;objectChessPiece Variant inside box
+43,17988;objectChessPiece Variant (1) inside box
+43,17988;objectChessPiece Variant (2) inside box
+43,17988;objectChessPiece Variant inside box
+43,17988;objectChessPiece Variant (1) inside box
+43,17988;objectChessPiece Variant (2) inside box

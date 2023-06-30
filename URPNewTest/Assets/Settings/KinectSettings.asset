@@ -12,15 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: db4f3a1b0ecee8c47bb73cab867939bd, type: 3}
   m_Name: KinectSettings
   m_EditorClassIdentifier: 
-  _autoExposure: 1
-  _exposure: -6
+  _autoExposure: 0
+  _exposure: -11
   _autoWhiteBalance: 1
   _whiteBalance: 3500
-  _brightness: 0.5
-  _contrast: 0.5
-  _saturation: 0.5
-  _sharpness: 0.506
+  _brightness: 0.43
+  _contrast: 0.491
+  _saturation: 0.584
+  _sharpness: 0.625
   _gain: 1
   _enableBlc: 0
   _powerIs60Hz: 1
-  _maxDepth: 5.2
+  _maxDepth: 4.24

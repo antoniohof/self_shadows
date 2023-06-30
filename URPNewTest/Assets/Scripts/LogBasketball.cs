@@ -19,6 +19,9 @@ public class LogBasketball : MonoBehaviour
     public GameObject handR;
     public GameObject handL;
 
+    bool inside = false;
+
+
     void Start()
     {
         
@@ -47,8 +50,10 @@ public class LogBasketball : MonoBehaviour
         if (distance < 2.5f)
         {
             checker++;
-
-            log.writeMessageWithTimestampToLog("basketball distance:" + distance.ToString());
+            if (!inside)
+            {
+                log.writeMessageWithTimestampToLog("basketball distance:" + distance.ToString());
+            }
 
 
             if (checker > 200)
@@ -56,6 +61,7 @@ public class LogBasketball : MonoBehaviour
                 if (distance < 1.7f)
                 {
                     log.writeMessageWithTimestampToLog("basketball inside cart");
+                    inside = true;
                 }
                 checker = 0;
             }
